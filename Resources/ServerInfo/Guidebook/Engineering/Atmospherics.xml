@@ -1,39 +1,41 @@
 <Document>
-  # Atmospherics
+  # Atmosferica
 
-  Atmospherics setups are a necessity for your long-term comfort, but are generally underdocumented, resulting in them being a bit tricky to set up. The following attempts to cover the basics.
+  Gli impianti di atmospherics sono necessari per il comfort a lungo termine, ma sono generalmente poco documentati, rendendo la loro configurazione un po' complicata. Quanto segue tenta di coprire le basi.
 
-  ## Standard Mix
-  Breathing pure O2 or pure N2 is generally bad for the health of your crew, and it is recommended to instead aim for a mix of [color=#a4885c]78% N2 and 22% O2 at 101.24kPa.[/color] It's recommended that your gas mixer setup be set to output at least 300kPA for faster re-pressurization of rooms, without posing too much of an overpressurization risk, should traitors sabotage the distro.
+  ## Mix Standard
+  Respirare puro O2 o puro N2 è generalmente dannoso per la salute dell'equipaggio, e si consiglia invece di mirare a una miscela di [color=#a4885c]78% N2 e 22% O2 a 101,24 kPa.[/color] Si consiglia di impostare il mixer del gas per erogare almeno 300 kPa per una rapida ripressurizzazione delle stanze, senza comportare un rischio eccessivo di sovrapressurizzazione nel caso in cui i traditori sabotino il sistema di distribuzione.
   <Box>
     <GuideEntityEmbed Entity="OxygenCanister"/>
     <GuideEntityEmbed Entity="NitrogenCanister"/>
     <GuideEntityEmbed Entity="AirCanister"/>
   </Box>
-  Variations on this mix may be necessary for the long-term comfort of atypical crew, (for example, Voxes, who are poisoned by Oxygen and breathe Nitrogen). For atypical crew (to be implemented), it is recommended to try and give them their own personal space, isolated by either an airlock or disposals section. Keep in mind that both methods are leaky and you will need scrubbers on both sides of the lock to clean up any leaked gasses.
+  Potrebbero essere necessarie variazioni di questa miscela per il comfort a lungo termine di equipaggi atipici (ad esempio, i Vox, che sono avvelenati dall'ossigeno e respirano azoto). Per gli equipaggi atipici (da implementare), si consiglia di cercare di dare loro uno spazio personale, isolato da una camera stagna o una sezione di scarico. Tieni presente che entrambi i metodi sono soggetti a perdite e sarà necessario disporre di scrubber su entrambi i lati della serratura per pulire eventuali gas fuoriusciti.
   <Box>
     <GuideEntityEmbed Entity="NitrogenCanister"/>
     <GuideEntityEmbed Entity="StorageCanister"/>
   </Box>
-  ## Vents and Scrubbers
-  Vents and scrubbers are core atmospherics devices that fill and cleanse rooms, respectively. By default, they are configured for filling rooms to standard pressure (101.24kPa) and to remove all non-O2/N2 gasses from a room. They can be reconfigured from their default settings by linking them to an Air Alarm, allowing you to configure how they respond to various types of gasses or pressure levels.
-
+  
+  ## Bocchette e Scrubber
+  Le bocchette e gli scrubber sono dispositivi di base dell'atmosferica che riempiono e puliscono le stanze, rispettivamente. Di default, sono configurati per riempire le stanze alla pressione standard (101,24 kPa) e per rimuovere tutti i gas non O2/N2 da una stanza. Possono essere riconfigurati dalle loro impostazioni predefinite collegandoli a un Allarme dell'Aria, permettendoti di configurare come rispondono a vari tipi di gas o livelli di pressione.
+  
   <Box>
     <GuideEntityEmbed Entity="GasVentPump"/>
     <GuideEntityEmbed Entity="GasVentScrubber"/>
   </Box>
-  During standard operation, if a normal vent detects that the outside environment is space, it will automatically cease operation until a minimum pressure is reached to avoid destruction of useful gasses. This can be fixed by pressurizing the room up to that minimum pressure by refilling it with gas canister (potentially multiple, if the room is of significant size).
-
-  Should you encounter a situation where scrubbers aren't cleaning a room fast enough (and the "Siphon" functionality still cannot keep up), employ portable scrubbers by dragging them to the affected location and wrenching them down. They work much faster than typical scrubbers and can clean up a room quite quickly. Large spills may require you to employ multiple.
+  Durante il funzionamento standard, se una bocchetta normale rileva che l'ambiente esterno è lo spazio, interromperà automaticamente il funzionamento fino a raggiungere una pressione minima per evitare la distruzione di gas utili. Questo può essere risolto pressurizzando la stanza fino a quella pressione minima riempiendola con bombole di gas (potenzialmente multiple, se la stanza è di dimensioni significative).
+  
+  Se ti trovi in una situazione in cui gli scrubber non puliscono una stanza abbastanza velocemente (e la funzionalità "Siphon" non riesce ancora a tenere il passo), usa scrubber portatili trascinandoli nella posizione interessata e fissandoli con una chiave inglese. Funzionano molto più velocemente degli scrubber tipici e possono pulire rapidamente una stanza. Grandi fuoriuscite potrebbero richiedere l'uso di più unità.
   <Box>
     <GuideEntityEmbed Entity="PortableScrubber"/>
   </Box>
-  # Gas mixes and Burn chambers
-  In the event you finish all the tasks at hand, you can make some extra money by creating new chemical gasses.
+  
+  # Miscele di Gas e Camere di Combustione
+  Nel caso tu finisca tutti i compiti a portata di mano, puoi guadagnare qualche soldo extra creando nuovi gas chimici.
 
-  ##Tritium
-  Tritium is a clear, green gas that is highly flammable, radioactive, and combusts when in contact with oxygen, making it very helpful when running the [color=#a4885c]TEG[/color].
-  It can be made by burning 1% Plasma and 96% or more Oxygen in the Burn Chamber (Ideal ratio is 3% Plasma to 97% Oxygen). You can extract this gas through scrubbers.
+  ## Tritio
+  Il tritio è un gas verde chiaro, altamente infiammabile, radioattivo e combustibile a contatto con l'ossigeno, il che lo rende molto utile per il funzionamento del [color=#a4885c]TEG[/color].
+  Può essere prodotto bruciando 1% di Plasma e 96% o più di Ossigeno nella Camera di Combustione (il rapporto ideale è 3% Plasma e 97% Ossigeno). Puoi estrarre questo gas tramite gli scrubber.
 
   <Box>
     <GuideEntityEmbed Entity="PlasmaCanister"/>
@@ -42,8 +44,8 @@
     <GuideEntityEmbed Entity="TritiumCanister"/>
   </Box>
 
-  ##Frezon
-  Frezon is a bluish-green gas that is very complex and very dangerous. To obtain frezon, you must mix Tritium, Oxygen, and Nitrogen in a 70K room to start the reaction, and prevent the Tritium from combusting with the oxygen.
+  ## Frezon
+  Il frezon è un gas verde-blu molto complesso e pericoloso. Per ottenere il frezon, devi mescolare tritio, ossigeno e azoto in una stanza a 70K per avviare la reazione e impedire che il tritio combusti con l'ossigeno.
 
   <Box>
     <GuideEntityEmbed Entity="TritiumCanister"/>
@@ -52,16 +54,15 @@
     <GuideEntityEmbed Entity="StorageCanister" Caption="Frezon Canister"/>
   </Box>
 
-  It is critical to understand that a frezon leak can devastate the station, causing a wintery hell filled with itchy sweaters and cold burns. Frezon is very cold, and can freeze the station to death if even a few moles get out, so make sure that you lock your canisters or just move your Frezon straight into a storage room.
+  È fondamentale capire che una perdita di frezon può devastare la stazione, causando un inferno invernale pieno di maglioni pruriginosi e ustioni da freddo. Il frezon è molto freddo e può congelare la stazione a morte se anche solo poche moli sfuggono, quindi assicurati di bloccare le tue bombole o semplicemente di spostare il frezon direttamente in una stanza di stoccaggio.
 
-  ## Reference Sheet
-  - Standard atmospheric mix is [color=#a4885c]78% N2 and 22% O2 at 101.24kPa.[/color]
-  - Gas obeys real math. You can use the equation:
+  ## Scheda di Riferimento
+  - La miscela atmosferica standard è [color=#a4885c]78% N2 e 22% O2 a 101,24 kPa.[/color]
+  - I gas obbediscono alle leggi matematiche reali. Puoi usare l'equazione:
   <Box>
     [color=cyan]PV = nRT[/color]
   </Box>
   <Box>
-    ([color=#a4885c]Pressure kPa * Volume L = Moles * R * Temperature K[/color])
-  </Box> to derive information you might need to know about a gas. R is approximately 8.31446.
-
+    ([color=#a4885c]Pressione kPa * Volume L = Mol * R * Temperatura K[/color])
+  </Box> per derivare le informazioni che potresti aver bisogno di sapere su un gas. R è approssimativamente 8,31446.
 </Document>

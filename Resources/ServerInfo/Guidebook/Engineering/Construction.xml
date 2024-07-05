@@ -1,11 +1,11 @@
 <Document>
-  # Construction
+  # Costruzione
 
-  By pressing [color=#a4885c][keybind="OpenCraftingMenu"][/color], one can open the construction menu, which allows you to craft and build a variety of objects.
+  Premendo [color=#a4885c][keybind="OpenCraftingMenu"][/color], puoi aprire il menu di costruzione, che ti permette di creare e costruire una varietà di oggetti.
 
-  When placing objects that "snap" to the grid, you can hold [color=#a4885c]Shift[/color] to place an entire line at a time, and [color=#a4885c]Ctrl[/color] to place an entire grid at a time.
+  Quando posizioni oggetti che "si agganciano" alla griglia, puoi tenere premuto [color=#a4885c]Shift[/color] per posizionare un'intera linea alla volta e [color=#a4885c]Ctrl[/color] per posizionare un'intera griglia alla volta.
 
-  When crafting objects with a lot of ingredients, keep in mind you don't have to hold everything at once; you can simply place the ingredients on the floor, in your backpack or on a table near you, and they'll be used up during crafting like normal.
+  Quando crei oggetti con molti ingredienti, ricorda che non devi tenere tutto in mano contemporaneamente; puoi semplicemente posizionare gli ingredienti sul pavimento, nel tuo zaino o su un tavolo vicino a te, e verranno utilizzati durante la creazione come di consueto.
 
-  When placing a "building ghost" somewhere in the world, press [color=#a4885c][keybind="EditorRotateObject"][/color] to rotate the ghost clockwise. If you are building a mirrorable component (think: Gas Mixers/Filters), you can press [color=#a4885c][keybind="EditorFlipObject"][/color] to flip the ghost.
+  Quando posizioni un "fantasma di costruzione" da qualche parte nel mondo, premi [color=#a4885c][keybind="EditorRotateObject"][/color] per ruotare il fantasma in senso orario. Se stai costruendo un componente specchiabile (pensa: miscelatori/filtro del gas), puoi premere [color=#a4885c][keybind="EditorFlipObject"][/color] per capovolgere il fantasma.
 </Document>

@@ -1,29 +1,28 @@
 <Document>
-  # Fires & Space
+  # Incendi e Spazi
 
-  Fires and spacings are an inevitability due to the highly flammable plasma gas and the endless vacuum of space present in and around the station, so it's important to know how to manage them.
+  Gli incendi e le decompressioni nello spazio sono inevitabili a causa del gas al plasma altamente infiammabile e del vuoto infinito dello spazio presenti nella stazione e intorno ad essa, quindi è importante sapere come gestirli.
 
-  ## Spacing
-  Space is arguably the easier of the two to handle. Be aware; active spacings will slowly siphon the air out of the station's air reserves. If you find it impossible to fix structural damage due to some other hazard, make sure to limit the airflow to that room. (Currently only half-valid due to the Gas Miners infinitely replenishing most of the useful gases)
+  ## Decompressioni
+  Lo spazio è probabilmente il più facile dei due da gestire. Ricorda che le decompressioni attive aspirano lentamente l'aria dalle riserve d'aria della stazione. Se trovi impossibile riparare danni strutturali a causa di qualche altro pericolo, assicurati di limitare il flusso d'aria verso quella stanza. (Attualmente valido solo in parte a causa dei Gas Miners che riforniscono infinitamente la maggior parte dei gas utili)
 
-  While it does render an area uninhabitable, it can be trivially solved by simply following a two step process. Step one is to seal the hole that caused the vacuum.
+  Anche se rende un'area inabitabile, può essere risolta facilmente seguendo un processo in due fasi. Il primo passo è sigillare il buco che ha causato il vuoto.
 
-  Step two is to repressurize the affected area. Note that the affected area will NOT fill from the station's distro network by default. Some atmospheric devices, specifically air vents, have built-in safeguards that cause the device to be disabled if pressure in a room drops too low. This features prevents spacings from venting the distro network unintentionally.
+  Il secondo passo è ripressurizzare l'area interessata. Nota che l'area interessata NON si riempirà dalla rete di distribuzione della stazione per impostazione predefinita. Alcuni dispositivi atmosferici, in particolare le prese d'aria, hanno salvaguardie integrate che disabilitano il dispositivo se la pressione in una stanza scende troppo. Questa caratteristica impedisce alle decompressioni di sfiatare involontariamente la rete di distribuzione.
 
-  As a result, there are three main options to repressurize the affected area:
+  Di conseguenza, ci sono tre opzioni principali per ripressurizzare l'area interessata:
 
-  1. Assuming distro vents and pipes have not been destroyed in some unfortunate accident, you may set surrounding air alarms to the "Fill" setting. This will cause connected air vents to override their safeguards and begin repressurizing the area.
-    - Be aware this setting also allows vents to OVERpressure a room, so this process must be monitored at all times.
+  1. Supponendo che le prese d'aria e i tubi di distribuzione non siano stati distrutti in qualche sfortunato incidente, puoi impostare gli allarmi d'aria circostanti sulla modalità "Fill". Questo farà sì che le prese d'aria collegate ignorino le loro salvaguardie e inizino a ripressurizzare l'area.
+    - Tieni presente che questa impostazione consente anche alle prese d'aria di sovrappressurizzare una stanza, quindi questo processo deve essere monitorato costantemente.
 
-  2. Another option is to open any firelocks that were engaged in response to the original spacing. This will cause the pressure to equalize between both areas.
-    - This option generally causes more firelocks to engage in the surrounding area, potentially causing disruptions or making the second area unsafe for station crew.
+  2. Un'altra opzione è aprire tutte le serrande antincendio che si sono attivate in risposta alla decompressione originale. Questo farà sì che la pressione si equalizzi tra le due aree.
+    - Questa opzione generalmente provoca l'attivazione di più serrande antincendio nell'area circostante, potenzialmente causando interruzioni o rendendo la seconda area non sicura per l'equipaggio della stazione.
 
-  3. The final option is to bring a canister into the spaced area and open its release valve. An air canister at 4500kpa can fully repressurize around 20-30 tiles before running out of gas.
-    - This option requires the canister be brought in from outisde (generally atmos) which can be slow and time consuming depending on the situation.
+  3. L'ultima opzione è portare un contenitore nell'area decompressa e aprire la sua valvola di rilascio. Un contenitore d'aria a 4500kpa può ripressurizzare completamente circa 20-30 piastrelle prima di esaurire il gas.
+    - Questa opzione richiede che il contenitore venga portato dall'esterno (generalmente dall'atmosfera), il che può essere lento e richiedere tempo a seconda della situazione.
 
-
-  ## Fires
-  Fires can be dealt with through a multitude of ways, but some of the most effective methods include:
-    - Spacing the enflamed area if possible. This will destroy all of the gasses in the room, which may be a problem if you're already straining life support.
-    - Dumping a Frezon canister into the enflamed area. This will ice over the flames and halt any ongoing reaction, provided you use enough Frezon. Additionally, this does not result in destruction of material, so you can simply scrub the room afterwards.
+  ## Incendi
+  Gli incendi possono essere affrontati in diversi modi, ma alcuni dei metodi più efficaci includono:
+    - Decomprimere l'area incendiata se possibile. Questo distruggerà tutti i gas nella stanza, il che potrebbe essere un problema se stai già sforzando il supporto vitale.
+    - Scaricare un contenitore di Frezon nell'area incendiata. Questo ghiaccerà le fiamme e interromperà qualsiasi reazione in corso, a patto che si usi abbastanza Frezon. Inoltre, questo non comporta la distruzione dei materiali, quindi puoi semplicemente pulire la stanza in seguito.
 </Document>

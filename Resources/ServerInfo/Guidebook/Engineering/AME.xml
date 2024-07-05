@@ -1,25 +1,25 @@
 <Document>
-  # Antimatter Engine (AME)
+  # Motore ad Antimateria (AME)
 
-  The AME is one of the simplest engines available. You put together the multi-tile structure, stick some fuel into it, and you're all set. This doesn't mean it is perfectly safe though; you may need to deal with the AME overheating.
+  L'AME è uno dei motori più semplici disponibili. Basta assemblare la struttura multi-tile, inserire un po' di carburante e il gioco è fatto. Tuttavia, questo non significa che sia perfettamente sicuro; potrebbe essere necessario gestire il surriscaldamento dell'AME.
 
-  ## Construction
-  <Box>Required parts:</Box>
+  ## Costruzione
+  <Box>Componenti richiesti:</Box>
   <Box>
   <GuideEntityEmbed Entity="AmeController"/>
   <GuideEntityEmbed Entity="AmePartFlatpack"/>
   <GuideEntityEmbed Entity="AmeJar"/>
   </Box>
 
-  To assemble an AME, start by wrenching down the controller on the near end of a HV wire. On most stations, there's catwalks to assist with this. From there, start putting down a 3x3 or larger square of AME parts in preparation for construction, making sure to maximize the number of "center" pieces that are surrounded on all 8 sides.
+  Per assemblare un AME, inizia ancorando il controller all'estremità vicina di un cavo HV. Nella maggior parte delle stazioni, ci sono passerelle per assistere con questo. Da lì, inizia a posizionare un quadrato 3x3 o più grande di parti AME in preparazione per la costruzione, assicurandoti di massimizzare il numero di pezzi "centrali" circondati su tutti e 8 i lati.
 
-  Once this is done, you can use a multitool to convert each AME part into shielding, which should form a finished AME configuration. From there, insert a fuel jar, set the fuel rate to [color=#a4885c]twice the core count or less[/color], and turn on injection. Any more than this ratio will eventually result in the engine [color=#ff0000]overheating and[/color], shortly afterwards, [color=#ff0000]exploding[/color].
+  Una volta fatto ciò, puoi utilizzare un multitool per convertire ogni parte dell'AME in schermatura, che dovrebbe formare una configurazione AME completa. Da lì, inserisci un barattolo di carburante, imposta il tasso di iniezione del carburante su [color=#a4885c]due volte il numero di nuclei[/color] o meno, e attiva l'iniezione. Qualsiasi valore superiore a questo rapporto comporterà eventualmente il [color=#ff0000]surriscaldamento e[/color], poco dopo, [color=#ff0000]l'esplosione[/color] del motore.
 
-  ## Fuel Economy
-  The closer you are to the perfect ratio of [color=#a4885c]1:2[/color] AME cores to fuel injection rate, the more efficient you'll be. You're cutting fuel efficiency to [color=#a4885c]50% and less[/color] if you're using more cores, but a lower fuel injection rate.
-  For an example, [color=#76db91]3 cores and 6 fuel injected[/color] will generate [color=#76db91]240kW[/color], while  [color=#f0684d]8 cores and 8 fuel injected[/color] will generate [color=#f0684d]160kW[/color]; you'd be generating 80kW less while spending 2 more fuel per injection.
+  ## Economia del Carburante
+  Più ci si avvicina al rapporto perfetto di [color=#a4885c]1:2[/color] tra nuclei dell'AME e tasso di iniezione del carburante, più efficiente sarà. Si riduce l'efficienza del carburante a [color=#a4885c]50% o meno[/color] se si utilizzano più nuclei, ma con un tasso di iniezione del carburante inferiore.
+  Per esempio, [color=#76db91]3 nuclei e 6 carburante iniettato[/color] genereranno [color=#76db91]240 kW[/color], mentre [color=#f0684d]8 nuclei e 8 carburante iniettato[/color] genereranno [color=#f0684d]160 kW[/color]; genererai 80 kW in meno mentre spendi 2 unità di carburante in più per iniezione.
 
-  ## Upgrading the AME
+  ## Aggiornare l'AME
 
-  You can generally only upgrade the AME by installing more cores, which can be done by ordering more AME flatpacks from [color=#a4885c]Cargo[/color].
+  In genere, puoi aggiornare l'AME solo installando più nuclei, cosa che può essere fatta ordinando più flatpack AME da [color=#a4885c]Cargo[/color].
 </Document>

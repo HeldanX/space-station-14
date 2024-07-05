@@ -1,34 +1,34 @@
 <Document>
-  # Access Configurator
-  The access configurator is a tool used to specify what type of personnel may use certain devices.
+  # Configuratore di Accesso
+  Il configuratore di accesso è uno strumento utilizzato per specificare quale tipo di personale può utilizzare determinati dispositivi.
 
   <Box>
-	  <GuideEntityEmbed Entity="AccessConfigurator" Caption="access configurator"/>
+	  <GuideEntityEmbed Entity="AccessConfigurator" Caption="Configuratore di Accesso"/>
   </Box>
 
-  Configurable devices can include airlocks, secure crates and lockers, as well as access restricted machines.
-  Note: Airlocks can have their accesses configured by the [color=#a4885c]Network Configurator[/color] (or multitool), for convenience.
+  I dispositivi configurabili possono includere portelloni, casse e armadietti sicuri, nonché macchine con accesso ristretto.
+  Nota: I portelloni possono avere i loro accessi configurati tramite il [color=#a4885c]Configuratore di Rete[/color] (o multitool), per comodità.
 
-  ## Where to find Access Configurators
-  Each station is equipped with up to two access configurators. The first is in the possession of the Chief Engineer, while the second can be found with the Head of Personnel.
+  ## Dove trovare i Configuratori di Accesso
+  Ogni stazione è dotata di un massimo di due configuratori di accesso. Il primo è in possesso del Capo Ingegnere, mentre il secondo può essere trovato presso il Capo del Personale.
 
-  ## How to use the access configurator
-  To modify a device using the access configurator:
-  - First, use the access configurator on the chosen device to link them together. This will automatically open the configurator UI.
-  - Next, insert an ID card into the access configurator.
-  - Set the access requirements of the connected device. What requirements can be added or removed will depend upon the access privileges of the inserted ID card.
-  - Any changes made will be applied [color=#a4885c]immediately[/color] - simply eject the ID card from the access configurator and close the UI when you are done.
+  ## Come usare il configuratore di accesso
+  Per modificare un dispositivo utilizzando il configuratore di accesso:
+  - Prima di tutto, usa il configuratore di accesso sul dispositivo scelto per collegarli insieme. Questo aprirà automaticamente l'interfaccia del configuratore.
+  - Successivamente, inserisci una tessera ID nel configuratore di accesso.
+  - Imposta i requisiti di accesso del dispositivo collegato. I requisiti che possono essere aggiunti o rimossi dipenderanno dai privilegi di accesso della tessera ID inserita.
+  - Eventuali modifiche apportate verranno applicate [color=#a4885c]immediatamente[/color] - semplicemente espelli la tessera ID dal configuratore di accesso e chiudi l'interfaccia quando hai finito.
 
-  ## Restrictions on changing access
-  As a safety precaution, the inserted ID must possess [bold]all[/bold] of the access requirements that are currently active on the connected device in order to modify it.
+  ## Restrizioni sulla modifica dell'accesso
+  Come precauzione di sicurezza, la tessera ID inserita deve possedere [bold]tutti[/bold] i requisiti di accesso attualmente attivi sul dispositivo collegato per poterlo modificare.
 
-  For example, a device which can be access by both 'Science' and 'Medical' personnel can only by modified using an ID card that has access to [color=#a4885c]both[/color] of these departments.
-  The access configurator will warn the user if the inserted ID card does not have sufficient privileges to modify a device.
+  Ad esempio, un dispositivo accessibile sia dal personale della 'Scienza' che dal personale 'Medico' può essere modificato solo utilizzando una tessera ID che ha accesso a [color=#a4885c]entrambi[/color] questi dipartimenti.
+  Il configuratore di accesso avviserà l'utente se la tessera ID inserita non ha sufficienti privilegi per modificare un dispositivo.
 
-  A device with no access requirements set, like a public access airlock, can be modified using any valid station ID card.
+  Un dispositivo senza requisiti di accesso impostati, come un portellone ad accesso pubblico, può essere modificato utilizzando qualsiasi tessera ID valida della stazione.
 
-  ## Repairing damaged ID card readers
-  Syndicate agents may attempt to hack access restricted devices through the use of a [color=#a4885c]Cryptographic Sequencer (EMAG)[/color]. This nefarious tool will completely short out any ID card readers that are attached to the device.
+  ## Riparazione dei lettori di tessere ID danneggiati
+  Gli agenti del Sindacato possono tentare di hackerare dispositivi con accesso ristretto utilizzando un [color=#a4885c]Sequenziatore Criptografico (EMAG)[/color]. Questo strumento nefasto cortocircuiterà completamente qualsiasi lettore di tessere ID collegato al dispositivo.
 
-  Engineers will need to partially de/reconstruct affected devices, and then set appropriate access permissions afterwards using the access configurator (or network configurator, for airlocks), to re-establish access restrictions.
+  Gli ingegneri dovranno parzialmente de/ristrutturare i dispositivi interessati e poi impostare i permessi di accesso appropriati utilizzando il configuratore di accesso (o il configuratore di rete, per i portelloni) per ristabilire le restrizioni di accesso.
 </Document>

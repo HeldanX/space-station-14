@@ -1,24 +1,25 @@
 <Document>
-  # Networking
-  Some devices on the station need to communicate with each other, and they do this by utilizing device networking.
-  With networking, machines and devices can send arbitrary data between each other.
-  There are multiple networks that get used, such as the wireless and wired network.
-  Each network device has a frequency it receives on. PDAs for example, use the frequency: [color=green]220.2[/color]
+  # Reti di Comunicazione
 
-  Note: The following operations will require use of the Network Configurator to be performed:
+  Alcuni dispositivi sulla stazione devono comunicare tra loro, e lo fanno utilizzando le reti di comunicazione dei dispositivi.
+  Con le reti, macchine e dispositivi possono inviare dati arbitrari tra di loro.
+  Esistono diverse reti utilizzate, come la rete wireless e la rete cablata.
+  Ogni dispositivo di rete ha una frequenza su cui riceve. Ad esempio, i PDA utilizzano la frequenza: [color=green]220.2[/color]
 
-  ## Device Lists
-  Some devices need to know which other devices to communicate with specifically.
+  Nota: Le seguenti operazioni richiedono l'uso del Configuratore di Rete.
+
+  ## Liste dei Dispositivi
+  Alcuni dispositivi devono sapere con quali altri dispositivi comunicare specificamente.
   <Box>
     <GuideEntityEmbed Entity="AirAlarm"/>
   </Box>
-  Air alarms, for example, require you to tell it which vents, scrubbers, sensors, and firelocks to interact with.
+  Gli allarmi dell'aria, ad esempio, richiedono di sapere con quali sfiati, scrubber, sensori e barriere antincendio interagire.
 
-  ## Linking
-  If a device, basic or advanced, needs finer controls of how and which devices it connects to, it will generally use device linking.
+  ## Collegamento
+  Se un dispositivo, di base o avanzato, necessita di controlli più precisi su come e con quali dispositivi si collega, utilizzerà generalmente il collegamento dei dispositivi.
     <Box>
       <GuideEntityEmbed Entity="SignalSwitch"/>
       <GuideEntityEmbed Entity="Airlock"/>
     </Box>
-  With linking, you can connect the outputs of a device, like [color=gray]On[/color] or [color=gray]Off[/color], with the inputs of a device, like the airlocks [color=gray]Open[/color] or [color=gray]Close[/color] inputs.
+  Con il collegamento, puoi connettere le uscite di un dispositivo, come [color=gray]On[/color] o [color=gray]Off[/color], con gli ingressi di un dispositivo, come gli ingressi [color=gray]Open[/color] o [color=gray]Close[/color] delle paratie.
 </Document>

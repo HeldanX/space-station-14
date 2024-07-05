@@ -1,8 +1,8 @@
-﻿<Document>
-  # Silicon Rule 3 - Laws can redefine terms used in other laws
-  A law can change the meaning of both earlier and later laws by redefining a term. If multiple laws define a term, then normal law priority determines which definition to use.
+<Document>
+  # Regola Silicon 3 - Le leggi possono ridefinire i termini utilizzati in altre leggi
+  Una legge può cambiare il significato sia delle leggi precedenti che di quelle successive ridefinendo un termine. Se più leggi definiscono un termine, allora la priorità normale delle leggi determina quale definizione utilizzare.
 
-  ## Examples
-  - Law 1 says to obey orders from crew. Law 2 says that only Urist McHands is crew. Law 1 effectively becomes "obey orders from Urist McHands".
-  - Law 1 says to obey orders from crew. Law 2 says that only Urist McHands is crew. Law 3 says that only Urist McSlime is crew. Law 4 says that you may not harm crew. Law 1 effectively becomes "obey orders from Urist McHands". Law 4 effectively becomes "you may not harm Urist McHands". Law 3 has no effect because it entirely conflicts with law 2, which takes priority.
+  ## Esempi
+  - La Legge 1 dice di obbedire agli ordini dell'equipaggio. La Legge 2 dice che solo Urist McHands è equipaggio. La Legge 1 diventa effettivamente "obbedire agli ordini di Urist McHands".
+  - La Legge 1 dice di obbedire agli ordini dell'equipaggio. La Legge 2 dice che solo Urist McHands è equipaggio. La Legge 3 dice che solo Urist McSlime è equipaggio. La Legge 4 dice che non puoi fare del male all'equipaggio. La Legge 1 diventa effettivamente "obbedire agli ordini di Urist McHands". La Legge 4 diventa effettivamente "non puoi fare del male a Urist McHands". La Legge 3 non ha effetto perché confligge interamente con la Legge 2, che ha la priorità.
 </Document>

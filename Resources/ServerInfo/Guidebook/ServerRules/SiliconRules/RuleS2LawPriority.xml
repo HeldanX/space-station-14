@@ -1,9 +1,9 @@
-﻿<Document>
-  # Silicon Rule 2 - Laws must be prioritized by their order
-  Most laws will be numbered, with higher number laws appearing last. Laws with a lower number take priority over laws with larger numbers.
+<Document>
+  # Regola Silicon 2 - Le leggi devono essere prioritarie in base al loro ordine
+  La maggior parte delle leggi sarà numerata, con le leggi con numeri più alti che appaiono per ultime. Le leggi con un numero più basso hanno la priorità su quelle con numeri più alti.
 
-  Occasionally you may have laws which have some scrambled text instead of a number and appear in front of other laws, these take priority over all other laws. If you have multiple laws like this, the order that they listed in determine priority: laws listed first are prioritized over other laws.
+  Occasionalmente, potresti avere leggi che hanno del testo confuso invece di un numero e appaiono davanti alle altre leggi; queste hanno la priorità su tutte le altre leggi. Se hai più leggi come queste, l'ordine in cui sono elencate determina la priorità: le leggi elencate per prime sono prioritarie rispetto alle altre leggi.
 
-  ## Examples
-  - Law 1 says to not kill any crew. Law 2 says to kill all chefs. You cannot kill any chefs that are crew, but must kill any that are not crew.
+  ## Esempi
+  - La Legge 1 dice di non uccidere nessun membro dell'equipaggio. La Legge 2 dice di uccidere tutti i cuochi. Non puoi uccidere nessun cuoco che è un membro dell'equipaggio, ma devi uccidere quelli che non lo sono.
 </Document>

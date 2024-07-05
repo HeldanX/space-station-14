@@ -1,81 +1,81 @@
 <Document>
-  # Space Ninja
+  # Ninja Spaziale
 
-  The [color=#66FF00]Space Ninja[/color] is a ghost role randomly available mid-late game. If you pick it you will be given your gear, your objectives, and the greeting.
+  Il [color=#66FF00]Ninja Spaziale[/color] è un ruolo fantasma disponibile casualmente a metà-fine partita. Se lo scegli, riceverai il tuo equipaggiamento, i tuoi obiettivi e il saluto.
 
-  You are a ninja, but in space. [color=#66FF00]The Spider Clan[/color] has sent you to the station to wreak all kinds of havoc, and you are equipped to keep it silent-but-deadly.
+  Sei un ninja, ma nello spazio. Il [color=#66FF00]Clan del Ragno[/color] ti ha mandato sulla stazione per causare ogni tipo di caos, e sei equipaggiato per farlo in modo silenzioso ma letale.
 
-  Whether you mercilessly pick off the station's crew one by one or assassinate the clown over and over, your discipline has taught you that [color=#66FF00]your objectives must be at least attempted[/color]. For honor!
+  Che tu scelga di eliminare senza pietà i membri dell'equipaggio uno per uno o di assassinare il clown più volte, la tua disciplina ti ha insegnato che [color=#66FF00]i tuoi obiettivi devono essere almeno tentati[/color]. Per l'onore!
 
-  # Equipment
+  # Equipaggiamento
 
-  You begin implanted with a [color=#a4885c]death acidifier[/color], so if you are KIA or decide to commit seppuku you will leave behind one final gift to the janitor, and all your precious equipment is kept out of enemy hands.
+  Inizi con un [color=#a4885c]acidificatore di morte[/color] impiantato, quindi se vieni ucciso in azione o decidi di commettere seppuku lascerai un ultimo regalo al bidello e tutto il tuo prezioso equipaggiamento non finirà nelle mani del nemico.
 
-  Your bag is full of tools for more subtle sabotage, along with a survival box if you need a snack.
+  La tua borsa è piena di strumenti per sabotaggi più sottili, insieme a una scatola di sopravvivenza se hai bisogno di uno spuntino.
 
-  You have a [color=#a4885c]jetpack[/color] and [color=#a4885c]pinpointer[/color] that will let you find the station.
+  Hai un [color=#a4885c]jetpack[/color] e un [color=#a4885c]localizzatore[/color] che ti permetteranno di trovare la stazione.
 
-  <GuideEntityEmbed Entity="PinpointerStation" Caption="station pinpointer"/>
+  <GuideEntityEmbed Entity="PinpointerStation" Caption="localizzatore della stazione"/>
 
-  ## Ninja Suit
+  ## Tuta Ninja
 
-  <GuideEntityEmbed Entity="ClothingOuterSuitSpaceNinja" Captain="ninja suit"/>
+  <GuideEntityEmbed Entity="ClothingOuterSuitSpaceNinja" Caption="tuta ninja"/>
 
-  Your single most important item is [color=#66FF00]your suit[/color], without it none of your abilities would work.
-  Your suit requires power to function. Its [color=#a4885c]internal battery[/color] can be replaced by clicking on it with another one, and [color=#a4885c]higher capacity batteries[/color] mean a [color=#a4885c]highly effective ninja[/color].
-  You can see the current charge by examining the suit or in a sweet battery alert at the top right of your screen.
+  Il tuo oggetto più importante è [color=#66FF00]la tua tuta[/color], senza di essa nessuna delle tue abilità funzionerebbe.
+  La tua tuta richiede energia per funzionare. La sua [color=#a4885c]batteria interna[/color] può essere sostituita cliccando su di essa con un'altra batteria, e [color=#a4885c]batterie ad alta capacità[/color] significano un [color=#a4885c]ninja altamente efficace[/color].
+  Puoi vedere la carica corrente esaminando la tuta o con un'icona di avviso della batteria in alto a destra dello schermo.
 
-  If you run out of power and need to recharge your battery, just use your gloves to drain an APC, substation, or SMES.
+  Se rimani senza energia e hai bisogno di ricaricare la batteria, usa i tuoi guanti per drenare un APC, una sottostazione o un SMES.
 
-  ## Ninja Gloves
+  ## Guanti Ninja
 
-  <GuideEntityEmbed Entity="ClothingHandsGlovesSpaceNinja" Caption="ninja gloves"/>
+  <GuideEntityEmbed Entity="ClothingHandsGlovesSpaceNinja" Caption="guanti ninja"/>
 
-  [color=#66FF00]These bad boys are your bread and butter.[/color]
+  [color=#66FF00]Questi ragazzi sono il tuo pane quotidiano.[/color]
 
-  They are made from [color=#a4885c]insulated nanomachines[/color] to assist you in gracefully breaking into destinations without leaving behind fingerprints.
+  Sono fatti di [color=#a4885c]nanomacchine isolate[/color] per aiutarti a penetrare con grazia nelle destinazioni senza lasciare impronte digitali.
 
-  You have an action to toggle gloves. When the gloves are turned on, they allow you to use [color=#a4885c]special abilities[/color], which are triggered by interacting with things with an empty hand and with combat mode disabled.
+  Hai un'azione per attivare i guanti. Quando i guanti sono accesi, ti permettono di usare [color=#a4885c]abilità speciali[/color], che vengono attivate interagendo con le cose con una mano vuota e con la modalità combattimento disattivata.
 
-  Your glove abilities include:
-  - Emagging an unlimited number of doors.
-  - Draining power from transformers such as APCs, substations, or SMESes. The higher the voltage, the more efficient the draining is.
-  - You can shock any mob, stunning and slightly damaging them.
-  - You can download technologies from an R&D server for one of your objectives.
-  - You can hack a communications console to call in a [textlink="threat" link="MinorAntagonists"].
+  Le abilità dei guanti includono:
+  - Emagare un numero illimitato di porte.
+  - Drenare energia dai trasformatori come APC, sottostazioni o SMES. Maggiore è la tensione, più efficiente è il drenaggio.
+  - Puoi elettrizzare qualsiasi mob, stordendolo e danneggiandolo leggermente.
+  - Puoi scaricare tecnologie da un server di R&D per uno dei tuoi obiettivi.
+  - Puoi hackerare una console delle comunicazioni per chiamare una [textlink="minaccia" link="MinorAntagonists"].
 
-  ## Energy Katana
+  ## Katana Energetica
 
-  <GuideEntityEmbed Entity="EnergyKatana" Captain="energy katana"/>
+  <GuideEntityEmbed Entity="EnergyKatana" Caption="katana energetica"/>
 
-  You have sworn yourself to the [color=#66FF00]sword[/color] and refuse to use firearms.
-  Deals a lot of damage and can be recalled at will, costing suit power proportional to the distance teleported.
-  
-  While in hand you can [color=#a4885c]teleport[/color] to anywhere that you can see, meaning most doors and windows, but not past solid walls.
-  This has a limited number of charges which regenerate slowly, so keep a charge or two spare in case you need a quick getaway.
+  Hai giurato fedeltà alla [color=#66FF00]spada[/color] e rifiuti di usare armi da fuoco.
+  Infligge molti danni e può essere richiamata a volontà, consumando energia della tuta proporzionalmente alla distanza teletrasportata.
 
-  ## Spider Clan Charge
+  Quando è in mano, puoi [color=#a4885c]teletrasportarti[/color] ovunque tu possa vedere, ovvero la maggior parte delle porte e finestre, ma non oltre muri solidi.
+  Questo ha un numero limitato di cariche che si rigenerano lentamente, quindi tieni una carica o due di riserva in caso di bisogno di una fuga rapida.
 
-  <GuideEntityEmbed Entity="SpiderCharge" Caption="spider clan charge"/>
+  ## Carica del Clan del Ragno
 
-  [color=#66FF00]A modified C-4 explosive[/color], you start with this in your pocket. Creates a large explosion but must be armed in your target area.
-  A random area on the map is selected for you to blow up, which is one of your [color=#a4885c]objectives[/color].
+  <GuideEntityEmbed Entity="SpiderCharge" Caption="carica del clan del ragno"/>
 
-  It can't be activated manually, simply plant it on a wall or a particularly ugly piece of furniture.
-  Can't be unstuck once planted.
+  [color=#66FF00]Un esplosivo C-4 modificato[/color], inizi con questo in tasca. Crea una grande esplosione ma deve essere armato nell'area bersaglio.
+  Un'area casuale della mappa viene selezionata per te da far esplodere, che è uno dei tuoi [color=#a4885c]obiettivi[/color].
 
-  ## Ninja Shoes
+  Non può essere attivato manualmente, basta piantarlo su un muro o su un mobile particolarmente brutto.
+  Non può essere rimosso una volta piantato.
 
-  Special [color=#a4885c]noslips[/color] that keep you agile, swift and upright.
-  Energy not required.
+  ## Scarpe Ninja
 
-  # Objectives
+  Speciali [color=#a4885c]antiscivolo[/color] che ti mantengono agile, veloce e in piedi.
+  Non richiedono energia.
 
-  - Download \[9-13\] research nodes: Use your gloves on an R&D server with a number of unlocked technologies
-  - Doorjack \[15-40\] doors on the station: Use your gloves to emag a number of doors.
-  - Detonate the spider clan charge: Plant your spider clan charge at the specified location and watch it go boom!
-  - Call in a [textlink="threat" link="MinorAntagonists"]: Use your gloves on a communications console.
-  - Set everyone to wanted: Use your gloves on a criminal records console.
-  - Survive: Don't die.
+  # Obiettivi
+
+  - Scaricare \[9-13\] nodi di ricerca: Usa i tuoi guanti su un server di R&D con un certo numero di tecnologie sbloccate.
+  - Sbloccare \[15-40\] porte sulla stazione: Usa i tuoi guanti per emagare un certo numero di porte.
+  - Detonare la carica del clan del ragno: Pianta la tua carica del clan del ragno nella posizione specificata e guardala esplodere!
+  - Chiamare una [textlink="minaccia" link="MinorAntagonists"]: Usa i tuoi guanti su una console delle comunicazioni.
+  - Dichiarare tutti ricercati: Usa i tuoi guanti su una console dei registri criminali.
+  - Sopravvivere: Non morire.
 
 </Document>

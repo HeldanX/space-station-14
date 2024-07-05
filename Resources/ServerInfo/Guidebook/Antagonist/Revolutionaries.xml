@@ -1,55 +1,55 @@
 <Document>
-  # Revolutionaries
+  # Rivoluzionari
 
-  - Revolutionaries are antagonists who are sponsored by the Syndicate to take over the station.
+  - I Rivoluzionari sono antagonisti sponsorizzati dall'Unione per prendere il controllo della stazione.
 
-  ## Head Revolutionaries
+  ## Capo Rivoluzionari
 
 <Box>
   <GuideEntityEmbed Entity="Flash" Caption="Flash"/>
-  <GuideEntityEmbed Entity="ClothingEyesGlassesSunglasses" Caption="Sunglasses"/>
+  <GuideEntityEmbed Entity="ClothingEyesGlassesSunglasses" Caption="Occhiali da Sole"/>
 </Box>
 
-  [color=#5e9cff]Head Revolutionaries[/color] are chosen at the start of the shift and are tasked with taking over the station by killing, exiling, or cuffing all of the Command staff. Head Revolutionaries will be given a [color=#a4885c]Flash[/color] and a pair of [color=#a4885c]Sunglasses[/color] to aid them.
+  I [color=#5e9cff]Capo Rivoluzionari[/color] vengono scelti all'inizio del turno e hanno il compito di prendere il controllo della stazione uccidendo, esiliando o ammanettando tutto il personale di comando. Ai Capo Rivoluzionari verranno forniti un [color=#a4885c]Flash[/color] e un paio di [color=#a4885c]Occhiali da Sole[/color] per aiutarli.
 
-  ## Conversion
+  ## Conversione
 
   <Box>
   <GuideEntityEmbed Entity="Flash" Caption="Flash"/>
 </Box>
 
-  You can convert crew members to [color=#ff0000]Revolutionaries[/color] by using a [color=#a4885c]Flash[/color] in [color=#ff0000]harm mode[/color] and attacking someone with it. Any flash can be used for conversion, but remember that flashes have limited charges.
+  Puoi convertire i membri dell'equipaggio in [color=#ff0000]Rivoluzionari[/color] usando un [color=#a4885c]Flash[/color] in [color=#ff0000]modalità danno[/color] e attaccando qualcuno con esso. Qualsiasi flash può essere utilizzato per la conversione, ma ricorda che i flash hanno cariche limitate.
 
 <Box>
-  <GuideEntityEmbed Entity="ClothingEyesGlassesSunglasses" Caption="Sunglasses"/>
-  <GuideEntityEmbed Entity="ClothingEyesGlassesSecurity" Caption="Security Sunglasses"/>
-  <GuideEntityEmbed Entity="ClothingHeadHatWelding" Caption="Welding Mask"/>
+  <GuideEntityEmbed Entity="ClothingEyesGlassesSunglasses" Caption="Occhiali da Sole"/>
+  <GuideEntityEmbed Entity="ClothingEyesGlassesSecurity" Caption="Occhiali da Sicurezza"/>
+  <GuideEntityEmbed Entity="ClothingHeadHatWelding" Caption="Maschera da Saldatura"/>
 </Box>
 
-  However, gear providing flash protection such as [color=#a4885c]Sunglasses[/color] and [color=#a4885c]Welding Masks[/color] will also block your flashes, and crew wearing these will not be able to be converted.
+  Tuttavia, l'equipaggiamento che fornisce protezione dal flash come [color=#a4885c]Occhiali da Sole[/color] e [color=#a4885c]Maschere da Saldatura[/color] bloccherà anche i tuoi flash, e l'equipaggio che li indossa non potrà essere convertito.
 
 <Box>
-  <GuideEntityEmbed Entity="MindShieldImplanter" Caption="MindShield Implanter"/>
+  <GuideEntityEmbed Entity="MindShieldImplanter" Caption="Impianto di Protezione Mentale"/>
 </Box>
 
-  While not flash protection, a [color=#a4885c]MindShield Implant[/color] will prevent the implanted person from being converted into a revolutionary. Assume all of [color=#a4885c]Security[/color] and [color=#a4885c]Command[/color] are implanted already. 
-  Additionally, a [color=#a4885c]MindShield Implanter[/color] used on a [color=#ff0000]Revolutionary[/color] will de-convert them and they will no longer be loyal to your cause. If a [color=#a4885c]MindShield Implanter[/color] is used on a [color=#5e9cff]Head Revolutionary[/color], it will be destroyed but this will reveal you so be careful!
+  Sebbene non offra protezione dai flash, un [color=#a4885c]Impianto di Protezione Mentale[/color] impedirà alla persona impiantata di essere convertita in un rivoluzionario. Presumi che tutto il personale di [color=#a4885c]Sicurezza[/color] e [color=#a4885c]Comando[/color] sia già impiantato.
+  Inoltre, un [color=#a4885c]Impianto di Protezione Mentale[/color] utilizzato su un [color=#ff0000]Rivoluzionario[/color] lo de-converterà e non sarà più fedele alla tua causa. Se un [color=#a4885c]Impianto di Protezione Mentale[/color] viene utilizzato su un [color=#5e9cff]Capo Rivoluzionario[/color], l'impianto verrà distrutto ma questo ti rivelerà, quindi fai attenzione!
 
-  ## Revolutionary
+  ## Rivoluzionario
 
-  A [color=#ff0000]Revolutionary[/color] is the result of being converted by a [color=#5e9cff]Head Revolutionary[/color]. Revolutionaries are underlings of the Head Revolutionaries and should follow orders given by them and prioritize their well-being over anything else because if the [color=#5e9cff]Head Revolutionaries[/color] die the Revolution will fail.
-  Keep in mind that you can't convert others as a regular revolutionary, only your boss can do that.
+  Un [color=#ff0000]Rivoluzionario[/color] è il risultato della conversione da parte di un [color=#5e9cff]Capo Rivoluzionario[/color]. I Rivoluzionari sono subordinati dei Capo Rivoluzionari e devono seguire gli ordini dati da loro e dare priorità al loro benessere sopra ogni altra cosa, perché se i [color=#5e9cff]Capo Rivoluzionari[/color] muoiono, la Rivoluzione fallirà.
+  Tieni presente che non puoi convertire altri come rivoluzionario regolare, solo il tuo capo può farlo.
 
-  ## Objectives
+  ## Obiettivi
 
-  You must eliminate, exile, or arrest all of the following Command staff on station in no particular order.
-  - Captain
-  - Head of Personnel
-  - Chief Engineer
-  - Research Director
-  - Quartermaster
-  - Head of Security
-  - Chief Medical Officer
+  Devi eliminare, esiliare o arrestare tutto il seguente personale di comando sulla stazione in ordine casuale:
+  - Capitano
+  - Capo del Personale
+  - Capo Ingegnere
+  - Direttore della Ricerca
+  - Quartiermastro
+  - Capo della Sicurezza
+  - Capo Medico
 
-  Remember, your objective is to take over the station and not to destroy it so try to minimize damage where possible. Viva la revolución!
+  Ricorda, il tuo obiettivo è prendere il controllo della stazione e non distruggerla, quindi cerca di minimizzare i danni ove possibile. Viva la revolución!
 </Document>

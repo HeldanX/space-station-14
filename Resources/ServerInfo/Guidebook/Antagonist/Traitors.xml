@@ -1,91 +1,91 @@
 <Document>
-  # Traitors
+  # Traditori
   
   WHISKEY. ECHO. WHISKEY. LIMA. ALPHA. DELTA.
   
-  - A Traitor is an antagonist employed by the Syndicate. They have access to various Syndicate tools and weapons through their [color=#a4885c]Uplink[/color].
-  - Traitors can use codewords to identify themselves to one another in order to cooperate.
-  - In a Traitor round, any player can be a Traitor aside from department heads, the captain, or any security officers.
-  - Traitors should focus primarily on completing their objectives successfully by the end of the round.
+  - Un Traditore è un antagonista impiegato dall'Unione. Ha accesso a vari strumenti e armi dell'Unione attraverso il suo [color=#a4885c]Uplink[/color].
+  - I Traditori possono usare parole in codice per identificarsi l'un l'altro e cooperare.
+  - In un round di Traditori, qualsiasi giocatore può essere un Traditore, ad eccezione dei capi dipartimento, del capitano o degli agenti di sicurezza.
+  - I Traditori devono concentrarsi principalmente sul completamento con successo dei loro obiettivi entro la fine del round.
 
   ## Uplink
   <Box>
     <GuideEntityEmbed Entity="BaseUplinkRadio40TC" Caption="Uplink"/>
   </Box>
-  - The [color=#a4885c]Uplink[/color] is the most important tool for a Traitor, as it can purchase tools and weapons with [color=#a4885c]telecrystals[/color](TC).
+  - L'[color=#a4885c]Uplink[/color] è lo strumento più importante per un Traditore, in quanto può acquistare strumenti e armi con [color=#a4885c]telecristalli[/color] (TC).
   <Box>
-    <GuideEntityEmbed Entity="Telecrystal" Caption="Telecrystals"/>
+    <GuideEntityEmbed Entity="Telecrystal" Caption="Telecristalli"/>
   </Box>
-  - [color=#a4885c]Telecrystals[/color] are given at the start to give traitors an edge on the station. Other traitors can trade their [color=#a4885c]telecrystals[/color] to each other exceeding the normal given amount.
-  - Using your [color=#a4885c]PDA[/color] and setting the ringtone as your uplink code gives you a variety of options to use at your disposal against the station and its crew.
+  - I [color=#a4885c]Telecristalli[/color] vengono dati all'inizio per dare ai traditori un vantaggio sulla stazione. Altri traditori possono scambiarsi i [color=#a4885c]telecristalli[/color] superando la quantità normale assegnata.
+  - Usando il tuo [color=#a4885c]PDA[/color] e impostando la suoneria come il tuo codice uplink, ottieni una varietà di opzioni da utilizzare contro la stazione e il suo equipaggio.
   <Box>
   <GuideEntityEmbed Entity="PassengerPDA" Caption="PDA"/>
   </Box>
-  Make sure to relock your [color=#a4885c]PDA[/color] to prevent anyone else from seeing it!
-  - Various gear include:
+  Assicurati di bloccare di nuovo il tuo [color=#a4885c]PDA[/color] per evitare che qualcun altro lo veda!
+  - Gli equipaggiamenti variano tra:
   <Box>
-    <GuideEntityEmbed Entity="WeaponPistolCobra" Caption="Weaponry"/>
-    <GuideEntityEmbed Entity="MagazineBoxLightRifle" State="icon" Caption="Ammo"/>
-    <GuideEntityEmbed Entity="C4" Caption="Explosives"/>
-    <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndie" Caption="Wearables"/>
-    <GuideEntityEmbed Entity="Stimpack" Caption="Chemicals"/>
+    <GuideEntityEmbed Entity="WeaponPistolCobra" Caption="Armi"/>
+    <GuideEntityEmbed Entity="MagazineBoxLightRifle" State="icon" Caption="Munizioni"/>
+    <GuideEntityEmbed Entity="C4" Caption="Esplosivi"/>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndie" Caption="Indumenti"/>
+    <GuideEntityEmbed Entity="Stimpack" Caption="Sostanze chimiche"/>
   </Box>
   <Box>
-    <GuideEntityEmbed Entity="ChameleonProjector" Caption="Deception"/>
+    <GuideEntityEmbed Entity="ChameleonProjector" Caption="Inganno"/>
     <GuideEntityEmbed Entity="Emag" Caption="Disruption"/>
-    <GuideEntityEmbed Entity="StorageImplanter" Caption="Implants"/>
-    <GuideEntityEmbed Entity="MobMonkeySyndicateAgentNukeops" Caption="Allies"/>
-    <GuideEntityEmbed Entity="ClothingEyesGlassesOutlawGlasses" Caption="Pointless"/>
+    <GuideEntityEmbed Entity="StorageImplanter" Caption="Impianti"/>
+    <GuideEntityEmbed Entity="MobMonkeySyndicateAgentNukeops" Caption="Alleati"/>
+    <GuideEntityEmbed Entity="ClothingEyesGlassesOutlawGlasses" Caption="Inutili"/>
   </Box>
 
-  ## Objectives
+  ## Obiettivi
 
-  - When becoming a Traitor, you will have a list of objectives, ranging from escaping alive, stealing something, and killing someone. Using the [color=#a4885c]Uplink[/color] will help you with most of these tasks.
+  - Quando diventi un Traditore, avrai una lista di obiettivi, che vanno dall'uscire vivo, al rubare qualcosa o uccidere qualcuno. Usare l'[color=#a4885c]Uplink[/color] ti aiuterà in molti di questi compiti.
 
-  ## List of Possible Tasks
+  ## Lista dei Possibili Compiti
 
-  - Kill or maroon a randomly selected non-traitor.
-  - Kill or maroon a randomly selected traitor.
-  - Kill or maroon a randomly selected department head.
-  - Keep a randomly selected traitor alive.
-  - Escape on the evacuation shuttle alive and uncuffed.
-  - Help a randomly selected traitor finish half of their objectives.
-  - Die a glorious death.
-  - Steal the Captain's [color=#a4885c]ID Card[/color], [color=#a4885c]Antique Laser Pistol[/color], [color=#a4885c]Jetpack[/color], or [color=#a4885c]Nuke Disk[/color].
+  - Uccidere o esiliare un non-traditore selezionato casualmente.
+  - Uccidere o esiliare un traditore selezionato casualmente.
+  - Uccidere o esiliare un capo dipartimento selezionato casualmente.
+  - Mantenere in vita un traditore selezionato casualmente.
+  - Fuggire sulla navetta di evacuazione vivo e non ammanettato.
+  - Aiutare un traditore selezionato casualmente a completare metà dei suoi obiettivi.
+  - Morire una morte gloriosa.
+  - Rubare la [color=#a4885c]Carta d'Identità[/color] del Capitano, la [color=#a4885c]Pistola Laser Antica[/color], il [color=#a4885c]Jetpack[/color] o il [color=#a4885c]Disco della Bomba Nucleare[/color].
   <Box>
-    <GuideEntityEmbed Entity="CaptainIDCard" Caption="Captain's ID Card"/>
-    <GuideEntityEmbed Entity="WeaponAntiqueLaser" Caption="Antique Laser Pistol"/>
+    <GuideEntityEmbed Entity="CaptainIDCard" Caption="Carta d'Identità del Capitano"/>
+    <GuideEntityEmbed Entity="WeaponAntiqueLaser" Caption="Pistola Laser Antica"/>
  </Box>
   <Box>
-    <GuideEntityEmbed Entity="JetpackCaptainFilled" Caption="Captain's Jetpack"/>
-    <GuideEntityEmbed Entity="NukeDisk" Caption="The Nuke Disk"/> 
+    <GuideEntityEmbed Entity="JetpackCaptainFilled" Caption="Jetpack del Capitano"/>
+    <GuideEntityEmbed Entity="NukeDisk" Caption="Il Disco della Bomba Nucleare"/> 
  </Box>
-  - Steal the Chief Medical Officer's [color=#a4885c]Hypospray[/color] or [color=#a4885c]Handheld Crew Monitor[/color].
+  - Rubare l'[color=#a4885c]Ipospray[/color] o il [color=#a4885c]Monitor del Personale Portatile[/color] del Capo Medico.
   <Box>
-    <GuideEntityEmbed Entity="Hypospray" Caption="CMO's Hypospray"/>
-    <GuideEntityEmbed Entity="HandheldCrewMonitorEmpty" Caption="Handheld Crew Monitor"/>
+    <GuideEntityEmbed Entity="Hypospray" Caption="Ipospray del Capo Medico"/>
+    <GuideEntityEmbed Entity="HandheldCrewMonitorEmpty" Caption="Monitor del Personale Portatile"/>
   </Box>
-  - Steal the Research Director's [color=#a4885c]Hardsuit[/color] or [color=#a4885c]Hand Teleporter[/color].
+  - Rubare la [color=#a4885c]Tuta</color] o il [color=#a4885c]Teletrasportatore Portatile[/color] del Direttore della Ricerca.
   <Box>
-    <GuideEntityEmbed Entity="ClothingOuterHardsuitRd" Caption="RD's Hardsuit"/>
-    <GuideEntityEmbed Entity="HandTeleporter" Caption="Hand Teleporter"/>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitRd" Caption="Tuta del Direttore della Ricerca"/>
+    <GuideEntityEmbed Entity="HandTeleporter" Caption="Teletrasportatore Portatile"/>
   </Box>
-  - Steal the Head of Security's [color=#a4885c]Secret Documents[/color].
+  - Rubare i [color=#a4885c]Documenti Segreti[/color] del Capo della Sicurezza.
   <Box>
-    <GuideEntityEmbed Entity="BookSecretDocuments" Caption="Secret Documents"/>
+    <GuideEntityEmbed Entity="BookSecretDocuments" Caption="Documenti Segreti"/>
   </Box>
-  - Steal the Chief Engineer's [color=#a4885c]Advanced Magboots[/color].
+  - Rubare gli [color=#a4885c]Stivali Magnetici Avanzati[/color] del Capo Ingegnere.
   <Box>
-    <GuideEntityEmbed Entity="ClothingShoesBootsMagAdv" Caption="Advanced Magboots"/>
+    <GuideEntityEmbed Entity="ClothingShoesBootsMagAdv" Caption="Stivali Magnetici Avanzati"/>
   </Box>
-  - Steal the Quartermaster's [color=#a4885c]Requisition Digi-Board[/color].
+  - Rubare la [color=#a4885c]Tavola Richieste[/color] del Quartiermastro.
   <Box>
-    <GuideEntityEmbed Entity="BoxFolderQmClipboard" Caption="Requisition Digi-Board"/>
+    <GuideEntityEmbed Entity="BoxFolderQmClipboard" Caption="Tavola Richieste"/>
   </Box>
-  - Steal the Head of Personnel's dog, Ian's [color=#a4885c]Corgi Meat[/color].
+  - Rubare il cane del Capo del Personale, Ian's [color=#a4885c]Carne di Corgi[/color].
   <Box>
-  <GuideEntityEmbed Entity="MobCorgiIan" Caption="Ian the Corgi"/>
-  <GuideEntityEmbed Entity="FoodMeatCorgi" Caption="Corgi Meat"/>
+  <GuideEntityEmbed Entity="MobCorgiIan" Caption="Ian il Corgi"/>
+  <GuideEntityEmbed Entity="FoodMeatCorgi" Caption="Carne di Corgi"/>
   </Box>
 
 </Document>

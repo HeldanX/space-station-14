@@ -1,61 +1,60 @@
 <Document>
-  # Minor Antagonists
+  # Antagonisti Minori
 
-  Most if not all Minor Antagonists are ghost-controlled roles that gives dead people new ways to cause chaos around the station. They are spawned by random events.
+  La maggior parte degli antagonisti minori sono ruoli controllati dai fantasmi che offrono ai defunti nuovi modi per causare caos nella stazione. Vengono generati da eventi casuali.
 
-  # Revenant
+  ## Revenant
 
   <Box>
     <GuideEntityEmbed Entity="MobRevenant" Caption=""/>
     <GuideEntityEmbed Entity="Ectoplasm" Caption=""/>
   </Box>
 
-  A Revenant is given powers to haunt the crew and steal life essence from them.
+  Un Revenant possiede poteri per tormentare l'equipaggio e rubare la loro essenza vitale.
 
-  ## Essence
+  ### Essenza
 
-  - Your [color=#a4885c]essence[/color] is your very own life force and a way to use abilities for a cost, don't let it drop to 0.
-  - To gain [color=#a4885c]essence[/color] you first inspect various souls for their worth. More worthy souls grant more essence.
-  However merely checking their worth isn't enough for collecting [color=#a4885c]essence[/color]. You must siphon it either when the victim is critical, dead, or sleeping.
-  - A good start is to go to medical or dorms but be wary, you are vulnerable to attacks when you siphon a soul. Taking damage reduces your [color=#a4885c]essence[/color]! So plan your attacks wisely.
+  - La tua [color=#a4885c]essenza[/color] è la tua forza vitale e un modo per usare le abilità a costo, non lasciare che scenda a 0.
+  - Per guadagnare [color=#a4885c]essenza[/color] devi prima ispezionare varie anime per valutare il loro valore. Le anime più preziose concedono più essenza.
+  Tuttavia, semplicemente controllare il loro valore non è sufficiente per raccogliere [color=#a4885c]essenza[/color]. Devi risucchiarla quando la vittima è in condizioni critiche, morta o addormentata.
+  - Un buon punto di partenza è andare in infermeria o nei dormitori, ma fai attenzione, sei vulnerabile agli attacchi quando risucchi un'anima. Subire danni riduce la tua [color=#a4885c]essenza[/color]! Pianifica attentamente i tuoi attacchi.
 
-  ## Shop And Powers
+  ### Negozio e Poteri
 
-  - Using [color=#a4885c]stolen essence[/color] gotten from siphoning souls, you can gain skills for mischief such as environmental destruction, electrical disruption, and electrocution through the shop.
-  - Using powers leave you vulnerable to attacks for some time, plan ahead and prepare before attacking.
+  - Usando l'[color=#a4885c]essenza rubata[/color] ottenuta risucchiando anime, puoi acquisire abilità per causare disastri come la distruzione ambientale, la distruzione elettrica e l'elettrocuzione tramite il negozio.
+  - Usare i poteri ti lascia vulnerabile agli attacchi per un certo periodo di tempo, pianifica in anticipo e preparati prima di attaccare.
 
-  # Rat King
-
-  <Box>
-    <GuideEntityEmbed Entity="MobRatKing" Scale="2.4" Caption="The Rat King"/>
-  </Box>
-
- A Rat King is a gigantic rat capable of eating an enormous amount of food, scampering under doors and tables, and raising an army of rats to defend them and do their bidding.
-
-  ## Abilities
-
-  Abilities come at the cost of some of the Rat King's hunger. Eat to replenish it.
+  ## Re dei Ratti
 
   <Box>
-   <GuideEntityEmbed Entity="MobMouse" Caption="Normal Mouse"/>
-   <GuideEntityEmbed Entity="MobRatServant" Caption="Rat Servant"/>
+    <GuideEntityEmbed Entity="MobRatKing" Scale="2.4" Caption="Il Re dei Ratti"/>
   </Box>
-  - Raise an Army of [color=#a4885c]Rat Servants[/color]. You may command these [color=#a4885c]Rat Servants[/color] to stay in place, follow you, attack a target of your choice, or attack indiscriminately.
-  - Conjure a cloud of [color=#77b58e]ammonia[/color]. Note that [color=#77b58e]ammonia[/color] is mildly poisonous to others, but heals rats.
 
-  # Space Dragon
+  Il Re dei Ratti è un ratto gigantesco capace di mangiare una quantità enorme di cibo, sgattaiolare sotto porte e tavoli e sollevare un esercito di ratti per difenderlo e obbedirgli.
+
+  ### Abilità
+
+  Le abilità hanno un costo in termini di fame del Re dei Ratti. Mangia per rimpiazzarla.
+
+  <Box>
+   <GuideEntityEmbed Entity="MobMouse" Caption="Topo Normale"/>
+   <GuideEntityEmbed Entity="MobRatServant" Caption="Servitore Ratto"/>
+  </Box>
+  - Solleva un esercito di [color=#a4885c]Servitori Ratti[/color]. Puoi comandare questi [color=#a4885c]Servitori Ratti[/color] di stare fermi, seguirti, attaccare un bersaglio a tua scelta o attaccare indiscriminatamente.
+  - Evoca una nube di [color=#77b58e]ammoniaca[/color]. Nota che l'[color=#77b58e]ammoniaca[/color] è leggermente velenosa per gli altri, ma cura i ratti.
+
+  ## Drago Spaziale
 
   <Box>
     <GuideEntityEmbed Entity="MobDragon" Caption=""/>
   </Box>
 
-  A Space Dragon is a giant extradimensional dragon that creates space carp rifts and eats the crew.
+  Un Drago Spaziale è un gigantesco drago extradimensionale che crea fenditure da cui escono carpe spaziali e divora l'equipaggio.
 
-  ## Abilities
+  ### Abilità
 
-  - Devour critical or dead victims to heal slightly, or devour infrastructure such as doors, windows, and walls.
-
-  - Breathe out a powerful flaming sphere which will explode periodically along a straight flight path and explode when it hits something, igniting things along the way. Be careful, your carps are not immune to the Dragon's Breath!
+  - Divora vittime critiche o morte per guarire leggermente, oppure divora infrastrutture come porte, finestre e pareti.
+  - Espira una potente sfera infuocata che esploderà periodicamente lungo una traiettoria rettilinea e esploderà quando colpisce qualcosa, incendiando gli oggetti lungo il percorso. Fai attenzione, le tue carpe non sono immuni al Soffio del Drago!
 
   <Box>
     <GuideEntityEmbed Entity="MobCarp" Caption=""/>
@@ -63,15 +62,14 @@
     <GuideEntityEmbed Entity="MobCarp" Caption=""/>
   </Box>
 
-  - Summon a Carp Rift that periodically spawns [color=#a4885c]Space Carp[/color]. 
+  - Evoca una Fenditura da cui escono periodicamente [color=#a4885c]Carpe Spaziali[/color].
 
-  ## Carp Rifts
+  ### Fenditure delle Carpe
 
-  - Space Dragons may have up to three Carp Rifts active at any given time.
-  - Carp Rifts spawn a [color=#a4885c]Space Carp[/color] every thirty seconds while active.
-  - Rifts charge with extradimensional energy over a period of five minutes and are vulnerable during this time. Protect them! The space dragon will suffer a temporary debilitating feedback effect in the event that its rifts are destroyed before they are done charging.
-  - You may only charge one rift at any given time.
-  - After the rifts are done charging, they are invulnerable and will continue to spawn [color=#a4885c]Space Carp[/color] so long as the Dragon lives. 
-  - If a period of five minutes passes since the appearance of the Space Dragon or the last time a Carp Rift was charging and unless the Space Dragon already controls the maximum of three Carp Rifts, the Space Dragon will disappear. 
-
+  - I Draghi Spaziali possono avere fino a tre Fenditure attive in qualsiasi momento.
+  - Le Fenditure generano una [color=#a4885c]Carpa Spaziale[/color] ogni trenta secondi mentre sono attive.
+  - Le Fenditure si caricano con energia extradimensionale per un periodo di cinque minuti e sono vulnerabili durante questo tempo. Proteggile! Il drago spaziale subirà un effetto di feedback debilitante temporaneo nel caso in cui le sue fenditure vengano distrutte prima che abbiano finito di caricarsi.
+  - Puoi caricare una sola fenditura alla volta.
+  - Dopo che le fenditure hanno finito di caricarsi, diventano invulnerabili e continueranno a generare [color=#a4885c]Carpe Spaziali[/color] finché il Drago sarà in vita.
+  - Se passa un periodo di cinque minuti dall'apparizione del Drago Spaziale o dall'ultima volta che una Fenditura è stata caricata e a meno che il Drago Spaziale non controlli già il massimo di tre Fenditure, il Drago Spaziale scomparirà.
 </Document>

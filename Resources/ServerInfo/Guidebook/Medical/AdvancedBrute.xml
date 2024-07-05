@@ -1,8 +1,7 @@
 <Document>
-  
-  # Specialized Brute Chemicals
+  # Sostanze Chimiche Specializzate per il Trattamento dei Danni
 
-  Nanotrasen's greatest scientists have synthesized three more specific brute chemicals! Each one heals a specific damage subtype.
+  I migliori scienziati di Nanotrasen hanno sintetizzato tre sostanze chimiche specifiche per il trattamento dei danni! Ognuna cura un sottotipo specifico di danno.
 
   <GuideReagentEmbed Reagent="Bruizine"/>
   <GuideReagentEmbed Reagent="Puncturase"/>
@@ -10,19 +9,19 @@
 
   # Razorium
 
-  [color=red]USE CAUTION[/color] when using the aforementioned specialized brute chemicals. Should one mix together with a different type of brute chemical, the resulting mixture will create a dangerous chemical known as Razorium!
+  [color=red]USARE CAUTELA[/color] quando si utilizzano le suddette sostanze chimiche specializzate per il trattamento dei danni. Se una di queste si mescola con un altro tipo di sostanza chimica per il trattamento dei danni, la miscela risultante creerà una sostanza chimica pericolosa nota come Razorium!
   <GuideReagentEmbed Reagent="Razorium"/>
-  To avoid this, make sure the patient is done metabolizing one brute medication before giving them another. Keep an eye on the rate their health is changing.
+  Per evitare ciò, assicurarsi che il paziente abbia metabolizzato completamente una sostanza prima di somministrargliene un'altra. Tenere d'occhio il tasso di cambiamento della loro salute.
 
-  [bold]Some examples of mixtures that create Razorium are as follows:[/bold]
+  [bold]Alcuni esempi di miscele che creano Razorium sono i seguenti:[/bold]
 
-  Bicaridine and Puncturase
+  Bicaridina e Puncturase
 
-  Puncturase and Lacerinol
+  Puncturase e Lacerinol
 
-  Bruizine and Bicaridine
+  Bruizine e Bicaridina
 
-  Lacerinol and Bruizine
+  Lacerinol e Bruizine
 
-  Please note that [bold]any[/bold] combination of these 4 chemicals will likely mix and create Razorium! Be careful when creating these chemicals, as they contain Bicaridine. Any leftover Bicaridine will likely mix to create Razorium!
+  Si prega di notare che [bold]qualsiasi[/bold] combinazione di queste 4 sostanze chimiche probabilmente si mescolerà e creerà Razorium! Prestare attenzione quando si creano queste sostanze chimiche, poiché contengono Bicaridina. Qualsiasi residuo di Bicaridina probabilmente si mescolerà creando Razorium!
 </Document>

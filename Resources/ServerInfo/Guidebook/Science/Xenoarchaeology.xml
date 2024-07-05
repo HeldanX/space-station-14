@@ -1,57 +1,57 @@
 <Document>
-# Xenoarchaeology
-Xenoarchaeology is a science subdepartment focused on researching and experimenting on alien artifacts.
+# Xenoarcheologia
+La Xenoarcheologia è un sottodipartimento scientifico focalizzato sulla ricerca e sperimentazione su manufatti alieni.
 
-At the start of each shift, the Science department will usually have access to at least two artifacts to experiment on. You can buy more by talking to the Cargo department.
+All'inizio di ogni turno, il dipartimento scientifico avrà solitamente accesso ad almeno due manufatti su cui sperimentare. Puoi acquistarne di più parlando con il dipartimento Cargo.
 
-By researching the unique things each artifact can do, you gain Research Points, increase the artifact's sale value, and potentially discover a useful ability or two that can help your department or the whole station!
+Ricercando le caratteristiche uniche di ciascun manufatto, guadagni Punti Ricerca, aumenti il valore di vendita del manufatto e potenzialmente scopri un'abilità utile che può aiutare il tuo dipartimento o l'intera stazione!
 
-## Artifact Nodes
+## Nodi del Manufatto
 <Box>
 <GuideEntityEmbed Entity="ComplexXenoArtifact" Caption=""/>
 <GuideEntityEmbed Entity="SimpleXenoArtifactItem" Caption=""/>
 </Box>
-Artifacts consist of a randomly-generated tree of nodes. These nodes have a "[color=#a4885c]depth[/color]", representing how dangerous the node is, and the number of other nodes connected to it, called "[color=#a4885c]edges[/color]",
+I manufatti consistono in un albero di nodi generato casualmente. Questi nodi hanno una "[color=#a4885c]profondità[/color]", che rappresenta quanto è pericoloso il nodo, e il numero di altri nodi collegati ad esso, chiamati "[color=#a4885c]bordi[/color]".
 
-Artifacts always start at depth zero, the root of the tree. Travelling the tree to find as many nodes as possible is the main goal of the scientists working on them. Knowledge is extracted from nodes to gain Research Points and increase the artifact's sale value.
+I manufatti iniziano sempre a profondità zero, la radice dell'albero. Esplorare l'albero per trovare quanti più nodi possibile è l'obiettivo principale degli scienziati che vi lavorano. La conoscenza è estratta dai nodi per guadagnare Punti Ricerca e aumentare il valore di vendita del manufatto.
 
-Each node has two components: its [color=#a4885c]stimulus[/color] and a [color=#a4885c]reaction[/color].
+Ogni nodo ha due componenti: il suo [color=#a4885c]stimolo[/color] e una [color=#a4885c]reazione[/color].
 
-A stimulus is the external behavior that triggers the reaction. There's a variety of these, and higher depth nodes have more difficult to accomplish stimuli. Some stimuli will need improvisation to trigger, and you may need to talk to other departments to get everything you need.
+Uno stimolo è il comportamento esterno che innesca la reazione. Ce ne sono diversi tipi, e i nodi a profondità maggiore hanno stimoli più difficili da realizzare. Alcuni stimoli richiederanno improvvisazione per essere attivati, e potresti dover parlare con altri dipartimenti per ottenere tutto il necessario.
 
-Some reactions are instantaneous effects while others are permanent changes. Once an artifact is triggered, the reaction causes the artifact to randomly move to another node it is linked to.
+Alcune reazioni sono effetti istantanei mentre altre sono cambiamenti permanenti. Una volta che un manufatto è stato attivato, la reazione fa sì che il manufatto si sposti casualmente verso un altro nodo a cui è collegato.
 
-With some experimental science, you can begin to grasp how the different nodes of an artifact are connected, and how to move between them by repeatedly activating nodes.
+Con un po' di scienza sperimentale, puoi iniziare a comprendere come sono collegati i diversi nodi di un manufatto e come spostarti tra di essi attivando ripetutamente i nodi.
 
-All non-zero-depth nodes will have exactly one edge that leads up to its parent node. All other edges a node has lead down to the next depth.
+Tutti i nodi non a profondità zero avranno esattamente un bordo che conduce al nodo padre. Tutti gli altri bordi di un nodo conducono verso il livello successivo di profondità.
 
-## Artifact Analyzer and Analysis Console
+## Analizzatore di Manufatti e Console di Analisi
 <Box>
 <GuideEntityEmbed Entity="MachineArtifactAnalyzer"/>
 <GuideEntityEmbed Entity="ComputerAnalysisConsole"/>
 </Box>
-The main equipment that you'll be using for Xenoarchaeology is the [color=#a4885c]artifact analyzer[/color] and the [color=#a4885c]analysis console[/color]. You can use these to create reports that contain valuable information about an artifact.
+L'attrezzatura principale che utilizzerai per la Xenoarcheologia è l'[color=#a4885c]analizzatore di manufatti[/color] e la [color=#a4885c]console di analisi[/color]. Puoi usarli per creare rapporti che contengono informazioni preziose su un manufatto.
 
-To set them up, simply link them with a network configurator and set an artifact on top of the analyzer. Every station has at least one of these machines already set up.
+Per configurarli, basta collegarli con un configuratore di rete e posizionare un manufatto sopra l'analizzatore. Ogni stazione ha almeno una di queste macchine già configurate.
 
-Use the console's [color=#a4885c]scan[/color] button to discover what stimulus the artifact needs and what its reaction will do. Scanning takes thirty seconds.
+Usa il pulsante [color=#a4885c]scansiona[/color] della console per scoprire quale stimolo richiede il manufatto e quale sarà la sua reazione. La scansione dura trenta secondi.
 
-Use the [color=#a4885c]print[/color] button to save the scan result, so you can refer to it later.
+Usa il pulsante [color=#a4885c]stampa[/color] per salvare il risultato della scansione, in modo da poterlo consultare in seguito.
 
-Once you've discovered a new node, you can extract points from the artifact using the [color=#a4885c]Extract[/color] button.
+Una volta scoperto un nuovo nodo, puoi estrarre punti dal manufatto usando il pulsante [color=#a4885c]Estrai[/color].
 
-## Assembling Artifacts
-<GuideEntityEmbed Entity="ArtifactFragment" Caption="Artifact Fragment"/>
+## Assemblaggio dei Manufatti
+<GuideEntityEmbed Entity="ArtifactFragment" Caption="Frammento di Manufatto"/>
 
-It is possible to gather multiple artifact fragments and assemble them into a working artifact. You can ask for these from Salvage, who usually find these while mining asteroids or on Expeditions.
+È possibile raccogliere più frammenti di manufatti e assemblarli in un manufatto funzionante. Puoi chiedere questi frammenti al dipartimento di Recupero, che di solito li trova mentre minano asteroidi o durante le spedizioni.
 
-## Traversal Bias
+## Bias di Traversamento
 <Box>
   <GuideEntityEmbed Entity="MachineArtifactAnalyzer"/>
 </Box>
-Artifacts placed on top of a powered artifact analyzer are subjected to a bias which affects which node they will move to after being activated. The bias can be set in the artifact console.
+I manufatti posizionati sopra un analizzatore di manufatti alimentato sono soggetti a un bias che influenza il nodo verso cui si sposteranno dopo essere stati attivati. Il bias può essere impostato nella console del manufatto.
 
-There are two types of biases:
-- [color=#a4885c]Up:[/color] favors nodes closer to the origin. Results in a decrease of depth.
-- [color=#a4885c]Down:[/color] favors nodes farther away from the origin. Results in an increase of depth.
+Ci sono due tipi di bias:
+- [color=#a4885c]Verso l'alto:[/color] favorisce i nodi più vicini all'origine. Risulta in una diminuzione della profondità.
+- [color=#a4885c]Verso il basso:[/color] favorisce i nodi più lontani dall'origine. Risulta in un aumento della profondità.
 </Document>

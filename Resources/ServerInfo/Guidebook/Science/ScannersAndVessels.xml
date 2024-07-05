@@ -1,24 +1,24 @@
 <Document>
-## Anomaly Scanner
+## Scanner di Anomalie
 
-The Anomaly Scanner is used to gather various information on anomalies. They can be found inside of the lockers in the science department.
+Il Scanner di Anomalie viene utilizzato per raccogliere varie informazioni sulle anomalie. Si trovano all'interno degli armadietti nel dipartimento scientifico.
 
 <Box>
 <GuideEntityEmbed Entity="AnomalyScanner"/>
 </Box>
 
-Scanning an anomaly shows the severity, general stability, approximate point output, reactions with particle types, and time until the next pulse. The reaction types, specifically, can be used in conjunction with the A.P.E. to manipulate anomalies.
+Scansionare un'anomalia mostra la gravità, la stabilità generale, l'output di punti approssimativo, le reazioni con i tipi di particelle e il tempo fino al prossimo impulso. I tipi di reazione, in particolare, possono essere utilizzati in combinazione con l'A.P.E. (Motore di Elaborazione delle Anomalie) per manipolare le anomalie.
 
-## Anomaly Vessel
+## Vaso di Anomalie
 
-The anomaly vessel is a machine that generates points from anomalies. Use the anomaly scanner on an empty vessel, and the anomaly that was last scanned will be synced with the vessel.
+Il vaso di anomalie è una macchina che genera punti dalle anomalie. Utilizza il scanner di anomalie su un vaso vuoto e l'anomalia scansionata per ultima sarà sincronizzata con il vaso.
 
 <Box>
 <GuideEntityEmbed Entity="MachineAnomalyVessel"/>
 </Box>
 
-The amount of points a vessel generates per second is based on the severity, stability, and health of an anomaly. The higher each of these values, the higher the point output will be.
+La quantità di punti che un vaso genera per secondo si basa sulla gravità, stabilità e salute di un'anomalia. Più alti sono ciascuno di questi valori, maggiore sarà l'output di punti.
 
-Be careful: if an anomaly goes [color=#a4885c]supercritical[/color], the vessel it is linked to will explode. This may damage the station and nearby equipment.
+Attenzione: se un'anomalia diventa [color=#a4885c]supercritica[/color], il vaso a cui è collegata esploderà. Questo potrebbe danneggiare la stazione e le attrezzature vicine.
 
 </Document>

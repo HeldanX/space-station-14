@@ -1,9 +1,9 @@
 <Document>
-# Janitorial
+# Addetto alle Pulizie
 
-You keep things clean, it's a rough job sometimes, but someone's gotta do it. This will walk you through the tools of the trade, and how they're used.
+Tu mantieni tutto pulito, a volte è un lavoro duro, ma qualcuno deve pur farlo. Questa guida ti illustrerà gli strumenti del mestiere e come usarli.
 
-## Basic Equipment
+## Attrezzatura di Base
 <Box>
 <GuideEntityEmbed Entity="MopItem"/>
 <GuideEntityEmbed Entity="JanitorialTrolley"/>
@@ -18,39 +18,39 @@ You keep things clean, it's a rough job sometimes, but someone's gotta do it. Th
 <GuideEntityEmbed Entity="Mousetrap"/>
 </Box>
 
-## Additional Equipment
+## Attrezzatura Aggiuntiva
 <Box>
 <GuideEntityEmbed Entity="WetFloorSign"/>
-<GuideEntityEmbed Entity="Holoprojector" Caption="holosign projector"/>
+<GuideEntityEmbed Entity="Holoprojector" Caption="proiettore di segnale olografico"/>
 <GuideEntityEmbed Entity="LightReplacer"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="AdvMopItem" Caption="Advanced mop, ask in R&D"/>
+<GuideEntityEmbed Entity="AdvMopItem" Caption="Mocio Avanzato, chiedi in R&S"/>
 </Box>
 
-## Fluid Acquisition and Disposal
+## Acquisizione e Smaltimento dei Fluidi
 <Box>
 <GuideEntityEmbed Entity="WaterTankFull"/>
 <GuideEntityEmbed Entity="Sink"/>
 <GuideEntityEmbed Entity="FloorDrain"/>
 </Box>
 
-## Tidying up.
-Now, onto the (figurative) meat and potatoes. We're here to clean, right? Lets keep it simple. The main tools you'll be putting to use are the trusty mop, a trash bag, space cleaner, and one of the three different buckets.
+## Pulizia
+Ora, andiamo al (figurativo) olio di gomito. Siamo qui per pulire, giusto? Manteniamola semplice. Gli strumenti principali che userai sono il fidato mocio, un sacco della spazzatura, il pulitore spaziale e uno dei tre diversi secchi.
 
-Mopping: Fill your cart up with water, then, find some puddles! Wet your mop, and wipe them up, the resulting water puddle will dry after a short time. Don't forget the wet floor signs!
-- To drain your cart, drag it (with your cursor) onto a floor drain. This will dump all the fluids inside! Floor drains can usually be found somewhere in medical, the kitchen freezer, and of course, the janitor closet.
+Mocio: Riempire il tuo carrello con acqua, poi, trova delle pozzanghere! Bagna il tuo mocio e asciugale, la pozzanghera risultante si asciugherà dopo un breve periodo. Non dimenticare i cartelli di pavimento bagnato!
+- Per svuotare il tuo carrello, trascinalo (con il cursore) su uno scarico del pavimento. Questo scaricherà tutti i fluidi all'interno! Gli scarichi del pavimento si trovano di solito in ambulatorio, nel congelatore della cucina e, naturalmente, nel ripostiglio dell'addetto alle pulizie.
 
-Trash: Place it in the bag directly, or hold it in your hand. Click -near- trash to scoop -all- nearby junk up, or click on each piece individually. Using the bag on a disposal will empty it.
-- Cargo might want some of your trash, it might be worthwhile to check in from time to time!
+Spazzatura: Mettila direttamente nel sacco o tienila in mano. Clicca vicino alla spazzatura per raccogliere -tutta- la spazzatura nelle vicinanze o clicca su ogni pezzo singolarmente. Usare il sacco su un inceneritore lo svuoterà.
+- Il cargo potrebbe volere parte della tua spazzatura, potrebbe valere la pena controllare di tanto in tanto!
 
-Space Cleaner: This miracle spray can do two things, clean graffiti, and in a pinch, clean up puddles!
-- You might be able to get more of this from chemistry.
+Pulitore Spaziale: Questo spray miracoloso può fare due cose, pulire i graffiti e, in caso di necessità, pulire le pozzanghere!
+- Potresti riuscire a ottenerne di più con della chimica.
 
-## Extra Duties
-A good janitor is always on the lookout for a bit more to do, and there are plenty of tools at your disposal. Keep an eye out for broken lights, help the chef take care of mice in the kitchen, and if you're feeling -really- generous, try to restock the vending machines and emergency closets around the station!
+## Compiti Extra
+Un buon addetto alle pulizie è sempre alla ricerca di un po' più da fare, e ci sono molti strumenti a tua disposizione. Tieni d'occhio le luci rotte, aiuta il cuoco a occuparsi dei topi in cucina e, se ti senti -davvero- generoso, prova a rifornire i distributori automatici e gli armadi di emergenza intorno alla stazione!
 
-##Additional Information:
+## Informazioni Aggiuntive:
 <GuideReagentEmbed Reagent="SpaceCleaner"/>
 <GuideReagentEmbed Reagent="Ammonia"/>
 

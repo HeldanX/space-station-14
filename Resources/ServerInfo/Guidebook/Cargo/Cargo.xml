@@ -1,13 +1,13 @@
 <Document>
   # Cargo
 
-  The Supply department, also known as [color=cyan]Cargo[/color], supplies the station with necessary resources, such as fuel and raw materials, and comfort resources, such as lottery tickets and plushies.
+  Il dipartimento delle forniture, noto anche come [color=cyan]Cargo[/color], rifornisce la stazione con risorse necessarie, come carburante e materie prime, e risorse di comfort, come biglietti della lotteria e peluche.
 
-  They raise the [color=cyan]spesos[/color] (the currency of the station) for this through many methods, such as taking bounties, selling miscellaneous items, and salvaging, allowing them to purchase a wide variety of equipment from off-station for any crew member's needs. It is Cargo's job to fulfill the needs of the rest of the station.
+  Raccoglie i [color=cyan]spesos[/color] (la valuta della stazione) attraverso vari metodi, come accettare bounty, vendere oggetti vari e fare recuperi, permettendo loro di acquistare una vasta gamma di attrezzature da fuori stazione per le necessità di ogni membro dell'equipaggio. È compito di Cargo soddisfare le esigenze del resto della stazione.
 
-  ## Personnel
+  ## Personale
 
-  Cargo is made up of [color=cyan]Cargo Technicians[/color] and [color=cyan]Salvage Specialists[/color] and is led by the [color=cyan]Quartermaster[/color].
+  Cargo è composto da [color=cyan]Tecnici di Cargo[/color] e [color=cyan]Specialisti di Recupero[/color] ed è guidato dal [color=cyan]Quartermaster[/color].
 
   <Box>
     <GuideEntityEmbed Entity="ToyFigurineCargoTech" Caption="Cargo Tech"/>
@@ -15,11 +15,11 @@
     <GuideEntityEmbed Entity="ToyFigurineQuartermaster" Caption="QM"/>
   </Box>
 
-  ## Making Money
+  ## Guadagnare Soldi
 
-  The main struggle of any Cargo department is not having enough money.
+  La principale difficoltà di qualsiasi dipartimento di Cargo è non avere abbastanza soldi.
 
-  Cargo makes their money by selling things at the [color=cyan]Trading Station[/color]. Almost everything on the station has economic value that you can sell, as seen via the [color=cyan]appraisal tool[/color]. That value then further increases when you sell it as part of a [textlink="bounty" link="CargoBounties"].
+  Cargo guadagna vendendo cose alla [color=cyan]Stazione Commerciale[/color]. Quasi tutto sulla stazione ha un valore economico che puoi vendere, come mostrato tramite lo [color=cyan]strumento di valutazione[/color]. Quel valore aumenta ulteriormente quando lo vendi come parte di un [textlink="bounty" link="CargoBounties"].
 
   <Box>
     <GuideEntityEmbed Entity="AppraisalTool"/>
@@ -27,9 +27,9 @@
     <GuideEntityEmbed Entity="CrateGenericSteel"/>
   </Box>
 
-  Upon finding something valuable, bring it to the [color=cyan]Cargo Bay[/color]. If it fits inside a [color=cyan]Crate[/color], find an empty crate and put the items in it.
+  Una volta trovato qualcosa di prezioso, portalo alla [color=cyan]Baia di Cargo[/color]. Se si adatta a una [color=cyan]Cassa[/color], trova una cassa vuota e metti gli oggetti dentro.
 
-  If the [color=cyan]Cargo Shuttle[/color] is away, you can put all the items you want to sell onto the [color=cyan]Cargo Pallets[/color]. Once the shuttle has docked at the station, you load the crates and everything else to be sold onto it.
+  Se la [color=cyan]Navetta di Cargo[/color] è lontana, puoi mettere tutti gli oggetti che vuoi vendere sui [color=cyan]Pallet di Cargo[/color]. Una volta che la navetta ha attraccato alla stazione, carica le casse e tutto il resto da vendere.
 
   <Box>
     <GuideEntityEmbed Entity="ComputerPalletConsole"/>
@@ -37,54 +37,54 @@
     <GuideEntityEmbed Entity="ComputerCargoOrders"/>
   </Box>
 
-  After the shuttle is loaded, fly it to the Trade Station. There, move the sellable items onto the green [color=cyan]Cargo Selling Pallets[/color], and then go to the [color=cyan]Cargo Sale Computer[/color] and click [italic]"Sell"[/italic].
+  Dopo che la navetta è stata caricata, falla volare alla Stazione Commerciale. Lì, sposta gli oggetti vendibili sui [color=cyan]Pallet di Vendita di Cargo[/color], e poi vai al [color=cyan]Computer di Vendita di Cargo[/color] e clicca [italic]"Sell"[/italic].
 
-  Now, you can take those spesos and bring them back to the station and deposit them into the [color=cyan]Cargo Request Computer[/color].
+  Ora, puoi prendere quei spesos e riportarli alla stazione e depositarli nel [color=cyan]Computer di Richiesta di Cargo[/color].
 
-  You can also make even more money by completing [textlink="bounties" link="CargoBounties"] or selling valuable items from [textlink="salvage" link="Salvage"].
+  Puoi anche guadagnare ancora più soldi completando [textlink="bounty" link="CargoBounties"] o vendendo oggetti di valore dal [textlink="recupero" link="Salvage"].
 
-  ## Ordering
+  ## Ordinare
 
   <Box>
     <GuideEntityEmbed Entity="ComputerCargoOrders"/>
   </Box>
 
-  Every order begins at a [color=cyan]Cargo Request Computer[/color]. First and foremost, making an order requires that Cargo has enough spesos. If Cargo doesn't have the money, get some.
+  Ogni ordine inizia da un [color=cyan]Computer di Richiesta di Cargo[/color]. Prima di tutto, fare un ordine richiede che Cargo abbia abbastanza spesos. Se Cargo non ha i soldi, procurali.
 
-  It is also the sole discretion of Cargo to fulfill any given request. If Cargo is tight on spesos, they are free to deny requests that are not immediately necessary.
+  È anche a discrezione di Cargo soddisfare qualsiasi richiesta. Se Cargo è a corto di spesos, possono rifiutare le richieste che non sono immediatamente necessarie.
 
-  To make an order, click the name of whatever is requested, provide the recipient, type an appropriate reason for why they need it, and then press "Approve" on the order.
+  Per fare un ordine, clicca sul nome di ciò che è richiesto, fornisci il destinatario, scrivi un motivo appropriato per cui ne hanno bisogno e poi premi "Approve" sull'ordine.
 
-  Sometimes a public Cargo Request Computer exists, in which case all you need to do is approve orders that people make themselves.
+  A volte esiste un Computer di Richiesta di Cargo pubblico, nel qual caso tutto ciò che devi fare è approvare gli ordini che le persone fanno da sole.
 
   <Box>
     <GuideEntityEmbed Entity="CargoPalletBuy"/>
     <GuideEntityEmbed Entity="PaperCargoInvoice"/>
   </Box>
 
-  Then, to collect the order, it must be transported back to the station from the [color=cyan]Trading Station[/color].
+  Poi, per raccogliere l'ordine, deve essere trasportato alla stazione dalla [color=cyan]Stazione Commerciale[/color].
 
-  In the Trading Station, on the [color=cyan]Cargo Buying Pallets[/color], is a crate holding that order. Load it onto the shuttle and fly it back.
+  Nella Stazione Commerciale, sui [color=cyan]Pallet di Acquisto di Cargo[/color], c'è una cassa che contiene quell'ordine. Caricala sulla navetta e riportala indietro.
 
-  Once it is at the Cargo Dock, you can read the [color=cyan]Cargo Invoice[/color] label on it to find out the intended recipient. Finally, deliver it to them.
+  Una volta alla Baia di Cargo, puoi leggere l'[color=cyan]Fattura di Cargo[/color] per trovare il destinatario. Infine, consegnala a loro.
 
-  ## Piloting
+  ## Pilotaggio
 
-  Orders are delivered to the station via the orbiting [color=cyan]Trade Station[/color] and are transported to the main station by the [color=cyan]Cargo Shuttle[color]. The shuttle does not fly itself, so it must either be piloted in the shuttle or remotely.
+  Gli ordini vengono consegnati alla stazione tramite la [color=cyan]Stazione Commerciale[/color] orbitante e sono trasportati alla stazione principale dalla [color=cyan]Navetta di Cargo[/color]. La navetta non vola da sola, quindi deve essere pilotata o sulla navetta o a distanza.
 
   <Box>
     <GuideEntityEmbed Entity="ComputerCargoShuttle"/>
   </Box>
 
-  To fly the shuttle, you must first find the [color=cyan]Cargo Shuttle Console[/color]. One is inside the Cargo Bay, and the other is inside the Cargo Shuttle.
+  Per pilotare la navetta, devi prima trovare il [color=cyan]Console della Navetta di Cargo[/color]. Una è nella Baia di Cargo e l'altra è nella Navetta di Cargo.
 
-  After interacting with the computer, there should be a navigation view from the shuttle. Here are the steps for piloting the shuttle to and from the Trading Station:
+  Dopo aver interagito con il computer, dovrebbe esserci una vista di navigazione dalla navetta. Ecco i passaggi per pilotare la navetta verso e dalla Stazione Commerciale:
 
-  - First, switch to the [color=yellow]"DOCK"[/color] screen and [color=yellow]undock[/color] any airlocks between the shuttle and the station.
-  - Now, with the shuttle disconnected, you can pilot it. [italic]Remember that you are flying in space and momentum is conserved[/italic].
-  - The controls are [color=yellow][keybind="ShuttleStrafeUp"][/color] and [color=yellow][keybind="ShuttleStrafeDown"][/color] for strafing up and down, [color=yellow][keybind="ShuttleStrafeLeft"][/color] and [color=yellow][keybind="ShuttleStrafeRight"][/color] for strafing left and right, and [color=yellow][keybind="ShuttleRotateLeft"][/color] and [color=yellow][keybind="ShuttleRotateRight"][/color] for turning left and right. To brake, press [color=yellow][keybind="ShuttleBrake"][/color].
-  - Then pilot the shuttle to the [color=cyan]Trade Station[/color].
-  - Once you are there, [color=yellow]dock[/color] to the airlocks and you are done.
+  - Prima, passa alla schermata [color=yellow]"DOCK"[/color] e [color=yellow]disconnette[/color] qualsiasi airlock tra la navetta e la stazione.
+  - Ora, con la navetta disconnessa, puoi pilotarla. [italic]Ricorda che stai volando nello spazio e il momentum è conservato[/italic].
+  - I controlli sono [color=yellow][keybind="ShuttleStrafeUp"][/color] e [color=yellow][keybind="ShuttleStrafeDown"][/color] per spostarsi su e giù, [color=yellow][keybind="ShuttleStrafeLeft"][/color] e [color=yellow][keybind="ShuttleStrafeRight"][/color] per spostarsi a sinistra e a destra, e [color=yellow][keybind="ShuttleRotateLeft"][/color] e [color=yellow][keybind="ShuttleRotateRight"][/color] per girare a sinistra e a destra. Per frenare, premi [color=yellow][keybind="ShuttleBrake"][/color].
+  - Poi pilota la navetta verso la [color=cyan]Stazione Commerciale[/color].
+  - Una volta lì, [color=yellow]attracca[/color] agli airlock e hai finito.
 
-  [textlink="Learn about bounties, a way to maximize your on-station profits." link="CargoBounties"]
+  [textlink="Scopri i bounty, un modo per massimizzare i tuoi profitti in stazione." link="CargoBounties"]
 </Document>

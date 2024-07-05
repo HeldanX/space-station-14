@@ -1,21 +1,21 @@
 <Document>
   # Cargo Bounties
-  While [textlink="Cargo" link="Cargo"] can make [color=cyan]spesos[color] selling just about anything, more spesos can be made by fulfilling [color=cyan]bounties[/color] found through the Cargo Bounty Computer.
+  Mentre [textlink="Cargo" link="Cargo"] può fare [color=cyan]spesos[/color] vendendo praticamente qualsiasi cosa, più spesos possono essere fatti completando i [color=cyan]bounty[/color] trovati tramite il Computer dei Bounty di Cargo.
 
-  ## Starting Bounties
+  ## Iniziare i Bounty
 
   <Box>
     <GuideEntityEmbed Entity="ComputerCargoBounty"/>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
   </Box>
 
-  To start a bounty, open the bounty screen by interacting with the [color=cyan]Cargo Bounty Computer[/color]. The Cargo Bounty Computer maintains a list of all the current bounties and lets you either print out a label or skip it.
+  Per iniziare un bounty, apri la schermata dei bounty interagendo con il [color=cyan]Computer dei Bounty di Cargo[/color]. Il Computer dei Bounty di Cargo mantiene un elenco di tutti i bounty attivi e ti consente di stampare un'etichetta o saltarla.
 
-  - Printing the label gives you a [color=cyan]Bounty Manifest[/color] listing the goods that need to be acquired. You can print out infinite Bounty Manifests, so ensure you are not repeating the same work as another Cargo Technician.
+  - Stampare l'etichetta ti dà un [color=cyan]Manifesto di Bounty[/color] che elenca le merci che devono essere acquisite. Puoi stampare infiniti Manifesti di Bounty, quindi assicurati di non ripetere lo stesso lavoro di un altro Tecnico di Cargo.
 
-  - Skipping a bounty replaces that bounty with a new one, as there can only be six active bounties at any time. Skipping has a 15-minute cooldown and voids that bounty, which may anger other Cargo Technicians working on it.
+  - Saltare un bounty lo sostituisce con uno nuovo, poiché possono esserci solo sei bounty attivi alla volta. Saltare ha un cooldown di 15 minuti e annulla quel bounty, il che potrebbe far arrabbiare altri Tecnici di Cargo che ci stavano lavorando.
 
-  ## Fulfilling Bounties
+  ## Completare i Bounty
 
   <Box>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
@@ -23,13 +23,13 @@
     <GuideEntityEmbed Entity="AppraisalTool"/>
   </Box>
 
-  With the [color=cyan]Bounty Manifest[/color], it is now up to you to collect the required goods. Most departments will give you what you need by asking for it with a Bounty Manifest.
+  Con il [color=cyan]Manifesto di Bounty[/color], spetta ora a te raccogliere le merci richieste. La maggior parte dei dipartimenti ti darà ciò di cui hai bisogno chiedendolo con un Manifesto di Bounty.
 
-  Once you have collected the goods, return to the cargo bay and put the goods inside an empty [color=cyan]Crate[/color]. After everything is in the crate, close it, and then apply the Bounty Manifest to it.
+  Una volta raccolte le merci, torna al magazzino e metti le merci in una [color=cyan]Cassa[/color] vuota. Dopo aver messo tutto nella cassa, chiudila e applica il Manifesto di Bounty.
 
-  To verify the completion of a bounty, use the [color=cyan]Appraisal Tool[/color] on it. It should say that it confirms that the bounty has been completed.
+  Per verificare il completamento di un bounty, usa lo [color=cyan]Strumento di Valutazione[/color] su di esso. Dovrebbe dire che conferma che il bounty è stato completato.
 
-  ## Selling Bounties
+  ## Vendere i Bounty
 
   <Box>
     <GuideEntityEmbed Entity="PaperCargoBountyManifest"/>
@@ -37,9 +37,9 @@
     <GuideEntityEmbed Entity="CargoPalletSell"/>
   </Box>
 
-  Once you have verified that you have completed the bounty, follow the same steps as selling anything else.
+  Una volta verificato che hai completato il bounty, segui gli stessi passaggi per vendere qualsiasi altra cosa.
 
-  Just transport it to the [color=cyan]Trading Station[/color], sell it, and you are done!
+  Basta trasportarlo alla [color=cyan]Stazione di Commercio[/color], venderlo e hai finito!
 
-  When you return, there should be a new bounty to take its place.
+  Quando torni, dovrebbe esserci un nuovo bounty da prendere.
 </Document>

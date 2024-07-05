@@ -7,6 +7,6 @@ id-card-console-window-eject-button = Espelli
 id-card-console-window-insert-button = Inserisci
 id-card-console-window-job-selection-label = Impostazioni predefinite del lavoro (imposta reparto e icona del lavoro):
 
-access-id-card-console-component-no-hands-error = Non hai mani.
+access-id-card-console-component-no-hands-error = Non hai mani disponibili.
 id-card-console-privileged-id = ID privilegiato
 id-card-console-target-id = ID obiettivo

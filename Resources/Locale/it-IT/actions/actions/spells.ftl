@@ -1,1 +1,1 @@
-spell-fail-no-hands = Non hai le mani!
+spell-fail-no-hands = Non hai mani disponibili

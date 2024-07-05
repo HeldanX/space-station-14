@@ -1,4 +1,4 @@
-﻿advertisement-sectech-1 = Fracassate i crani dei sindacati!
+﻿advertisement-sectech-1 = Fracassate i crani dell'unione!
 advertisement-sectech-2 = Spacca le teste!
 advertisement-sectech-3 = Non dimenticate che il male fa bene!
 advertisement-sectech-4 = Le vostre armi sono proprio qui.

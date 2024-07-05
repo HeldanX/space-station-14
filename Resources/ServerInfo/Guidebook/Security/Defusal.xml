@@ -1,16 +1,16 @@
-﻿<Document>
-  # Large Bomb Defusal
-  So, you found a large bomb and it's beeping. These bombs take a long time to detonate and punch a big hole into the hull. Just keep reading, and nobody will explode.
+<Document>
+  # Disinnesco di Grandi Bombe
+  Quindi, hai trovato una grande bomba e sta emettendo segnali acustici. Queste bombe impiegano molto tempo a detonare e creano un grande buco nello scafo. Continua a leggere e nessuno esploderà.
 
-  ## Gear
-  You require two essential tools to perform defusal, however, a multitool is extremely helpful in terms of identifying wires.
+  ## Equipaggiamento
+  Hai bisogno di due strumenti essenziali per eseguire il disinnesco, tuttavia, un multitool è estremamente utile per identificare i fili.
   <Box>
     <GuideEntityEmbed Entity="Wirecutter"/>
     <GuideEntityEmbed Entity="Screwdriver"/>
     <GuideEntityEmbed Entity="Multitool"/>
   </Box>
 
-  For protective equipment, a [color=yellow]bomb suit[/color] or any other protective equipment can assist you in not blowing into gibs.
+  Per l'equipaggiamento protettivo, una [color=yellow]tuta anti-bomba[/color] o qualsiasi altro equipaggiamento protettivo può aiutarti a non esplodere in pezzi.
   <Box>
     <GuideEntityEmbed Entity="ClothingHeadHelmetBombSuit"/>
     <GuideEntityEmbed Entity="ClothingOuterSuitBomb"/>
@@ -18,56 +18,56 @@
     <GuideEntityEmbed Entity="ClothingOuterHardsuitAtmos"/>
   </Box>
 
-  ## Hardbombs
-  Listed below are the two common types of bombs you will encounter while defusing. A training bomb will only provide minor hull damage and generally not kill you. A syndicate bomb however will punch a big hole into the hull, and gib you if you are not wearing protective gear.
+  ## Bombe Difficili
+  Di seguito sono elencati i due tipi comuni di bombe che incontrerai durante il disinnesco. Una bomba da addestramento causerà solo danni minori allo scafo e generalmente non ti ucciderà. Una bomba dell'unione, invece, creerà un grande buco nello scafo e ti farà esplodere se non indossi equipaggiamento protettivo.
   <Box>
     <GuideEntityEmbed Entity="SyndicateBomb"/>
     <GuideEntityEmbed Entity="TrainingBomb"/>
   </Box>
 
-  ## Arming
-  To arm a bomb, you can either [color=yellow]right click[/color] and click [color=yellow]Begin countdown[/click], or [color=yellow]alt-click[/color] the bomb. It will begin beeping.
+  ## Armamento
+  Per armare una bomba, puoi [color=yellow]cliccare con il tasto destro[/color] e selezionare [color=yellow]Inizia il conto alla rovescia[/color], oppure [color=yellow]alt-cliccare[/color] la bomba. Inizierà a emettere segnali acustici.
 
-  ## Time
-  A bomb has a limited time, at a minimum of 90 and a maximum of 300. You can view the timer by examining it, unless the Proceed wire is cut. Once the timer hits zero, the bomb will detonate.
+  ## Tempo
+  Una bomba ha un tempo limitato, con un minimo di 90 e un massimo di 300. Puoi visualizzare il timer esaminandola, a meno che il filo di Proseguimento non sia stato tagliato. Una volta che il timer raggiunge lo zero, la bomba esploderà.
 
-  ## Bolts
-  By default, once armed, a bomb will bolt itself to the ground. You must find the BOLT wire and cut it to disable the bolts, after which you can unwrench it and throw it into space.
+  ## Bulloni
+  Per default, una volta armata, una bomba si bloccherà al suolo. Devi trovare il filo BULLONE e tagliarlo per disattivare i bulloni, dopodiché puoi svitarla e gettarla nello spazio.
 
-  ## Wires
-  You must access the wiring in order to defuse a bomb. You can use a [color=yellow]screwdriver[/color] to open the access panel. Inside, you will find many types of wires. In a standard syndicate bomb, there are around [color=yellow]10 wires[/color], 3 are dummy wires, [color=red]3 will cause a detonation[/color], and the rest that weren't mentioned can be found below (alongside BOOM wires). With each wire, you can do 3 actions. You can:
-  - [color=yellow]Pulse the wire[/color] with a multitool, this can help you safely identify most wires.
-  - [color=red]Cut the wire[/color] with a wirecutter, this can trigger various effects, be cautious of cutting without reason!
-  - [color=green]Mend the wire[/color] with a wirecutter, this can restore some functionality of the bomb if it isn't disposable.
+  ## Fili
+  Devi accedere ai cavi per disinnescare una bomba. Puoi usare un [color=yellow]cacciavite[/color] per aprire il pannello di accesso. All'interno troverai molti tipi di fili. In una bomba standard dell'unione, ci sono circa [color=yellow]10 fili[/color], 3 sono fili finti, [color=red]3 faranno detonare la bomba[/color], e il resto che non è stato menzionato può essere trovato di seguito (insieme ai fili BOOM). Con ogni filo, puoi fare 3 azioni. Puoi:
+  - [color=yellow]Impulsare il filo[/color] con un multitool, questo può aiutarti a identificare la maggior parte dei fili in sicurezza.
+  - [color=red]Tagliare il filo[/color] con una tronchese, questo può innescare vari effetti, fai attenzione a tagliare senza motivo!
+  - [color=green]Riparare il filo[/color] con una tronchese, questo può ripristinare alcune funzionalità della bomba se non è usa e getta.
 
-  Onward for the types of wires.
+  Andiamo avanti con i tipi di fili.
 
-  ## Wire Types
-  [color=#a4885c]Activation Wire (LIVE)[/color]
-  - [color=yellow]Pulse the wire[/color]: Pulsing the wire will make the wire chirp and delay the bomb by 30 seconds.
-  - [color=red]Cut the wire[/color]: Cutting the wire will defuse the bomb if active, otherwise, will begin the timer.
-  - [color=green]Mend the wire[/color]: Nothing.
+  ## Tipi di Fili
+  [color=#a4885c]Filo di Attivazione (LIVE)[/color]
+  - [color=yellow]Impulsare il filo[/color]: Impulsare il filo farà cinguettare il filo e ritarderà la bomba di 30 secondi.
+  - [color=red]Tagliare il filo[/color]: Tagliare il filo disinnescherà la bomba se è attiva, altrimenti inizierà il timer.
+  - [color=green]Riparare il filo[/color]: Nulla.
 
-  [color=#a4885c]Proceed Wire (PRCD)[/color]
-  - [color=yellow]Pulse the wire[/color]: Pulsing the wire will forward the time by 15 seconds.
-  - [color=red]Cut the wire[/color]: Cutting the wire will disable the timer display on examine.
-  - [color=green]Mend the wire[/color]: Nothing.
+  [color=#a4885c]Filo di Proseguimento (PRCD)[/color]
+  - [color=yellow]Impulsare il filo[/color]: Impulsare il filo farà avanzare il tempo di 15 secondi.
+  - [color=red]Tagliare il filo[/color]: Tagliare il filo disattiverà la visualizzazione del timer nell'esame.
+  - [color=green]Riparare il filo[/color]: Nulla.
 
-  [color=#a4885c]Delay Wire (DLAY)[/color]
-  - [color=yellow]Pulse the wire[/color]: Pulsing the delay wire will delay the bomb by 30 seconds.
-  - [color=red]Cut the wire[/color]: Nothing.
-  - [color=green]Mend the wire[/color]: Nothing.
+  [color=#a4885c]Filo di Ritardo (DLAY)[/color]
+  - [color=yellow]Impulsare il filo[/color]: Impulsare il filo di ritardo ritarderà la bomba di 30 secondi.
+  - [color=red]Tagliare il filo[/color]: Nulla.
+  - [color=green]Riparare il filo[/color]: Nulla.
 
-  [color=#a4885c]Boom Wire (BOOM)[/color]
-  - [color=yellow]Pulse the wire[/color]: [color=red]The bomb will explode if armed![/color]
-  - [color=red]Cut the wire[/color]: [color=red]The bomb will explode if armed![/color] Otherwise, will disable the bomb.
-  - [color=green]Mend the wire[/color]: Re-enables the bomb if disabled previously.
+  [color=#a4885c]Filo Boom (BOOM)[/color]
+  - [color=yellow]Impulsare il filo[/color]: [color=red]La bomba esploderà se è armata![/color]
+  - [color=red]Tagliare il filo[/color]: [color=red]La bomba esploderà se è armata![/color] Altrimenti, disabiliterà la bomba.
+  - [color=green]Riparare il filo[/color]: Riabilita la bomba se precedentemente disabilitata.
 
-  [color=#a4885c]Bolt Wire (BOLT)[/color]
-  - [color=yellow]Pulse the wire[/color]: Pulsing the wire will make the bolts spin.
-  - [color=red]Cut the wire[/color]: Cutting the wire will disable the bolts, throw it into space!
-  - [color=green]Mend the wire[/color]: Mending the wire will re-enable the bolts.
+  [color=#a4885c]Filo di Blocco (BOLT)[/color]
+  - [color=yellow]Impulsare il filo[/color]: Impulsare il filo farà girare i bulloni.
+  - [color=red]Tagliare il filo[/color]: Tagliare il filo disabiliterà i bulloni, gettalo nello spazio!
+  - [color=green]Riparare il filo[/color]: Riparare il filo riabiliterà i bulloni.
 
-  [color=#a4885c]Dummy Wire[/color]
-  - Dummy wires don't do anything. You can pulse, cut, and mend them freely and they will not affect the bomb at all.
+  [color=#a4885c]Filo Finto[/color]
+  - I fili finti non fanno nulla. Puoi impulsarli, tagliarli e ripararli liberamente e non influenzeranno affatto la bomba.
 </Document>

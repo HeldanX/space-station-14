@@ -1,43 +1,43 @@
 <Document>
-# Security
-Ensuring the safety of both station and crew is number one for [color=#cb0000]Security[/color]. They are ready for any situation, and [color=#cb0000]Security[/color] are on hand to maintain order and control crowds.
+# Sicurezza
+Garantire la sicurezza della stazione e dell'equipaggio è la priorità numero uno per [color=#cb0000]la Sicurezza[/color]. Sono pronti per qualsiasi situazione e [color=#cb0000]la Sicurezza[/color] è a disposizione per mantenere l'ordine e controllare la folla.
 
-They face [textlink="Syndicate Agents" link="Traitors"], [textlink="Nuclear Operatives" link="NuclearOperatives"], [textlink="Zombies" link="Zombies"] and unruly staff.
+Affrontano [textlink="Agenti dell'Unione" link="Traitors"], [textlink="Operatori Nucleari" link="NuclearOperatives"], [textlink="Zombie" link="Zombies"] e personale indisciplinato.
 
-## Personnel
-[color=#cb0000]Security[/color]'s staff is made up of Security Cadets, Security Officers, and the Detective. [color=#cb0000]Security[/color] is run by the Warden and Head of Security.
+## Personale
+Il personale della [color=#cb0000]Sicurezza[/color] è composto da Cadetti di Sicurezza, Ufficiali di Sicurezza e il Detective. La [color=#cb0000]Sicurezza[/color] è gestita dal Guardiano e dal Capo della Sicurezza.
 
-  <Box>
+<Box>
     <GuideEntityEmbed Entity="ToyFigurineSecurity" Caption="Secoff"/>
     <GuideEntityEmbed Entity="ToyFigurineDetective" Caption="Detective"/>
     <GuideEntityEmbed Entity="ToyFigurineWarden" Caption="Warden"/>
     <GuideEntityEmbed Entity="ToyFigurineHeadOfSecurity" Caption="HoS"/>
-  </Box>
+</Box>
 
-## Gear
-First we have non-lethals a step above simply telling someone to cooperate with instructions. Both the stunbaton and disabler are capable of limiting the movement of an assailant, whereas handcuffs can be applied to deny a criminal free movement and access to their hands.
-  <Box>
+## Equipaggiamento
+Per iniziare, abbiamo strumenti non letali, un passo avanti rispetto a semplicemente dire a qualcuno di collaborare. Sia il manganello stordente che il disabler sono in grado di limitare i movimenti di un aggressore, mentre le manette possono essere applicate per negare a un criminale la libera circolazione e l'accesso alle loro mani.
+<Box>
     <GuideEntityEmbed Entity="Stunbaton"/>
     <GuideEntityEmbed Entity="Handcuffs"/>
-   <GuideEntityEmbed Entity="WeaponDisabler"/>
-  </Box>
+    <GuideEntityEmbed Entity="WeaponDisabler"/>
+</Box>
 
-## Flashes
-[color=#a4885c]Flashes[/color] are an effective tool for dispersing crowds and apprehending particularly evasive targets, with a large area of effect blinding all those without protection.
-It is worth noting that flashes can be both used in a large area ([color=yellow]Z[/color] hotkey) and if you attack somebody with it while [color=red]harm mode[/color] is active. Important to note that localized flashes last [color=yellow]2.5[/color] times as long as large area ones.
-[color=#cb0000]Security[/color] and [color=#a4885c]some[/color] other members of staff have eye protection from flashbangs and flashes.
-  <Box>
+## Flash
+I [color=#a4885c]flash[/color] sono uno strumento efficace per disperdere le folle e catturare obiettivi particolarmente evasivi, con un ampio effetto che acceca tutti quelli senza protezione.
+Vale la pena notare che i flash possono essere usati sia in una vasta area ([color=yellow]tasto Z[/color]) che attaccando qualcuno con esso mentre la [color=red]modalità di danno[/color] è attiva. È importante notare che i flash localizzati durano [color=yellow]2.5[/color] volte più a lungo di quelli ad area vasta.
+[color=#cb0000]La Sicurezza[/color] e [color=#a4885c]alcuni[/color] altri membri del personale hanno protezioni oculari contro flashbang e flash.
+<Box>
     <GuideEntityEmbed Entity="Flash"/>
     <GuideEntityEmbed Entity="ClothingEyesGlassesSecurity"/>
     <GuideEntityEmbed Entity="GrenadeFlashBang"/>
-  </Box>
+</Box>
   
-## Lethals
-Should the situation dictate, [color=#cb0000]Security[/color] have access to laser rifles, shotguns, handguns and automatic rifles able to put down substancial fire against any who would stand against the station.
-  <Box>
+## Letali
+Se la situazione lo richiede, [color=#cb0000]la Sicurezza[/color] ha accesso a fucili laser, fucili a pompa, pistole e fucili automatici in grado di fornire un fuoco sostanziale contro chiunque si opponga alla stazione.
+<Box>
     <GuideEntityEmbed Entity="WeaponLaserCarbine"/>
     <GuideEntityEmbed Entity="WeaponShotgunKammerer"/>
     <GuideEntityEmbed Entity="WeaponPistolMk58"/>
     <GuideEntityEmbed Entity="WeaponRifleLecter"/>
-  </Box>
+</Box>
 </Document>

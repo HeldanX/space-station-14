@@ -1,5 +1,4 @@
-administration-ui-round-tab-start-round = Start Round
-administration-ui-round-tab-end-round = End Round
-administration-ui-round-tab-restart-round = Restart Round
-administration-ui-round-tab-restart-round-now = Restart NOW
-
+administration-ui-round-tab-start-round = Avvia Partita
+administration-ui-round-tab-end-round = Termina Partita
+administration-ui-round-tab-restart-round = Riavvia Partita
+administration-ui-round-tab-restart-round-now = Riavvia ORA

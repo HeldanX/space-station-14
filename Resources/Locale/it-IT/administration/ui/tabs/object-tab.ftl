@@ -1,10 +1,10 @@
-﻿object-tab-entity-id = Entity ID
-object-tab-object-name = Object name
+﻿object-tab-entity-id = ID Entità
+object-tab-object-name = Nome Oggetto
 
-object-tab-object-type = Object type:
-object-tab-object-search = Search...
+object-tab-object-type = Tipo di Oggetto:
+object-tab-object-search = Cerca...
 
-object-tab-object-type-grids = Grids
-object-tab-object-type-maps = Maps
-object-tab-object-type-stations = Stations
-object-tab-refresh-button = Refresh
+object-tab-object-type-grids = Griglie
+object-tab-object-type-maps = Mappe
+object-tab-object-type-stations = Stazioni
+object-tab-refresh-button = Aggiorna

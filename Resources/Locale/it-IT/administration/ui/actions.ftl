@@ -1,13 +1,13 @@
-admin-player-actions-reason = Reason
-admin-player-actions-bans = Ban List
-admin-player-actions-notes = Notes
+admin-player-actions-reason = Motivo
+admin-player-actions-bans = Lista Ban
+admin-player-actions-notes = Note
 admin-player-actions-kick = Kick
 admin-player-actions-ban = Ban
-admin-player-actions-ahelp = AHelp
+admin-player-actions-ahelp = Aiuto
 admin-player-actions-respawn = Respawn
-admin-player-actions-spawn = Spawn here
-admin-player-spawn-failed = Failed to find valid coordinates
+admin-player-actions-spawn = Spawn qui
+admin-player-spawn-failed = Impossibile trovare coordinate valide
 
-admin-player-actions-clone = Clone
-admin-player-actions-follow = Follow
-admin-player-actions-confirm = Are you sure?
+admin-player-actions-clone = Clona
+admin-player-actions-follow = Segui
+admin-player-actions-confirm = Sei sicuro/a?

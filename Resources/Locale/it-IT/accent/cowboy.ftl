@@ -217,7 +217,7 @@ accent-cowboy-replacement-72 = urlato
 accent-cowboy-words-73 = urlando
 accent-cowboy-replacement-73 = urlando
 
-accent-cowboy-words-74 = sec
+accent-cowboy-words-74 = sic
 accent-cowboy-replacement-74 = legge
 
 accent-cowboy-words-75 = secoff

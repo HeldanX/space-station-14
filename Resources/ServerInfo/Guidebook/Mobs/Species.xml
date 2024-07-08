@@ -4,14 +4,14 @@
   Nanotrasen impiega una varietà di specie sapienti.
 
   <Box>
-  <GuideEntityEmbed Entity="MobArachnid" Caption="Aracnide"/>
+  <GuideEntityEmbed Entity="MobArachnid" Caption="Aracnidi"/>
   <GuideEntityEmbed Entity="MobDiona" Caption="Diona"/>
   <GuideEntityEmbed Entity="MobDwarf" Caption="Nano"/>
   <GuideEntityEmbed Entity="MobHuman" Caption="Umano"/>
   </Box>
   <Box>
   <GuideEntityEmbed Entity="MobMoth" Caption="Popolo Falena"/>
-  <GuideEntityEmbed Entity="MobReptilian" Caption="Rettiliano"/>
+  <GuideEntityEmbed Entity="MobReptilian" Caption="Rettiliani"/>
   <GuideEntityEmbed Entity="MobSlimePerson" Caption="Popolo Slime"/>
   </Box>
 

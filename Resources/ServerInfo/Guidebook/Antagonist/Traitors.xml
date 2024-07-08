@@ -65,7 +65,7 @@
     <GuideEntityEmbed Entity="Hypospray" Caption="Ipospray del Capo Medico"/>
     <GuideEntityEmbed Entity="HandheldCrewMonitorEmpty" Caption="Monitor del Personale Portatile"/>
   </Box>
-  - Rubare la [color=#a4885c]Tuta</color] o il [color=#a4885c]Teletrasportatore Portatile[/color] del Direttore della Ricerca.
+  - Rubare la [color=#a4885c]Tuta[/color] o il [color=#a4885c]Teletrasportatore Portatile[/color] del Direttore della Ricerca.
   <Box>
     <GuideEntityEmbed Entity="ClothingOuterHardsuitRd" Caption="Tuta del Direttore della Ricerca"/>
     <GuideEntityEmbed Entity="HandTeleporter" Caption="Teletrasportatore Portatile"/>

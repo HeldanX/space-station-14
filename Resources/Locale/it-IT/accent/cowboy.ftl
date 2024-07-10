@@ -32,10 +32,10 @@ accent-cowboy-words-11 = borg
 accent-cowboy-replacement-11 = uomo di latta
 
 accent-cowboy-words-12 = ciao
-accent-cowboy-replacement-12 = arrivederci
+accent-cowboy-replacement-12 = saluti
 
-accent-cowboy-words-13 = cella
-accent-cowboy-replacement-13 = prigione
+accent-cowboy-words-13 = prigione
+accent-cowboy-replacement-13 = gabbia
 
 accent-cowboy-words-14 = chef
 accent-cowboy-replacement-14 = cuoco
@@ -65,7 +65,7 @@ accent-cowboy-words-22 = cyborg
 accent-cowboy-replacement-22 = uomo di latta
 
 accent-cowboy-words-23 = papà
-accent-cowboy-replacement-23 = pappy
+accent-cowboy-replacement-23 = padre
 
 accent-cowboy-words-24 = ubriaco
 accent-cowboy-replacement-24 = ciucco

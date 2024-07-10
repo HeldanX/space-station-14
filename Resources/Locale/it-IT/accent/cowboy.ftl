@@ -1,6 +1,3 @@
-Ecco il file con le parole tradotte in italiano e adattate al lessico degli spaghetti western anni '50:
-
-```plaintext
 accent-cowboy-words-1 = alcol
 accent-cowboy-replacement-1 = acqua di fuoco
 

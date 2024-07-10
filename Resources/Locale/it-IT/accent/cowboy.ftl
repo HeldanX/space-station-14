@@ -7,8 +7,8 @@ accent-cowboy-replacement-2 = creatura spaziale
 accent-cowboy-words-3 = alieni
 accent-cowboy-replacement-3 = creature spaziali
 
-accent-cowboy-words-4 = imboscata
-accent-cowboy-replacement-4 = agguato
+accent-cowboy-words-4 = agguato
+accent-cowboy-replacement-4 = imboscata
 
 accent-cowboy-words-5 = arrabbiato
 accent-cowboy-replacement-5 = furioso
@@ -20,10 +20,10 @@ accent-cowboy-words-7 = animali
 accent-cowboy-replacement-7 = bestie
 
 accent-cowboy-words-8 = arrestare
-accent-cowboy-replacement-8 = prendere al laccio
+accent-cowboy-replacement-8 = prendere al lazo
 
 accent-cowboy-words-9 = arrestato
-accent-cowboy-replacement-9 = preso al laccio
+accent-cowboy-replacement-9 = preso al lazo
 
 accent-cowboy-words-10 = bomba
 accent-cowboy-replacement-10 = dinamite

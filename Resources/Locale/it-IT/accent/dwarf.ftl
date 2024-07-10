@@ -14,7 +14,7 @@ accent-dwarf-words-5 = fare
 accent-dwarf-words-replace-5 = facere
 
 accent-dwarf-words-6 = non
-accent-dwarf-words-replace-6 = non
+accent-dwarf-words-replace-6 = nun
 
 accent-dwarf-words-7 = no
 accent-dwarf-words-replace-7 = haud

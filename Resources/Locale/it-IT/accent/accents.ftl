@@ -1,21 +1,21 @@
 # Cat accent
-accent-words-cat-1 = Meow!
+accent-words-cat-1 = Nyaaaaa!
 accent-words-cat-2 = Mow.
 accent-words-cat-3 = Mrrrow!
 accent-words-cat-4 = Hhsss!
 accent-words-cat-5 = Brrow.
-accent-words-cat-6 = Meow?
+accent-words-cat-6 = Miaooo?
 accent-words-cat-7 = Miau.
 
 # Dog accent
-accent-words-dog-1 = Bark!
+accent-words-dog-1 = Yippp!
 accent-words-dog-2 = Bork!
 accent-words-dog-3 = Woof!
 accent-words-dog-4 = Arf.
 accent-words-dog-5 = Grrr.
 
 # Mouse
-accent-words-mouse-1 = Squeak!
+accent-words-mouse-1 = Squeeeee!
 accent-words-mouse-2 = Piep!
 accent-words-mouse-3 = Chuu!
 accent-words-mouse-4 = Eeee!
@@ -29,10 +29,10 @@ accent-words-mumble-2 = Mmmf mrrfff!
 accent-words-mumble-3 = Mmmf mnnf!
 
 # Silicon
-accent-words-silicon-1 = Beep.
+accent-words-silicon-1 = Biip.
 accent-words-silicon-2 = Boop.
 accent-words-silicon-3 = Whirr.
-accent-words-silicon-4 = Beep-boop.
+accent-words-silicon-4 = Biip-boop.
 
 # Xeno
 accent-words-xeno-1 = Hiss.
@@ -43,22 +43,22 @@ accent-words-xeno-4 = Hiss...!
 # Zombie
 accent-words-zombie-1 = Gruaahhhh...
 accent-words-zombie-2 = Mmuaaaa..
-accent-words-zombie-3 = Braainnssss...
+accent-words-zombie-3 = Cerrrrvelliii...
 accent-words-zombie-4 = Grrrrr...
 accent-words-zombie-5 = Ouuaahhhhh...
 accent-words-zombie-6 = Graaaaaooohhlll...
-accent-words-zombie-7 = Brainsss... Braaaiiinnsss..
+accent-words-zombie-7 = Cervelliiiiiiii... Cerrrrveeeeellliiii..
 accent-words-zombie-8 = Braughhh...
 accent-words-zombie-9 = Breshhhh...
 accent-words-zombie-10 = Graaaaaa...
 
 # Moth Zombie
-accent-words-zombie-moth-1 = Clothessss...
-accent-words-zombie-moth-2 = Shooooesss...
-accent-words-zombie-moth-3 = Liiiiight...
-accent-words-zombie-moth-4 = Laaamps...
-accent-words-zombie-moth-5 = Haaaatsss... Hatttssss...
-accent-words-zombie-moth-6 = Scarffsss...
+accent-words-zombie-moth-1 = Tessssuuuutttooo...
+accent-words-zombie-moth-2 = Scaaaarrrpppeeee...
+accent-words-zombie-moth-3 = Luuuuuceeeeee...
+accent-words-zombie-moth-4 = Laaammmpaaaaddddaaaa...
+accent-words-zombie-moth-5 = Capppppeeeellliii... Cappelliii...
+accent-words-zombie-moth-6 = Sciaaaarppeeee...
 
 # Generic Aggressive
 accent-words-generic-aggressive-1 = Grr!

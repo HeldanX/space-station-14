@@ -1,14 +1,14 @@
 <Document>
 
-# Botanical Chemicals
+# Sostanze Chimiche Botaniche
 
-These chemicals are used by botanists. Some of the chemicals change the properties of the plants.
+Queste sostanze chimiche sono utilizzate dai botanici. Alcune di esse modificano le proprietà delle piante.
 
-<GuideReagentEmbed Reagent="Ammonia"/>
-<GuideReagentEmbed Reagent="Diethylamine"/>
-<GuideReagentEmbed Reagent="EZNutrient"/>
-<GuideReagentEmbed Reagent="Left4Zed"/>
-<GuideReagentEmbed Reagent="RobustHarvest"/>
-<GuideReagentEmbed Reagent="UnstableMutagen"/>
+<GuideReagentEmbed Reagent="Ammonia" Caption="Ammoniaca"/>
+<GuideReagentEmbed Reagent="Diethylamine" Caption="Dietilammina"/>
+<GuideReagentEmbed Reagent="EZNutrient" Caption="Nutriente EZ"/>
+<GuideReagentEmbed Reagent="Left4Zed" Caption="Left4Zed"/>
+<GuideReagentEmbed Reagent="RobustHarvest" Caption="Raccolto Robusto"/>
+<GuideReagentEmbed Reagent="UnstableMutagen" Caption="Mutageno Instabile"/>
 
 </Document>

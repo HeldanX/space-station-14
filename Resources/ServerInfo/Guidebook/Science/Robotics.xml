@@ -1,23 +1,23 @@
 <Document>
-  # Robotics
-  The science team has the ability to create several unique types of robots to suit the station's needs. In order to begin, you'll want to research [color=#a4885c]Robotics[/color] technology.
+  # Robotica
+  Il team scientifico ha la capacità di creare diversi tipi unici di robot per soddisfare le esigenze della stazione. Per iniziare, vorrai ricercare la tecnologia [color=#a4885c]Robotica[/color].
 
-  ## Exosuit Fabricator
+  ## Fabbricatore di Esoscheletri
 <Box>
-<GuideEntityEmbed Entity="ExosuitFabricator" Caption="Exosuit Fabricator"/>
+<GuideEntityEmbed Entity="ExosuitFabricator" Caption="Fabbricatore di Esoscheletri"/>
 </Box>
-  The [color=#a4885c]Exosuit Fabricator[/color] is where you'll be printing out most of the parts for your creations, such as:
-  - [textlink="Cyborg" link="Cyborgs"] limbs
-  - Mech parts and equipment
-  - Proximity sensors
+  Il [color=#a4885c]Fabbricatore di Esoscheletri[/color] è dove stamperai la maggior parte delle parti per le tue creazioni, come:
+  - arti per [textlink="Cyborg" link="Cyborgs"]
+  - Parti e attrezzature per mech
+  - Sensori di prossimità
 
-  Operating the exosuit fabricator is the same as every other lathe on the station; simply click the fabricator to open the UI, then click the icon for whatever part you want to print.
-  - Are there no recipes? click the [color=#a4885c]sync[/color] button on the UI to check for any new blueprints. If, even then, nothing shows up, you've likely not researched the relevant technology yet!
-  - If a recipe appears grayed-out, it's likely due to a lack of materials. To insert new materials (either [color=#99A3A4]steel[/color], [color=#ECF0F1]plastic[/color], or [color=#AED6F1]glass[/color]), simply click the fabricator while holding said material.
+  Utilizzare il fabbricatore di esoscheletri è lo stesso che usare qualsiasi altro tornio sulla stazione; basta cliccare sul fabbricatore per aprire l'interfaccia utente, quindi cliccare sull'icona della parte che desideri stampare.
+  - Non ci sono ricette? clicca il pulsante [color=#a4885c]sync[/color] nell'interfaccia utente per verificare la presenza di nuovi progetti. Se anche allora non appare nulla, probabilmente non hai ancora ricercato la tecnologia rilevante!
+  - Se una ricetta appare grigia, è probabilmente a causa della mancanza di materiali. Per inserire nuovi materiali (sia [color=#99A3A4]acciaio[/color], [color=#ECF0F1]plastica[/color], o [color=#AED6F1]vetro[/color]), basta cliccare sul fabbricatore mentre si tiene il materiale detto.
 
-  Every station starts with a full suite of robotics equipment by default, but you can make another fabricator if [color=#a4885c]Robotics[/color] technology is available, which will allow you to make the respective circuit board.
+  Ogni stazione inizia con una suite completa di attrezzature robotiche per impostazione predefinita, ma puoi creare un altro fabbricatore se la tecnologia [color=#a4885c]Robotica[/color] è disponibile, il che ti permetterà di creare il rispettivo circuito stampato.
 
-  ## Bots
+  ## Bot
 <Box>
 <GuideEntityEmbed Entity="MobCleanBot" Caption="Cleanbot"/>
 <GuideEntityEmbed Entity="MobMedibot" Caption="Medibot"/>
@@ -26,39 +26,39 @@
 <GuideEntityEmbed Entity="MobHonkBot" Caption="Honkbot"/>
 <GuideEntityEmbed Entity="MobMimeBot" Caption="Mimebot"/>
 </Box>
-  [color=#a4885c]Bots[/color] are small, simple automata which can perform simple tasks, such as cleaning. They don't use power cells, but are quite fragile. Making these will require parts which can be made at an exosuit fabricator.
+  I [color=#a4885c]Bot[/color] sono piccoli automi semplici che possono svolgere compiti semplici, come pulire. Non usano celle di alimentazione, ma sono piuttosto fragili. Per realizzarli saranno necessari parti che possono essere fabbricate presso un fabbricatore di esoscheletri.
 
-  To make a bot, open the [color=#a4885c]Construction Menu[/color] and go to the "Utilities" category  (or just search "bot") and you'll have the whole list of recipes. In order to assemble the bot, you must have the parts outlined by the recipe close to you and click [color=#a4885c]Build[/color], after a few seconds your newly created silicon servant should appear at your feet!
+  Per creare un bot, apri il [color=#a4885c]Menu di Costruzione[/color] e vai alla categoria "Utility" (o cerca semplicemente "bot") e avrai l'intera lista delle ricette. Per assemblare il bot, devi avere le parti delineate dalla ricetta vicino a te e cliccare su [color=#a4885c]Costruisci[/color], dopo pochi secondi il tuo nuovo servitore al silicio dovrebbe apparire ai tuoi piedi!
 
-  ## Mechs
+  ## Mech
 <Box>
 <GuideEntityEmbed Entity="MechRipley" Caption="Ripley APLU"/>
 <GuideEntityEmbed Entity="MechHonker" Caption="H.O.N.K."/>
 <GuideEntityEmbed Entity="MechHamtr" Caption="HAMTR"/>
 <GuideEntityEmbed Entity="MechVim" Caption="Vim"/>
 </Box>
-  [color=#a4885c]Mechs[/color] are giant behemoths of metal designed to carry out a variety of functions respective to their model. They are piloted by players and require power cells to function.
+  I [color=#a4885c]Mech[/color] sono giganti di metallo progettati per svolgere una varietà di funzioni rispettive al loro modello. Sono pilotati dai giocatori e richiedono celle di alimentazione per funzionare.
 
-  Each mech requires its own unique set of limbs and parts to create. These can be fabricated at the Exosuit Fabricator, the same as any other part, save for the required [color=#a4885c]circuit boards[/color], which are made at a [color=#a4885c]Circuit Board Imprinter[/color], which can normally be found in the [textlink="science" link="Science"] department.
+  Ogni mech richiede il proprio set unico di arti e parti da creare. Queste possono essere fabbricate presso il Fabbricatore di Esoscheletri, come qualsiasi altra parte, tranne i [color=#a4885c]circuiti stampati[/color] necessari, che vengono realizzati presso un [color=#a4885c]Imprinter di Circuiti Stampati[/color], che si trova normalmente nel dipartimento [textlink="scienza" link="Science"].
 <Box>
-<GuideEntityEmbed Entity="RipleyCentralElectronics" Caption="Ripley central controls module"/>
+<GuideEntityEmbed Entity="RipleyCentralElectronics" Caption="Modulo di controllo centrale di Ripley"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="RipleyPeripheralsElectronics" Caption="Ripley peripherals control module"/>
+<GuideEntityEmbed Entity="RipleyPeripheralsElectronics" Caption="Modulo di controllo periferico di Ripley"/>
 </Box>
 
-  For example, both of the circuit boards above are necessary to create a ripley mech, and cannot be used to make any other mech.
+  Ad esempio, entrambi i circuiti stampati sopra sono necessari per creare un mech ripley e non possono essere utilizzati per creare altri mech.
 
-  To start making a mech, print their harness in the fabricator and insert the limbs, you can [color=#a4885c]examine[/color] it to see how to proceed with construction once all limbs are in place.
-  - Every mech requires some combination of wires, tool usage, and their own unique circuit boards to construct after the chassis has been assembled. Most mechs have two or more unique circuit boards. For example, the [color=#a4885c]Ripley[/color] mech requires a [color=#a4885c]ripley controls module[/color] board and a [color=#a4885c]ripley peripherals module[/color] board.
-  - Mechs require large amounts of material to create - be sure to ask your fellow scientists and cargo personnel for any materials you're missing!
-  - The Vim exosuit requires a pair of borg legs and an EVA helmet, regular or syndicate, then a voice trigger and a power cell.
+  Per iniziare a creare un mech, stampa l'imbracatura nel fabbricatore e inserisci gli arti, puoi [color=#a4885c]esaminare[/color] per vedere come procedere con la costruzione una volta che tutti gli arti sono al loro posto.
+  - Ogni mech richiede una combinazione di fili, uso di strumenti e i propri circuiti stampati unici per essere costruiti dopo che il telaio è stato assemblato. La maggior parte dei mech ha due o più circuiti stampati unici. Ad esempio, il mech [color=#a4885c]Ripley[/color] richiede un [color=#a4885c]modulo di controllo centrale di ripley[/color] e un [color=#a4885c]modulo di controllo periferico di ripley[/color].
+  - I mech richiedono grandi quantità di materiali per essere creati - assicurati di chiedere ai tuoi colleghi scienziati e al personale di carico i materiali mancanti!
+  - L'esosuit Vim richiede un paio di gambe del borg e un casco EVA, normale o del sindacato, poi un attivatore vocale e una cella di alimentazione.
 
-  ## Equipment
-    A mech is nothing more than an expensive hunk of metal without their exclusive tools. Equipment can be created at the fabricator, the same as any other part.
+  ## Attrezzature
+    Un mech non è altro che un costoso pezzo di metallo senza i suoi strumenti esclusivi. L'attrezzatura può essere creata presso il fabbricatore, come qualsiasi altra parte.
 <Box>
-<GuideEntityEmbed Entity="MechEquipmentGrabber" Caption="The Hydraulic Clamp, as an example."/>
+<GuideEntityEmbed Entity="MechEquipmentGrabber" Caption="Il Morsetto Idraulico, come esempio."/>
 </Box>
-  - To install equipment, just click on the mech with the equipment in your hand.
-  - To use equipment, perform the "Cycle Equipment" action until the tool you desire is equipped.
+  - Per installare l'attrezzatura, basta cliccare sul mech con l'attrezzatura in mano.
+  - Per usare l'attrezzatura, esegui l'azione "Ciclo Attrezzatura" fino a quando lo strumento desiderato è equipaggiato.
 </Document>

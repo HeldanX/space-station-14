@@ -1,11 +1,11 @@
 <Document>
-  # Humans
+  # Umani
 
   <Box>
     <GuideEntityEmbed Entity="MobHumanDummy" Caption=""/>
   </Box>
 
-  Depending on who you ask, humans are either unremarkable or the universal standard to which everything else is compared.
-  They have no special mechanics or notable attributes.
+  A seconda di chi chiedi, gli umani sono o insignificanti o lo standard universale a cui tutto il resto viene paragonato.
+  Non hanno meccaniche speciali o attributi degni di nota.
 
 </Document>

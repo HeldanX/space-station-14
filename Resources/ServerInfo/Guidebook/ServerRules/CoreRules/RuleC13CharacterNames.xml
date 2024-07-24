@@ -1,68 +1,70 @@
+```xml
 <Document>
-  # Core Rule 13 - Use realistic character names, and do not use names of famous people
-  - No names of people or characters from the real world
-  - No titles/honorifics
-  - Must follow all other rules (no slurs/sexual names/etc)
-  - Usernames, objects, random characters, very "low effort" names, "meta" names, or otherwise implausible names cannot be used as names. See examples below.
-  - Admin rulings on IC names are final and disputes should be done through the forums, not by refusing to comply with an admin
+  # Regola di Base 13 - Usa nomi di personaggi realistici e non usare nomi di persone famose
+  - Niente nomi di persone o personaggi del mondo reale
+  - Niente titoli/onorifici
+  - Devono seguire tutte le altre regole (niente insulti/nome sessuali/ecc.)
+  - Non possono essere usati come nomi: nomi utente, oggetti, caratteri casuali, nomi molto "scarsi", nomi "meta" o nomi altrimenti implausibili. Vedi esempi sotto.
+  - Le decisioni degli amministratori sui nomi IC sono definitive e le controversie devono essere risolte tramite i forum, non rifiutandosi di conformarsi con un amministratore
 
-  Clowns and mimes are exempt from the prohibition on titles/honorifics, and have loosened restrictions on low effort and implausible names.
+  I clown e i mimi sono esenti dal divieto di titoli/onorifici e hanno restrizioni meno rigide su nomi scarsi e implausibili.
 
-  ## Clarification on "Meta" Names
-  Meta names are ones which attempt to take advantage of some game mechanic or game design choice. "Urist McHands" is a meta name because it is the default name used for admin spawned humans. "Operator Whiskey" is a meta name because it follows the naming pattern of nuclear operatives. This rule is not intended to prevent things like nuclear operatives using a fake ID with names that appear to be nuclear operative names if they decide that they want to do that.
+  ## Chiarimento sui Nomi "Meta"
+  I nomi meta sono quelli che tentano di sfruttare qualche meccanica di gioco o scelta di design del gioco. "Urist McHands" è un nome meta perché è il nome predefinito utilizzato per gli umani generati dagli amministratori. "Operativo Whiskey" è un nome meta perché segue il modello di denominazione degli operativi nucleari. Questa regola non è intesa a impedire, ad esempio, agli operativi nucleari di usare un falso ID con nomi che sembrano nomi di operativi nucleari se decidono di farlo.
 
-  ## Conventions and Examples
-  [color=#994444]Bad[/color] cannot be used by any species. [color=#449944]Acceptable[/color] names can be used by any species.
+  ## Convenzioni ed Esempi
+  [color=#994444]Scorretto[/color] non può essere usato da nessuna specie. [color=#449944]Accettabile[/color] può essere usato da qualsiasi specie.
 
-  Humans typically use the Firstname Lastname convention.
-  - [color=#449944]Acceptable:[/color] Tom Fisher
-  - [color=#449944]Acceptable:[/color] Spacey Chapman
-  - [color=#994444]Bad:[/color] Dr. Tom Fisher
-  - [color=#994444]Bad:[/color] Walter White
-  - [color=#994444]Bad:[/color] George Washington
-  - [color=#994444]Bad:[/color] Joe Biden
-  - [color=#994444]Bad:[/color] Ben Dover
-  - [color=#994444]Bad:[/color] Mike Hunt
+  Gli umani tipicamente usano la convenzione Nome Cognome.
+  - [color=#449944]Accettabile:[/color] Tom Fisher
+  - [color=#449944]Accettabile:[/color] Spacey Chapman
+  - [color=#994444]Scorretto:[/color] Dr. Tom Fisher
+  - [color=#994444]Scorretto:[/color] Walter White
+  - [color=#994444]Scorretto:[/color] George Washington
+  - [color=#994444]Scorretto:[/color] Joe Biden
+  - [color=#994444]Scorretto:[/color] Ben Dover
+  - [color=#994444]Scorretto:[/color] Mike Hunt
 
-  Dwarfs typically use the human convention in a viking theme.
-  - [color=#449944]Acceptable:[/color] Ingrid Firebreath
-  - [color=#449944]Acceptable:[/color] Erik Lightningclaw
+  I nani tipicamente usano la convenzione umana in uno stile vichingo.
+  - [color=#449944]Accettabile:[/color] Ingrid Firebreath
+  - [color=#449944]Accettabile:[/color] Erik Lightningclaw
 
-  Lizards typically use the Verb-article-Noun convention.
-  - [color=#449944]Acceptable:[/color] Cleans-the-Airlocks
-  - [color=#994444]Bad:[/color] Bans-the-Admins
+  I lucertoloidi tipicamente usano la convenzione Verbo-articolo-Sostantivo.
+  - [color=#449944]Accettabile:[/color] Pulisci-i-condotti
+  - [color=#994444]Scorretto:[/color] Banna-gli-Admins
 
-  Slimes typically have names that are onomatopoeia. A last name is optional.
-  - [color=#449944]Acceptable:[/color] Foolp Suub
-  - [color=#449944]Acceptable:[/color] Foolp
-  - [color=#994444]Bad:[/color] Slime
+  Gli slime tipicamente hanno nomi che sono onomatopee. Un cognome è opzionale.
+  - [color=#449944]Accettabile:[/color] Foolp Suub
+  - [color=#449944]Accettabile:[/color] Foolp
+  - [color=#994444]Scorretto:[/color] Slime
 
-  Diona typically have calm, nature themed, Noun of Noun style names.
-  - [color=#449944]Acceptable:[/color] Petal of Tranquility
-  - [color=#449944]Acceptable:[/color] Garden of Relaxation
-  - [color=#994444]Bad:[/color] Tree but Alive
+  I diona tipicamente hanno nomi calmi, a tema naturale, nello stile Sostantivo di Sostantivo.
+  - [color=#449944]Accettabile:[/color] Petalo della tranquillità
+  - [color=#449944]Accettabile:[/color] Giardino del relax
+  - [color=#994444]Scorretto:[/color] Albero ma vivo
 
-  Mothmen typically use latin sounding names, or light themed names.
-  - [color=#449944]Acceptable:[/color] Socrates Temnora
-  - [color=#449944]Acceptable:[/color] Sierra Lightseeker
-  - [color=#449944]Acceptable:[/color] James Nightflitter
+  I falena tipicamente usano nomi dal suono latino o nomi a tema luce.
+  - [color=#449944]Accettabile:[/color] Socrates Temnora
+  - [color=#449944]Accettabile:[/color] Sierra Cercaluce
+  - [color=#449944]Accettabile:[/color] James Filtronotturno
 
-  Arachnids typically use latin sounding names.
-  - [color=#449944]Acceptable:[/color] Argyroneta Reticulatus
-  - [color=#449944]Acceptable:[/color] Loxosceles Domesticus
-  - [color=#994444]Bad:[/color] Spider-Man
+  Gli aracnidi tipicamente usano nomi dal suono latino.
+  - [color=#449944]Accettabile:[/color] Argyroneta Reticulatus
+  - [color=#449944]Accettabile:[/color] Loxosceles Domesticus
+  - [color=#994444]Scorretto:[/color] Spider-Man
 
-  Usernames, objects, random characters, very "low effort" names, "meta" names, or otherwise implausible names are not permitted.
-  - [color=#994444]Bad:[/color] XxRobustxX
-  - [color=#994444]Bad:[/color] SDpksSodjdfk
-  - [color=#994444]Bad:[/color] Lkdsoisgoieun
-  - [color=#994444]Bad:[/color] F4ith H3arth
-  - [color=#994444]Bad:[/color] Greytide
-  - [color=#994444]Bad:[/color] Passenger
-  - [color=#994444]Bad:[/color] Urist McHands
-  - [color=#994444]Bad:[/color] Admin
-  - [color=#994444]Bad:[/color] Game-Master
-  - [color=#994444]Bad:[/color] Joe Mamma
-  - [color=#994444]Bad:[/color] Middle-Aged Man
-  - [color=#994444]Bad:[/color] Operative Whiskey
+  Non sono ammessi nomi utente, oggetti, caratteri casuali, nomi molto "scarsi", nomi "meta" o nomi altrimenti implausibili.
+  - [color=#994444]Scorretto:[/color] XxRobustxX
+  - [color=#994444]Scorretto:[/color] SDpksSodjdfk
+  - [color=#994444]Scorretto:[/color] Lkdsoisgoieun
+  - [color=#994444]Scorretto:[/color] F4ith H3arth
+  - [color=#994444]Scorretto:[/color] Greytide
+  - [color=#994444]Scorretto:[/color] Passenger
+  - [color=#994444]Scorretto:[/color] Urist McHands
+  - [color=#994444]Scorretto:[/color] Admin
+  - [color=#994444]Scorretto:[/color] Game-Master
+  - [color=#994444]Scorretto:[/color] Joe Mamma
+  - [color=#994444]Scorretto:[/color] Middle-Aged Man
+  - [color=#994444]Scorretto:[/color] Operative Whiskey
 </Document>
+```

@@ -1,18 +1,18 @@
 <Document>
-  # Species
+  # Specie
 
-  Nanotrasen employs a variety of sapient species.
+  Nanotrasen impiega una varietà di specie sapienti.
 
   <Box>
-  <GuideEntityEmbed Entity="MobArachnid" Caption="Arachnid"/>
+  <GuideEntityEmbed Entity="MobArachnid" Caption="Aracnidi"/>
   <GuideEntityEmbed Entity="MobDiona" Caption="Diona"/>
-  <GuideEntityEmbed Entity="MobDwarf" Caption="Dwarf"/>
-  <GuideEntityEmbed Entity="MobHuman" Caption="Human"/>
+  <GuideEntityEmbed Entity="MobDwarf" Caption="Nano"/>
+  <GuideEntityEmbed Entity="MobHuman" Caption="Umano"/>
   </Box>
   <Box>
-  <GuideEntityEmbed Entity="MobMoth" Caption="Moth Person"/>
-  <GuideEntityEmbed Entity="MobReptilian" Caption="Reptilian"/>
-  <GuideEntityEmbed Entity="MobSlimePerson" Caption="Slime Person"/>
+  <GuideEntityEmbed Entity="MobMoth" Caption="Popolo Falena"/>
+  <GuideEntityEmbed Entity="MobReptilian" Caption="Rettiliani"/>
+  <GuideEntityEmbed Entity="MobSlimePerson" Caption="Popolo Slime"/>
   </Box>
 
 </Document>

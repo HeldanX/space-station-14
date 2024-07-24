@@ -1,91 +1,90 @@
 <Document>
-  # Nuclear Operatives
+  # Operativi Nucleari
 
-  OPERATIVES STANDBY. YOUR OBJECTIVES ARE SIMPLE. DELIVER THE PAYLOAD AND GET OUT BEFORE THE PAYLOAD DETONATES. BEGIN MISSION.
+  OPERATIVI IN ATTESA. I VOSTRI OBIETTIVI SONO SEMPLICI. CONSEGNARE IL CARICO E USCIRE PRIMA CHE IL CARICO DETONI. INIZIA LA MISSIONE.
 
-  If you hear this message then congratulations! You have just been chosen to be a nuclear operative for the syndicate. You have one goal, to blow up the space station with a nuclear fission explosive.
+  Se senti questo messaggio, congratulazioni! Sei stato scelto come operativo nucleare per l'Unione. Il tuo obiettivo è far esplodere la stazione spaziale con un esplosivo a fissione nucleare.
 
-  ## Operatives
+  ## Operativi
 
-  Your team may contain varying amounts of three different roles:
-  - The [color=#a4885c]Syndicate Commander[/color] wears the unique commander’s hardsuit and will create or approve of the battle plan.
+  La tua squadra può contenere diversi ruoli:
+  - Il [color=#a4885c]Comandante dell'Unione[/color] indossa l'unica tuta del comandante e creerà o approverà il piano di battaglia.
   <Box>
-    <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndieCommander" Caption="Commander Hardsuit"/>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndieCommander" Caption="Tuta del Comandante"/>
   </Box>
 
-  - The [color=#a4885c]Syndicate Agent[/color] wears the blood-red medic hardsuit and can act as a combat medic for the mission.
+  - L'[color=#a4885c]Agente dell'Unione[/color] indossa la tuta medica rossa sangue e può agire come medico da combattimento per la missione.
   <Box>
-    <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndieMedic" Caption="Blood-Red Medic Hardsuit"/>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndieMedic" Caption="Tuta Medica Rossa"/>
   </Box>
 
-  - Regular [color=#a4885c]Nuclear Operatives[/color] who have the normal blood red hardsuit.
+  - Gli [color=#a4885c]Operativi Nucleari[/color] regolari che hanno la normale tuta rossa sangue.
   <Box>
-    <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndie" Caption="Blood Red Hardsuit"/>
+    <GuideEntityEmbed Entity="ClothingOuterHardsuitSyndie" Caption="Tuta Rossa Sangue"/>
   </Box>
 
-  If you have been selected for either of these special roles but don't feel ready, one of your teammates can take responsibility.
+  Se sei stato selezionato per uno di questi ruoli speciali ma non ti senti pronto, uno dei tuoi compagni di squadra può prendere il tuo posto.
 
-  ## Preparation
+  ## Preparazione
 
-  Taking on a whole station in a fight is a difficult job, luckily you are well prepared for the job. Every operative has an [color=#a4885c]Uplink[/color]. It comes with 40 [color=#a4885c]Telecrystals[/color], which you can use to purchase gear. What you get depends on the strategy picked by your commander or voted for by the team. Only your commander and agent will have passenger access, but no external airlock access. This means you will need something to hack or blast your way onto the station.  In general, you will need some weapons to protect yourself and kill the crew, something to breach doors to get where you need to go, utility items to make your job easier, and healing to not die.
-
-  <Box>
-    <GuideEntityEmbed Entity="BaseUplinkRadio40TC" Caption="The Uplink"/>
-  </Box>
-
-  ## Getting to the Station
-
-  After gearing up and creating a plan, grab a jetpack from your armory and go with your other operatives to the [color=#a4885c]Syndicate Shuttle[/color]. Here you will find some extra explosives and tools, as well as your nuke and nuke codes.
-  You will find an [color=#a4885c]IFF Console[/color] on the shuttle, it allows you to hide from other ships and mass scanners. Make sure that [color=#a4885c]Show IFF[/color] and [color=#a4885c]Show Vessel[/color] are toggled off to hide your shuttle from the crew. When everyone is ready, FTL to the station and fly to it with a jetpack. Don't forget the nuclear fission explosive on your ship if you are going to use it, and definitely don't forget the nuke codes or pinpointer.
+  Affrontare un'intera stazione in combattimento è un compito difficile, fortunatamente sei ben preparato per il lavoro. Ogni operativo ha un [color=#a4885c]Uplink[/color]. Questo viene fornito con 40 [color=#a4885c]Telecristalli[/color], che puoi utilizzare per acquistare equipaggiamento. Cosa ottenere dipende dalla strategia scelta dal tuo comandante o votata dal team. Solo il tuo comandante e agente avranno accesso come passeggeri, ma non accesso alle chiuse esterne. Ciò significa che avrai bisogno di qualcosa per hackerare o far esplodere il tuo ingresso nella stazione. In generale, avrai bisogno di alcune armi per proteggerti e uccidere l'equipaggio, qualcosa per sfondare le porte per arrivare dove devi andare, oggetti di utilità per facilitare il tuo lavoro e cure per non morire.
 
   <Box>
-    <GuideEntityEmbed Entity="JetpackBlack" Caption="A Jetpack"/>
-    <GuideEntityEmbed Entity="ComputerIFFSyndicate" Caption="The IFF Console"/>
+    <GuideEntityEmbed Entity="BaseUplinkRadio40TC" Caption="L'Uplink"/>
   </Box>
 
-  ## The Disk
+  ## Arrivare alla Stazione
 
-  You will notice that each operative starts with a [color=#a4885c]Pinpointer[/color]. This device is one of the most important items to the mission, and you should keep it with you at all times. Turn on the pinpointer when you arrive at the station and it will always point to the [color=#a4885c]Nuke Disk[/color], your next objective.
-  The nuke disk belongs to the captain, who will almost always have it on them. Follow the direction of the arrow on the pinpointer to the disk, and do whatever it takes to get it.
-
+  Dopo esserti equipaggiato e aver creato un piano, prendi un jetpack dal tuo armadietto e vai con gli altri operativi alla [color=#a4885c]Navetta dell'Unione[/color]. Qui troverai alcuni esplosivi e strumenti extra, oltre al tuo ordigno nucleare e ai codici di attivazione.
+  Troverai una [color=#a4885c]Consolle IFF[/color] sulla navetta, che ti consente di nasconderti da altre navi e scanner di massa. Assicurati che [color=#a4885c]Mostra IFF[/color] e [color=#a4885c]Mostra Nave[/color] siano disattivati per nascondere la tua navetta all'equipaggio. Quando tutti sono pronti, vai alla stazione con l'FTL e vola fino a essa con un jetpack. Non dimenticare l'esplosivo nucleare sulla tua nave se hai intenzione di usarlo e sicuramente non dimenticare i codici della bomba o il puntatore.
 
   <Box>
-    <GuideEntityEmbed Entity="PinpointerNuclear" Caption="The Pinpointer"/>
-    <GuideEntityEmbed Entity="NukeDisk" Caption="The Nuke Disk"/>
+    <GuideEntityEmbed Entity="JetpackBlack" Caption="Un Jetpack"/>
+    <GuideEntityEmbed Entity="ComputerIFFSyndicate" Caption="La Consolle IFF"/>
   </Box>
 
-  ## The Nuke
+  ## Il Disco
 
-  On your shuttle, you will find one of two [color=#a4885c]Nuclear Fission Explosives[/color] and a paper with the nuke codes. The paper will tell you which explosive it corresponds to. If the ID is the same as the one on your nuke, the codes will only work for it. If it is not, then they will only work for the explosive in the station's vault.
-
-  Once you acquire the nuke disk, put it into the nuke and use the code to arm it. It takes 30 seconds for a crewmember to disarm it, and it will count down from 300. Be prepared to defend the nuke for as long as possible, remember that escaping alive isn't necessary, but recommended.
+  Noterai che ogni operativo inizia con un [color=#a4885c]Puntatore[/color]. Questo dispositivo è uno degli oggetti più importanti della missione e dovresti tenerlo sempre con te. Accendi il puntatore quando arrivi alla stazione e punterà sempre verso il [color=#a4885c]Disco Nucleare[/color], il tuo prossimo obiettivo.
+  Il disco nucleare appartiene al capitano, che lo avrà quasi sempre con sé. Segui la direzione della freccia sul puntatore verso il disco e fai tutto il necessario per ottenerlo.
 
   <Box>
-    <GuideEntityEmbed Entity="NuclearBomb" Caption="The Nuclear Fission Explosive"/>
+    <GuideEntityEmbed Entity="PinpointerNuclear" Caption="Il Puntatore"/>
+    <GuideEntityEmbed Entity="NukeDisk" Caption="Il Disco Nucleare"/>
   </Box>
 
-  ## Victories
+  ## L'Ordigno Nucleare
 
-  The “victor” of the round is announced on the round end screen, as well as by how much they won by. The scale of the victory depends on the circumstances at the end of the round.
+  Sulla tua navetta, troverai uno dei due [color=#a4885c]Esplosivi a Fissione Nucleare[/color] e un foglio con i codici della bomba. Il foglio ti dirà a quale esplosivo corrisponde. Se l'ID è lo stesso di quello sul tuo ordigno, i codici funzioneranno solo per esso. Se non lo è, funzioneranno solo per l'esplosivo nel caveau della stazione.
 
-  [color=#a4885c]Syndicate Major Victory[/color]
-  - The nuke detonates on the station
-  - The crew escapes on the evac shuttle, but the nuke is still armed
-  - The nuke is armed and delivered to central command on the evac shuttle
+  Una volta acquisito il disco nucleare, inseriscilo nell'ordigno e usa il codice per attivarlo. Occorrono 30 secondi affinché un membro dell'equipaggio lo disattivi, e il conto alla rovescia parte da 300. Preparati a difendere l'ordigno il più a lungo possibile, ricorda che scappare vivo non è necessario, ma consigliato.
 
-  [color=#a4885c]Syndicate Minor Victory[/color]
-  - The crew escapes on evac, but every nuclear operative survives
-  - The crew escapes and some nuclear operatives die, but the crew loses the disk
+  <Box>
+    <GuideEntityEmbed Entity="NuclearBomb" Caption="L'Esplosivo a Fissione Nucleare"/>
+  </Box>
 
-  [color=#a4885c]Neutral Victory[/color]
-  - The nuke detonates off the station
+  ## Vittorie
 
-  [color=#a4885c]Crew Minor Victory[/color]
-  - The crew escapes on evac and some nuclear operatives die, but the crew keeps the disk
+  Il “vincitore” del round viene annunciato alla fine del round, così come il margine di vittoria. La scala della vittoria dipende dalle circostanze alla fine del round.
 
-  [color=#a4885c]Crew Major Victory[/color]
-  - All nuclear operatives die
-  - The crew blow up the nuclear operative outpost with the nuke
+  [color=#a4885c]Grande Vittoria dell'Unione[/color]
+  - L'ordigno esplode sulla stazione
+  - L'equipaggio fugge sulla navetta di evacuazione, ma l'ordigno è ancora armato
+  - L'ordigno è armato e consegnato al comando centrale sulla navetta di evacuazione
 
-  If you feel that you won't be able to completely win as Crew or Nuclear Operatives, consider these options for a compromise.
+  [color=#a4885c]Vittoria Minore dell'Unione[/color]
+  - L'equipaggio fugge sulla navetta di evacuazione, ma ogni operativo nucleare sopravvive
+  - L'equipaggio fugge e alcuni operativi nucleari muoiono, ma l'equipaggio perde il disco
+
+  [color=#a4885c]Vittoria Neutrale[/color]
+  - L'ordigno esplode fuori dalla stazione
+
+  [color=#a4885c]Vittoria Minore dell'Equipaggio[/color]
+  - L'equipaggio fugge sulla navetta di evacuazione e alcuni operativi nucleari muoiono, ma l'equipaggio conserva il disco
+
+  [color=#a4885c]Grande Vittoria dell'Equipaggio[/color]
+  - Tutti gli operativi nucleari muoiono
+  - L'equipaggio fa esplodere l'avamposto degli operativi nucleari con l'ordigno
+
+  Se pensi che non sarai in grado di vincere completamente come equipaggio o operativi nucleari, considera queste opzioni per un compromesso.
 </Document>

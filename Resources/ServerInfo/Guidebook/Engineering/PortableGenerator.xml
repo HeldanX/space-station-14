@@ -1,7 +1,7 @@
 <Document>
-  # Portable Generators
+  # Generatori Portatili
 
-  Need power? No engines running? The "P.A.C.M.A.N." line of portable generators has you covered.
+  Hai bisogno di energia? Nessun motore in funzione? La linea di generatori portatili "P.A.C.M.A.N." ti copre le spalle.
 
   <Box>
     <GuideEntityEmbed Entity="PortableGeneratorJrPacman" Caption="J.R.P.A.C.M.A.N." />
@@ -9,19 +9,19 @@
     <GuideEntityEmbed Entity="PortableGeneratorSuperPacman" Caption="S.U.P.E.R.P.A.C.M.A.N." />
   </Box>
 
-  # The Junior
+  ## Il Junior
 
   <Box>
     <GuideEntityEmbed Entity="PortableGeneratorJrPacman" Caption="J.R.P.A.C.M.A.N." />
     <GuideEntityEmbed Entity="WeldingFuelTank" />
   </Box>
 
-  The J.R.P.A.C.M.A.N. can be found across the station in maintenance shafts, and is ideal for crew to set up themselves whenever there are power issues.
-  Setup is incredibly easy: wrench it down above an [color=green]LV[/color] power cable, give it some welding fuel, and start it up.
+  Il J.R.P.A.C.M.A.N. può essere trovato in tutta la stazione nei condotti di manutenzione ed è ideale per l'equipaggio che deve sistemare i problemi di energia.
+  L'installazione è incredibilmente facile: fissalo sopra un cavo di alimentazione a [color=green]bassa tensione (LV)[/color], aggiungi del carburante per saldatura e avvialo.
 
-  Welding fuel should be plentiful to find around the station. In a pinch, you can even transfer some from the big tanks with a soda can or water bottle. Just remember to empty the soda can first, I don't think it likes soda as fuel.
+  Il carburante per saldatura dovrebbe essere abbondante sulla stazione. In caso di necessità, puoi persino trasferirne un po' dai grandi serbatoi con una lattina di soda o una bottiglia d'acqua. Ricorda solo di svuotare prima la lattina di soda, non credo che il generatore gradisca la soda come carburante.
 
-  # The Big Ones
+  ## I Grandi
 
   <Box>
     <GuideEntityEmbed Entity="PortableGeneratorPacman" Caption="P.A.C.M.A.N." />
@@ -33,11 +33,11 @@
     <GuideEntityEmbed Entity="SheetUranium" />
   </Box>
 
-  The (S.U.P.E.R.)P.A.C.M.A.N. is intended for usage by engineering for advanced power scenarios. Bootstrapping larger engines, powering departments, and so on.
+  I generatori (S.U.P.E.R.)P.A.C.M.A.N. sono destinati all'uso da parte degli ingegneri per scenari avanzati di alimentazione. Avvio di motori più grandi, alimentazione di dipartimenti e così via.
 
-  The S.U.P.E.R.P.A.C.M.A.N. boasts a larger power output and longer runtime at maximum output, but scales down to lower outputs less efficiently.
+  Il S.U.P.E.R.P.A.C.M.A.N. vanta una maggiore potenza di uscita e una durata più lunga a massima potenza, ma è meno efficiente a basse uscite.
 
-  They connect directly to [color=yellow]MV[/color] or [color=orange]HV[/color] power cables, and are able to switch between them for flexibility.
+  Si collegano direttamente ai cavi di alimentazione a [color=yellow]media tensione (MV)[/color] o [color=orange]alta tensione (HV)[/color], e sono in grado di passare da uno all'altro per flessibilità.
 
-  The S.U.P.E.R.P.A.C.M.A.N and P.A.C.M.A.N require uranium sheets and plasma sheets as fuel, respectively.
+  Il S.U.P.E.R.P.A.C.M.A.N. e il P.A.C.M.A.N richiedono rispettivamente lastre di uranio e lastre di plasma come carburante.
 </Document>

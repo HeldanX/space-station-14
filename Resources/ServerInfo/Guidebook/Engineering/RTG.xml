@@ -1,20 +1,20 @@
 <Document>
-  # Radioisotope Thermoelectric Generator (RTG)
+  # Generatore Termoelettrico a Radioisotopi (RTG)
 
   <Box>
     <GuideEntityEmbed Entity="GeneratorRTG" Caption="RTG" />
   </Box>
 
-  Making power using a Radioisotope Thermoelectric Generator (RTG) is similar to making power using solars.
-  RTGs only provide [color=#a4885c]10kW[/color] of power, but they provide it for free and for the entire round.
-  Basically, if you connect an RTG to your power grid, it'll give you [color=#a4885c]free power[/color].
-  However, they're only accessible through salvage finding one on an expedition. Should they bring some in, make sure to thank them!
+  Produrre energia utilizzando un Generatore Termoelettrico a Radioisotopi (RTG) è simile a produrre energia utilizzando i pannelli solari.
+  Gli RTG forniscono solo [color=#a4885c]10kW[/color] di energia, ma la forniscono gratuitamente e per tutto il turno.
+  Fondamentalmente, se colleghi un RTG alla tua rete elettrica, ti darà [color=#a4885c]energia gratuita[/color].
+  Tuttavia, sono accessibili solo attraverso il recupero, trovandone uno durante una spedizione. Se ne portano qualcuno, assicurati di ringraziarli!
 
   <Box>
-    <GuideEntityEmbed Entity="GeneratorRTGDamaged" Caption="Damaged RTG" />
+    <GuideEntityEmbed Entity="GeneratorRTGDamaged" Caption="RTG Danneggiato" />
   </Box>
-  Sometimes, RTGs appear damaged.
-  Damaged RTGs behave just like regular ones, but they're [color=yellow]radioactive[/color].
-  That means they're more dangerous, but on the bright side, you can put radiation collectors next to them to turn that radiation into more power.
-  This is usually more worthwhile, considering the power is still free, so long as you can find a safe spot to put the RTG(s) in.
+  A volte, gli RTG appaiono danneggiati.
+  Gli RTG danneggiati si comportano proprio come quelli normali, ma sono [color=yellow]radioattivi[/color].
+  Ciò significa che sono più pericolosi, ma il lato positivo è che puoi mettere dei collettori di radiazioni accanto a loro per trasformare quella radiazione in più energia.
+  Di solito ne vale la pena, considerando che l'energia è comunque gratuita, purché tu possa trovare un posto sicuro dove mettere l'RTG.
 </Document>

@@ -1,104 +1,100 @@
-﻿<Document>
-  # Roleplay Rule 4 - Do not metagame, obey the Metashield
-  Something that is "shielded" cannot be known by your character during a round until the "revealing condition" happens. This also means that your character cannot do things based on "shielded" information. Knowing or acting on something that is shielded before the revealing condition is met is referred to as metagaming.
+<Document>
+  # Regola di Gioco di Ruolo 4 - Non fare metagame, obbedisci allo Scudo Meta
+  Qualcosa che è "protetto" non può essere conosciuto dal tuo personaggio durante un turno fino a quando non si verifica la "condizione di rivelazione". Ciò significa anche che il tuo personaggio non può fare cose basate su informazioni "protette". Conoscere o agire su qualcosa che è protetto prima che la condizione di rivelazione sia soddisfatta è definito metagaming.
 
-  Revealing conditions reveal the shielded information for the round, not for a specific instance. This means that once a revealing condition is met in a round, the shield no longer applies in any case for the remainder of the round.
+  Le condizioni di rivelazione rivelano le informazioni protette per il turno, non per una specifica istanza. Ciò significa che una volta che una condizione di rivelazione è soddisfatta in un turno, la protezione non si applica più in alcun caso per il resto del turno.
 
-  ## Never Revealed IC
-  Some shields are never revealed IC. This means that your character can never act as if they know about that shielded thing.
+  ## Mai Rivelato IC (In-Character ossia In Personaggio)
+  Alcune protezioni non vengono mai rivelate IC. Ciò significa che il tuo personaggio non può mai agire come se conoscesse quella cosa protetta.
 
-  The following are shielded:
-  - Current game mode and possible antags during the current game mode.
-  - Events from previous rounds.
-  - Events you experienced as a different character.
-  - All information related to the player of a character rather than the character itself. (See "Metafriending and Metagrudging" below.)
-  - All information gained while dead or a ghost.
-  - The fact that a round will end.
+  Le seguenti sono protette:
+  - Modalità di gioco attuale e possibili antag durante la modalità di gioco attuale.
+  - Eventi dei turni precedenti.
+  - Eventi che hai vissuto come un personaggio diverso.
+  - Tutte le informazioni relative al giocatore di un personaggio piuttosto che al personaggio stesso. (Vedi "Metafriending e Metagrudging" di seguito.)
+  - Tutte le informazioni acquisite mentre eri morto o un fantasma.
+  - Il fatto che un turno finirà.
 
-  This does not prevent knowing that a shift will end, but does prohibit things like preparing to kill people at central command when roleplay rules stop being enforced on LRP.
+  Questo non impedisce di sapere che un turno finirà, ma proibisce cose come prepararsi a uccidere persone al comando centrale quando le regole di gioco di ruolo smettono di essere applicate su LRP.
 
-  ## Nuclear Operatives
+  ## Operativi Nucleari
+  L'esistenza degli Operativi Nucleari oltre un mito su cui nessuno agirebbe è protetta.
 
-  The existence of Nuclear Operatives beyond a myth that no one would act on is shielded.
+  Il fatto che il disco nucleare debba essere protetto e potrebbe essere usato da un cattivo attore per tentare di distruggere la stazione non è protetto.
 
-  The fact that the nuke disk must be protected and could be used by a bad actor to try to destroy the station is not shielded.
+  La condizione di rivelazione per questa protezione è una delle seguenti:
+  - scoprire una tuta rossa sangue
+  - scoprire la navetta di un operatore nucleare
+  - un nome di un operatore
+  - un annuncio di War Ops
+  - essere un operatore nucleare
 
-  The revealing condition for this shield is any of the following:
-  - discovering a blood red hardsuit
-  - discovering a nuclear operative's shuttle
-  - an operative name
-  - a War Ops announcement
-  - being a nuclear operative
+  ## Impianti Impiantati
+  Gli impianti impiantati sono protetti.
 
-  ## Implanted Implants
+  Gli impiantatori stessi e gli impianti non impiantati non sono protetti. Questo vieta il controllo degli impianti.
 
-  Implanted implants are shielded.
+  La condizione di rivelazione per questa protezione è una delle seguenti:
+  - scoprire un impiantatore non NT, usato o non usato
+  - scoprire una scatola di impianti non NT
+  - scoprire l'uso di un impianto non NT da parte di chiunque
+  - vivere una situazione in cui non c'è assolutamente nessun'altra spiegazione possibile
+  - scoprire un uplink sbloccato
 
-  Implanters themselves and un-implanted implants are not shielded. This prohibits implant checking.
+  ## Oggetti Camaleonte
+  Gli oggetti camaleonte sono protetti.
 
-  The revealing condition for this shield is any of the following:
-  - discovering a non-NT implanter, used or unused
-  - discovering a non-NT implant box
-  - discovering use of a non-NT implant by anyone
-  - experiencing a situation where absolutely no other explanation is possible
-  - discovering an unlocked uplink
+  Essere sospettosi che un oggetto sia falso o rubato non è protetto, ma testare gli oggetti o chiamarli camaleonte è coperto da questa protezione.
 
-  ## Chameleon Items
+  La condizione di rivelazione per questa protezione è una delle seguenti:
+  - vedere qualcuno far cambiare qualsiasi oggetto camaleonte
+  - trovare fibre di nanomacchine olografiche
+  - vivere una situazione in cui non c'è assolutamente nessun'altra spiegazione possibile
+  - scoprire un uplink sbloccato
 
-  Chameleon items are shielded.
+  ## Oggetti Stealth
+  Il fatto che un oggetto possa essere qualcosa di diverso da ciò che il suo aspetto visivo e la sua descrizione indicano è protetto.
 
-  Being suspicious of an item being fake or stolen is not shielded, but testing items or calling them chameleon is covered by this shield.
+  Questa protezione protegge gli oggetti stealth, inclusa la loro protezione dai test.
 
-  The revealing condition for this shield is any of the following:
-  - seeing someone else cause any chameleon item to change
-  - finding holographic nanomachine fibers
-  - experiencing a situation where absolutely no other explanation is possible
-  - discovering an unlocked uplink
+  La condizione di rivelazione per questa protezione è una delle seguenti:
+  - vedere l'oggetto comportarsi in modo diverso dal comportamento previsto per l'oggetto
+  - vedere l'oggetto usato per il suo scopo nascosto
+  - vivere una situazione in cui non c'è assolutamente nessun'altra spiegazione possibile
+  - scoprire un uplink sbloccato
 
-  ## Stealth Items
+  ## Emendamento MRP 1 (Medium RolePlay - Gioco di ruolo medio)
+  Una protezione impedisce al tuo personaggio di ricordare qualsiasi cosa sia accaduta mentre era incosciente. Questa protezione non viene mai rivelata IC.
 
-  The fact that an item can be something other than what its visual appearance and examine description indicate is shielded.
+  ## Emendamento MRP 2
+  Esiste una protezione "Nuova Vita". Ti impedisce di ricordare qualsiasi cosa abbia portato alla tua morte, anche se sei messo in un IUM ossia (Interfaccia Uomo-Macchina). Se sei clonato, ti impedisce anche di ricordare tutto dal turno corrente. Questa protezione non viene mai rivelata IC.
 
-  This shield protects stealth items, including protecting them from being tested.
+  ## Metafriending e Metagrudging
+  Questa sezione fornisce informazioni aggiuntive su un concetto proibito da più elementi dello scudo meta che non vengono mai rivelati IC. Dare a una persona o a un personaggio un trattamento preferenziale basato su qualcosa che il tuo personaggio non dovrebbe sapere è considerato metafriending. Trattare una persona o un personaggio negativamente basato su qualcosa che il tuo personaggio non dovrebbe sapere è considerato metagrudging.
 
-  The revealing condition for this shield is any of the following:
-  - seeing the item behave differently than the expected behavior for the item
-  - seeing the item used for its hidden purpose
-  - experiencing a situation where absolutely no other explanation is possible
-  - discovering an unlocked uplink
+  ## Esempi di Metafriending
+  Questi sono tutti esempi di cose proibite da almeno un elemento dello scudo meta che non viene mai rivelato IC.
+  - Dare a un personaggio accesso aggiuntivo o un lavoro perché sei amico del giocatore che interpreta quel personaggio.
+  - Fidarsi di un personaggio perché sei amico del giocatore che interpreta quel personaggio.
+  - Non combattere un personaggio perché sei amico del giocatore che interpreta quel personaggio.
+  - Ignorare il tuo obiettivo di uccidere un personaggio perché il tuo personaggio e il loro sono diventati amici in un turno precedente.
 
-  ## MRP Amendment 1
-  A shield prevents your character from remembering anything that happened while unconscious. This shield is never revealed IC.
+  ## Esempi di Metagrudging
+  Questi sono tutti esempi di cose proibite da almeno un elemento dello scudo meta che non viene mai rivelato IC.
+  - Non dare a un personaggio accesso aggiuntivo o un lavoro perché sei arrabbiato o non ti piace il giocatore che interpreta quel personaggio.
+  - Non fidarsi di un personaggio perché sei arrabbiato o non ti piace il giocatore che interpreta quel personaggio.
+  - Iniziare una rissa con un personaggio per qualcosa che ha fatto nel turno precedente.
+  - Iniziare una rissa con un personaggio perché ti ha ucciso mentre giocavi un personaggio diverso.
+  - Prendere di mira o molestare un personaggio basato su qualsiasi cosa che quel personaggio ha fatto al di fuori del turno corrente.
+  - Prendere di mira o molestare un personaggio basato su qualsiasi cosa che il giocatore di quel personaggio ha fatto mentre non interpretava quel personaggio.
 
-  ## MRP Amendment 2
-  There is a "New Life Rule" shield. It prevents you from remembering anything that lead to your death, even if you are put into an MMI. If you are cloned, it also prevents you from remembering everything from that round. This shield is never revealed IC.
-
-  ## Metafriending and Metagrudging
-  This section provides additional information on a concept that is prohibited by multiple metashield items that are never revealed IC. Giving a person or character preferential treatment based on something that your character should not know is considered metafriending. Treating a person or character negatively based on something that your character should not know is considered metagrudging.
-
-  ## Metafriending Examples
-  These are all examples of things that are prohibited by at least one metashield item that is never revealed IC.
-  - Giving a character additional access or a job because you are friends with the player who is playing that character.
-  - Trusting a character because you are friends with the player who is playing that character.
-  - Not fighting a character because you are friends with the player who is playing that character.
-  - Ignoring your objective to kill a character because your character and theirs became friends in a previous round.
-
-  ## Metagrudging Examples
-  These are all examples of things that are prohibited by at least one metashield item that is never revealed IC.
-  - Not giving a character additional access or a job because you are mad at or don't like the player who is playing that character.
-  - Not trusting a character because you are mad at or don't like the player who is playing that character.
-  - Starting a fight with a character because of something that they did last round.
-  - Starting a fight with a character because they killed you while you were playing a different character.
-  - Targeting or harassing a character based on anything which that character did outside the current round.
-  - Targeting or harassing a character based on anything which the character's player did while not playing the character.
-
-  ## Explicitly Not Shielded
-  The following is a list of things that are explicitly not shielded. If something is not on this list, it doesn't mean that it is shielded, but if something is on it then it definitely is not shielded.
-  - The fact that the nuke disk must be protected and could be used by a bad actor to try to destroy the station.
-  - Items that are of high value or are desired by the Syndicate, and therefore are likely targets of theft.
-  - The idea that any Syndicate agent or other bad actor has goals or objectives that they are attempting to accomplish.
-  - The number of goals or objectives that a Syndicate agent or other bad actor has.
-  - The fact that the Syndicate are enemies of Nanotrasen, and that they regularly attempt to send covert agents to spy on, sabotage, or attack Nanotrasen.
-  - A character's typical appearance. Though you should keep in mind that multiple characters can share the same name.
-  - The fact that the Syndicate have covert items capable of getting items to them, and that these items are known as uplinks.
+  ## Esplicitamente Non Protetto
+  Quanto segue è un elenco di cose che non sono esplicitamente protette. Se qualcosa non è in questo elenco, non significa che sia protetto, ma se qualcosa è in esso, allora sicuramente non è protetto.
+  - Il fatto che il disco nucleare debba essere protetto e potrebbe essere usato da un cattivo attore per tentare di distruggere la stazione.
+  - Oggetti di alto valore o desiderati dal'Unione e quindi probabili obiettivi di furto.
+  - L'idea che qualsiasi agente del'Unione o altro cattivo attore abbia obiettivi o scopi che sta cercando di raggiungere.
+  - Il numero di obiettivi o scopi che un agente del'Unione o altro cattivo attore ha.
+  - Il fatto che l'Unione sia nemico di Nanotrasen e che regolarmente tenti di inviare agenti segreti per spiare, sabotare o attaccare Nanotrasen.
+  - L'aspetto tipico di un personaggio. Anche se dovresti tenere presente che più personaggi possono condividere lo stesso nome.
+  - Il fatto che l'Unione' abbia oggetti segreti capaci di ottenere oggetti per loro, e che questi oggetti sono noti come uplink.
 </Document>

@@ -1,33 +1,28 @@
 <Document>
-  # Slime People
+  # Popolo Slime
 
   <Box>
     <GuideEntityEmbed Entity="MobSlimePerson" Caption=""/>
   </Box>
 
-  They breathe nitrogen instead of oxygen, which is abundant in the station air, but harder to find compressed into gas tanks. They take significant damage if they are sprayed or splashed with water, but can
-  (and like other species, need to) drink it safely to stay hydrated.
-  They exhale nitrous oxide and are unaffected by it.
-  Their body can process 6 reagents at the same time instead of just 2.
+  Respirano azoto invece di ossigeno, che è abbondante nell'aria della stazione, ma più difficile da trovare compresso in bombole. Subiscono danni significativi se vengono spruzzati o schizzati con acqua, ma possono (e come altre specie, devono) berla in sicurezza per rimanere idratati.
+  Espirano ossido di diazoto e ne sono immuni.
+  Il loro corpo può processare 6 reagenti contemporaneamente invece di soli 2.
 
-  Slimepeople can morph into a [bold]"geras"[/bold] (an archaic slimefolk term), which is a smaller slime form that can [bold]pass through grilles[/bold],
-  but forces them to drop their inventory and held items. It's handy for a quick getaway. A geras is small enough to pick up (with two hands)
-  and fits in a duffelbag.
+  Gli slime possono trasformarsi in un [bold]"geras"[/bold] (un termine arcaico del popolo slime), una forma di slime più piccola che può [bold]passare attraverso le griglie[/bold], ma che li costringe a lasciare il loro inventario e gli oggetti tenuti in mano. È utile per una fuga rapida. Un geras è abbastanza piccolo da essere raccolto (con due mani) e può essere inserito in una borsa a tracolla.
 
   <Box>
-    <GuideEntityEmbed Entity="MobSlimesGeras" Caption="A typical geras."/>
+    <GuideEntityEmbed Entity="MobSlimesGeras" Caption="Un tipico geras."/>
   </Box>
 
-  Slimepeople have an [bold]internal 2x2 storage inventory[/bold] inside of their slime membrane. Anyone can see what's inside and take it out of you without asking,
-  so be careful. They [bold]don't drop their internal storage when they morph into a geras, however![/bold]
+  Gli slime hanno un [bold]inventario interno 2x2[/bold] all'interno della loro membrana. Chiunque può vedere cosa c'è dentro e prenderlo senza chiedere,
+  quindi attenzione. [bold]Non perdono il loro inventario interno quando si trasformano in un geras![/bold]
 
-  Slimepeople have slight accelerated regeneration compared to other humanoids. They're also capable of hardening their fists, and as such have stronger punches,
-  although they punch a little slower.
+  Gli slime hanno una leggera rigenerazione accelerata rispetto ad altri umanoidi. Sono anche capaci di indurire i pugni, quindi hanno pugni più forti, anche se un po' più lenti.
 
-  Their slime "blood" can not be regenerated from Iron. Slime Blood is technically a source of
-  moderately filling food for other species, although drinking the blood of your coworkers is usually frowned upon.
-  They suffocate 80% slower, but take pressure damage 9% faster. This makes them by far the species most capable to survive in hard vacuum. For a while.
+  Il loro "sangue" slime non può essere rigenerato dal Ferro. Il sangue slime è tecnicamente una fonte di cibo moderatamente saziante per altre specie, anche se bere il sangue dei colleghi non è generalmente ben visto.
+  Soffocano l'80% più lentamente, ma subiscono danni da pressione il 9% più rapidamente. Questo li rende di gran lunga la specie più capace di sopravvivere nel vuoto spaziale. Per un po'.
 
-  They take [color=#1e90ff]80% less Cellular damage, 40% less Blunt damage and 20% less Poison damage[/color], but [color=#ffa500]50% more Cold damage, 20% more Slash damage and 20% more Piercing damage[/color].
+  Subiscono [color=#1e90ff]80% di danni cellulari in meno, 40% di danni da contusione in meno e 20% di danni da veleno in meno[/color], ma [color=#ffa500]50% di danni da freddo in più, 20% di danni da taglio in più e 20% di danni da perforazione in più[/color].
 
 </Document>

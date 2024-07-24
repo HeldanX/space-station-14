@@ -1,76 +1,76 @@
 <Document>
-  # Airlock Upgrades
-  It is not uncommon for plucky individuals to try and bypass an airlock by meddling with its internal wiring.
+  # Aggiornamenti dei Portelloni
+  Non è raro che individui intraprendenti tentino di bypassare un portellone manomettendo i suoi cablaggi interni.
 
-  Fortunately, certain countermeasures can installed into airlocks to inconvenience any would-be trespassers.
+  Fortunatamente, è possibile installare alcune contromisure nei portelloni per ostacolare eventuali intrusi.
 
-  ## Medium security airlocks
-  The most basic form of intrusion deterrence is to install a secured steel plating that will prevent access to internal wiring of the airlock.
+  ## Portelloni di sicurezza media
+  La forma più basilare di deterrente per le intrusioni è l'installazione di una placcatura in acciaio sicura che impedirà l'accesso ai cablaggi interni del portellone.
 
-  To upgrade a basic airlock to a medium security airlock, you will require the following materials:
+  Per aggiornare un portellone di base a un portellone di sicurezza media, avrai bisogno dei seguenti materiali:
   <Box HorizontalAlignment="Stretch">
 	  <Box>
-		  <GuideEntityEmbed Entity="SheetSteel" Caption="2 steel sheets"/>
+		  <GuideEntityEmbed Entity="SheetSteel" Caption="2 fogli di acciaio"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Screwdriver" Caption="Screwdriver"/>
+		  <GuideEntityEmbed Entity="Screwdriver" Caption="Cacciavite"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Welder" Caption="Welder"/>
+		  <GuideEntityEmbed Entity="Welder" Caption="Saldatrice"/>
 	  </Box>
   </Box>
 
-  To upgrade a basic airlock:
-  -	Use the screwdriver to open the airlock maintenance panel.
-  -	Add the steel sheets to the airlock.
-  -	Weld the steel sheets into place.
-  -	Close the maintenance panel using the screwdriver.
+  Per aggiornare un portellone di base:
+  - Usa il cacciavite per aprire il pannello di manutenzione del portellone.
+  - Aggiungi i fogli di acciaio al portellone.
+  - Salda i fogli di acciaio in posizione.
+  - Chiudi il pannello di manutenzione usando il cacciavite.
 
-  ## High security airlocks
-  For airlocks leading to the more sensitive areas of the space station, the use of stronger deterrents are advised. High security airlocks have improved armor plating to protect its internal wiring, along with an electrified security grille.
+  ## Portelloni di alta sicurezza
+  Per i portelloni che conducono alle aree più sensibili della stazione spaziale, si consiglia l'uso di deterrenti più forti. I portelloni di alta sicurezza hanno una placcatura migliorata per proteggere i cablaggi interni, insieme a una griglia di sicurezza elettrificata.
 
-  To upgrade a medium security airlock to a high security airlock, you will require the following materials:
+  Per aggiornare un portellone di sicurezza media a un portellone di alta sicurezza, avrai bisogno dei seguenti materiali:
   <Box HorizontalAlignment="Stretch">
 	  <Box>
-		  <GuideEntityEmbed Entity="SheetPlasteel" Caption="2 plasteel sheets"/>
+		  <GuideEntityEmbed Entity="SheetPlasteel" Caption="2 fogli di plasteel"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="PartRodMetal" Caption="2 metal rods"/>
+		  <GuideEntityEmbed Entity="PartRodMetal" Caption="2 aste di metallo"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Screwdriver" Caption="Screwdriver"/>
+		  <GuideEntityEmbed Entity="Screwdriver" Caption="Cacciavite"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Welder" Caption="Welder"/>
+		  <GuideEntityEmbed Entity="Welder" Caption="Saldatrice"/>
 	  </Box>
   </Box>
 
-  To upgrade a medium security airlock:
-  - Use the screwdriver to open the airlock maintenance panel.
-  - Add the plasteel sheets to the airlock.
-  - Weld the plasteel sheets into place.
-  - Add the metal rods to the airlock.
-  - Close the maintenance panel using the screwdriver.
+  Per aggiornare un portellone di sicurezza media:
+  - Usa il cacciavite per aprire il pannello di manutenzione del portellone.
+  - Aggiungi i fogli di plasteel al portellone.
+  - Salda i fogli di plasteel in posizione.
+  - Aggiungi le aste di metallo al portellone.
+  - Chiudi il pannello di manutenzione usando il cacciavite.
 
-  ## Maximum security airlocks
-  You can optionally upgrade a high security airlock to a maximum security airlock. Maximum security airlocks possess an additional layer of plasteel plating on top of its other protections.
+  ## Portelloni di massima sicurezza
+  Puoi opzionalmente aggiornare un portellone di alta sicurezza a un portellone di massima sicurezza. I portelloni di massima sicurezza possiedono uno strato aggiuntivo di placcatura in plasteel oltre alle altre protezioni.
 
-  To upgrade a high security airlock to a maximum security airlock, you will require the following materials:
+  Per aggiornare un portellone di alta sicurezza a un portellone di massima sicurezza, avrai bisogno dei seguenti materiali:
   <Box HorizontalAlignment="Stretch">
 	  <Box>
-		  <GuideEntityEmbed Entity="SheetPlasteel" Caption="2 plasteel sheets"/>
+		  <GuideEntityEmbed Entity="SheetPlasteel" Caption="2 fogli di plasteel"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Screwdriver" Caption="Screwdriver"/>
+		  <GuideEntityEmbed Entity="Screwdriver" Caption="Cacciavite"/>
 	  </Box>
 	  <Box>
-		  <GuideEntityEmbed Entity="Welder" Caption="Welder"/>
+		  <GuideEntityEmbed Entity="Welder" Caption="Saldatrice"/>
 	  </Box>
   </Box>
 
-  To upgrade a high security airlock:
-  -	Use the screwdriver to open the airlock maintenance panel.
-  -	Add the plasteel sheets to the airlock.
-  -	Weld the plasteel sheets into place.
-  -	Close the maintenance panel using the screwdriver.
+  Per aggiornare un portellone di alta sicurezza:
+  - Usa il cacciavite per aprire il pannello di manutenzione del portellone.
+  - Aggiungi i fogli di plasteel al portellone.
+  - Salda i fogli di plasteel in posizione.
+  - Chiudi il pannello di manutenzione usando il cacciavite.
 </Document>

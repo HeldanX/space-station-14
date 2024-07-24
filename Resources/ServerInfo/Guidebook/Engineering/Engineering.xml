@@ -1,29 +1,29 @@
 <Document>
-# Engineering
-[color=#f39f27]Engineering[/color] is a combination of construction work, repair work, maintaining a death machine that happens to produce power, and making sure the station contains breathable air.
+# Ingegneria
+[color=#f39f27]Ingegneria[/color] è una combinazione di lavori di costruzione, riparazione, mantenimento di una macchina mortale che produce energia e assicurarsi che la stazione contenga aria respirabile.
 
-## Personnel
-[color=#f39f27]Engineering[/color]'s staff is made up of Technical Asssistants, Station Engineers and Atmospheric Technicians. Engineering is run by the Chief Engineer.
+## Personale
+Il personale di [color=#f39f27]Ingegneria[/color] è composto da Assistenti Tecnici, Ingegneri di Stazione e Tecnici Atmosferici. L'ingegneria è gestita dal Capo Ingegnere.
 
   <Box>
-    <GuideEntityEmbed Entity="ToyFigurineEngineer" Caption="Engineer"/>
-    <GuideEntityEmbed Entity="ToyFigurineAtmosTech" Caption="Atmosian"/>
-    <GuideEntityEmbed Entity="ToyFigurineChiefEngineer" Caption="CE"/>
+    <GuideEntityEmbed Entity="ToyFigurineEngineer" Caption="Ingegnere"/>
+    <GuideEntityEmbed Entity="ToyFigurineAtmosTech" Caption="Atmosferico"/>
+    <GuideEntityEmbed Entity="ToyFigurineChiefEngineer" Caption="Capo Ingegnere"/>
   </Box>
   
-## Tools
+## Attrezzi
   <Box>
-    <GuideEntityEmbed Entity="Wrench"/>
-    <GuideEntityEmbed Entity="Crowbar"/>
-    <GuideEntityEmbed Entity="Screwdriver"/>
-    <GuideEntityEmbed Entity="Wirecutter"/>
+    <GuideEntityEmbed Entity="Wrench" Caption="Chiave inglese"/>
+    <GuideEntityEmbed Entity="Crowbar" Caption="Piede di porco"/>
+    <GuideEntityEmbed Entity="Screwdriver" Caption="Cacciavite"/>
+    <GuideEntityEmbed Entity="Wirecutter" Caption="Tronchesi"/>
   </Box>
     <Box>
-    <GuideEntityEmbed Entity="Welder"/>
-    <GuideEntityEmbed Entity="Multitool"/>
-    <GuideEntityEmbed Entity="NetworkConfigurator"/>
+    <GuideEntityEmbed Entity="Welder" Caption="Saldatrice"/>
+    <GuideEntityEmbed Entity="Multitool" Caption="Multitool"/>
+    <GuideEntityEmbed Entity="NetworkConfigurator" Caption="Configuratore di Rete"/>
   </Box>
-Your core toolset is a small variety of tools. If you're an engineer, then you should have a belt on your waist containing one of each; if not, you can likely find them in maintenance shafts and in tool storage within assorted toolboxes and vending machines.
+Il tuo set di strumenti principale è composto da una piccola varietà di attrezzi. Se sei un ingegnere, dovresti avere una cintura in vita contenente uno di ciascuno; in caso contrario, puoi probabilmente trovarli nei condotti di manutenzione e nella stanza degli attrezzi all'interno di varie cassette degli attrezzi e distributori automatici.
 
-Most tasks will have explainers for how to perform them on examination; for example, if you're constructing a wall, it'll tell you the next step if you look at it a bit closer.
+La maggior parte delle operazioni avrà delle spiegazioni su come eseguirle nell'esame; ad esempio, se stai costruendo un muro, ti dirà il passaggio successivo se lo guardi un po' più da vicino.
 </Document>

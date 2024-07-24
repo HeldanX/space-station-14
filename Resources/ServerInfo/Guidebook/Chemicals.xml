@@ -1,34 +1,34 @@
-﻿<Document>
-# Chemicals
+<Document>
+# Sostanze Chimiche
 
-Chemicals are a powerful tool that can cause a variety of effects when consumed. Some can be found in plants, purchased from cargo, or be synthesized through combination with other chemicals.
+Le sostanze chimiche sono uno strumento potente che può causare una varietà di effetti quando vengono consumate. Alcune possono essere trovate nelle piante, acquistate dal cargo o sintetizzate attraverso la combinazione con altre sostanze chimiche.
 
-Knowing different types of chemicals and their effects is important for being able to manage injury and danger.
+Conoscere i diversi tipi di sostanze chimiche e i loro effetti è importante per essere in grado di gestire lesioni e pericoli.
 
-## Elements
+## Elementi
 <GuideReagentGroupEmbed Group="Elements"/>
 
-## Medicine
+## Medicina
 <GuideReagentGroupEmbed Group="Medicine"/>
 
-## Narcotics
+## Narcotici
 <GuideReagentGroupEmbed Group="Narcotics"/>
 
-## Pyrotechnics
+## Pirotecnici
 <GuideReagentGroupEmbed Group="Pyrotechnic"/>
 
-## Toxins
+## Tossine
 <GuideReagentGroupEmbed Group="Toxins"/>
 
-## Foods
+## Cibi
 <GuideReagentGroupEmbed Group="Foods"/>
 
-## Botanical
+## Botanici
 <GuideReagentGroupEmbed Group="Botanical"/>
 
-## Biological
+## Biologici
 <GuideReagentGroupEmbed Group="Biological"/>
 
-## Other
+## Altri
 <GuideReagentGroupEmbed Group="Unknown"/>
 </Document>

@@ -1,30 +1,30 @@
-﻿<Document>
-  # Roleplay Rule 15 - Command and Security must follow Space Law
-  All non-antagonist command and security roles must obey [textlink="Space Law" link="SpaceLaw"]. This includes non-antagonists who are promoted to or gain a position during the round in any way. This also includes non-antagonists who are acting as a security role.
+<Document>
+  # Regola di Gioco di Ruolo 15 - Il Comando e la Sicurezza devono seguire la Legge Spaziale
+  Tutti i ruoli di comando e sicurezza non antagonisti devono obbedire alla [textlink="Legge Spaziale" link="SpaceLaw"]. Questo include i non-antagonisti che vengono promossi o acquisiscono una posizione durante il turno in qualsiasi modo. Questo include anche i non-antagonisti che agiscono come ruolo di sicurezza.
 
-  Space Law violations should be prioritized based on severity and the current situation.
+  Le violazioni della Legge Spaziale dovrebbero essere prioritarie in base alla gravità e alla situazione attuale.
 
-  This prohibits use of syndicate items outside extreme emergencies, including uplinks by command and security. This also prohibits the preparing of syndicate items for an emergency.
+  Questo proibisce l'uso di oggetti del sindacato al di fuori delle emergenze estreme, inclusi uplink da parte del comando e della sicurezza. Questo proibisce anche la preparazione di oggetti del sindacato per un'emergenza.
 
-  ## Examples
-  Acceptable:
-  - After a war announcement, a security officer ignores crewmembers carrying contraband so that they can focus on preparing to defend the station.
-  - A security officer disarms someone attacking them with an energy sword, then uses the sword to kill the attacker.
+  ## Esempi
+  Accettabile:
+  - Dopo un annuncio di guerra, un ufficiale di sicurezza ignora i membri dell'equipaggio che portano contrabbando per concentrarsi sulla preparazione alla difesa della stazione.
+  - Un ufficiale di sicurezza disarma qualcuno che lo attacca con una spada energetica, quindi usa la spada per uccidere l'attaccante.
 
-  Prohibited:
-  - A security officer carries around an energy sword in case of an emergency.
+  Proibito:
+  - Un ufficiale di sicurezza porta in giro una spada energetica in caso di emergenza.
 
-  Roles that are included:
-  - A security officer
-  - The Captain
-  - The Chief Engineer
-  - A passenger promoted to "bounty hunter"
-  - A mime promoted to "security mime"
+  Ruoli inclusi:
+  - Un ufficiale di sicurezza
+  - Il Capitano
+  - Il Capo Ingegnere
+  - Un passeggero promosso a "cacciatore di taglie"
+  - Un mimo promosso a "mimo di sicurezza"
 
-  Roles that are not included:
-  - A passenger
-  - The clown
-  - An antagonist in any role
-  - A cyborg
-  - A passenger who is helping to fight off nuclear operatives
+  Ruoli non inclusi:
+  - Un passeggero
+  - Il clown
+  - Un antagonista in qualsiasi ruolo
+  - Un cyborg
+  - Un passeggero che sta aiutando a combattere gli operatori nucleari
 </Document>

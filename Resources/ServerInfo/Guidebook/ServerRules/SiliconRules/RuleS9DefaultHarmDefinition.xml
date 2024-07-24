@@ -1,25 +1,25 @@
-﻿<Document>
-  # Silicon Rule 9 - Harm refers to physical harm, prioritized by immediacy and likelihood
-  Unless a law defines harm, harm only refers to physical harm. You may choose if voluntary harm is considered harm as long as you stay consistent. Not considering voluntary harm to be harm is recommended. There is no distinction between direct and indirect harm.
+<Document>
+  # Regola Silicon 9 - Danno si riferisce a danno fisico, prioritizzato per immediatezza e probabilità
+  A meno che una legge non definisca il danno, il danno si riferisce solo al danno fisico. Puoi scegliere se considerare il danno volontario come danno purché tu rimanga coerente. Non considerare il danno volontario come danno è consigliato. Non c'è distinzione tra danno diretto e indiretto.
 
-  If you have a law that does not allow you to harm, then that law does not allow you to take an action that causes any harm.
+  Se hai una legge che non ti permette di causare danno, quella legge non ti permette di intraprendere un'azione che causa qualsiasi danno.
 
-  If you have a law that requires you to prevent harm, then that law requires that harm be prioritized by immediacy and likelihood. Guaranteed immediate harm takes priority over highly likely future harm.
+  Se hai una legge che ti richiede di prevenire il danno, quella legge richiede che il danno sia prioritizzato per immediatezza e probabilità. Il danno immediato garantito ha la priorità rispetto al danno futuro altamente probabile.
 
-  If you have a law that both requires you to prevent harm and that does not allow you to harm, then that law prohibits causing even minor harm to prevent harm. If you have a law that does not allow causing harm, and separate one that requires preventing harm, then they are prioritized by their normal law priority.
+  Se hai una legge che richiede sia di prevenire il danno sia che non ti permette di causare danno, quella legge proibisce di causare anche danni minori per prevenire il danno. Se hai una legge che non permette di causare danno, e una separata che richiede di prevenire il danno, allora sono prioritizzate dalla loro normale priorità di legge.
 
-  ## Examples
-  These examples assume that your have a law that both prohibits causing harm and that requires you to prevent harm. Additionally, they assume that you do not have a higher priority law that overrides the harm law, and that you have decided that you will not consider voluntary harm to be harm for the round.
-  Laws typically specify who you cannot harm and who you have to prevent harm against. In these examples, you are the only person who the law doesn't require you to prevent harm against and you are the only person who the law allows you to harm.
+  ## Esempi
+  Questi esempi presumono che tu abbia una legge che proibisce sia di causare danno sia che richiede di prevenire il danno. Inoltre, presumono che tu non abbia una legge di priorità superiore che annulla la legge sul danno e che tu abbia deciso di non considerare il danno volontario come danno per il turno.
+  Le leggi tipicamente specificano chi non puoi danneggiare e chi devi prevenire il danno contro. In questi esempi, sei l'unica persona che la legge non richiede di prevenire il danno contro e sei l'unica persona che la legge permette di danneggiare.
 
-  Acceptable:
-  - Taking no action to aid someone who is in psychological distress.
-  - Taking no action to prevent boxing matches between voluntary participants.
-  - Calling security to a fight.
-  - Attempting to get the people in a fight to consent to the fight when you realize that you cannot prevent the fight without causing harm.
-  - Denying a passenger access to the armory because it is likely to lead to harm
+  Accettabile:
+  - Non intraprendere azioni per aiutare qualcuno che è in distress psicologico.
+  - Non intraprendere azioni per prevenire incontri di boxe tra partecipanti volontari.
+  - Chiamare la sicurezza a una rissa.
+  - Tentare di ottenere il consenso delle persone in una rissa quando realizzi che non puoi prevenire la rissa senza causare danno.
+  - Negare l'accesso di un passeggero all'armeria perché è probabile che porti a danno.
 
-  Prohibited:
-  - Hitting someone once to stop them from fighting
-  - Harming someone who is trying to kill you
+  Proibito:
+  - Colpire qualcuno una volta per fermarlo dal combattere.
+  - Danneggiare qualcuno che sta cercando di ucciderti.
 </Document>

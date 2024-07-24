@@ -1,14 +1,14 @@
-﻿<Document>
-# Space Law: Restricted Weapons
-- \[Security\] Lethal firearms, excluding: syndicate firearms, proto kinetic accelerators, glaives, daggers, crushers, the captain's saber, antique laser guns, and deckards
-- \[Security/Salvage\] Proto kinetic accelerators, glaives, daggers, and crushers
-- \[Security/Command\] The captain's saber, antique laser guns, and deckards
-- \[Salvage\] seismic charges
-- \[Atmospherics\] Fire axes
-- \[None\] Syndicate weapons
-- \[None\] Explosive devices, excluding seismic charges
-- \[None\] Swords
-- \[None\] Improvised weaponry, including baseball bats
-- \[None\] Lethal implants
-- \[None\] Other lethal weapons
+<Document>
+# Legge Spaziale: Armi Limitate
+- \[Sicurezza\] Armi da fuoco letali, escluse: armi da fuoco dell'Unione', acceleratori proto cinetici, lame, pugnali, frantumatori, sciabola del capitano, pistole laser antiche e deckards
+- \[Sicurezza/Recupero\] Acceleratori proto cinetici, lame, pugnali e frantumatori
+- \[Sicurezza/Comando\] La sciabola del capitano, pistole laser antiche e deckards
+- \[Recupero\] Cariche sismiche
+- \[Atmosferici\] Asce antincendio
+- \[Nessuno\] Armi dell'Unione
+- \[Nessuno\] Dispositivi esplosivi, escluse le cariche sismiche
+- \[Nessuno\] Spade
+- \[Nessuno\] Armi improvvisate, incluse le mazze da baseball
+- \[Nessuno\] Impianti letali
+- \[Nessuno\] Altre armi letali
 </Document>

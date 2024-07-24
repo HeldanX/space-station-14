@@ -1,26 +1,27 @@
+```xml
 <Document>
-## Starting Out
-This is not an extensive list of recipes, these listings are to showcase the basics.
+## Iniziare
+Questo non è un elenco estensivo di ricette, queste voci sono per mostrare le basi.
 
-Mixes are done in a Beaker, foods are cooked in a Microwave. Cook times will be listed.
+I mix vengono fatti in un Becher, i cibi vengono cotti in un Microonde. I tempi di cottura saranno indicati.
 
-WARNING: This is not an automatically generated list, things here may become outdated. The wiki has much more than is listed here.
+ATTENZIONE: Questo non è un elenco generato automaticamente, le cose qui potrebbero diventare obsolete. Il wiki ha molto di più di quanto elencato qui.
 
-## The Basics: Mixing
+## Le Basi: Miscelazione
 
-- Dough = 15 Flour, 10 Water
-- Cornmeal Dough = 1 Egg (6u), 10 Milk, 15 Cornmeal
-- Tortila Dough = 15 Cornmeal, 10 Water
-- Tofu = 5 Enzyme (Catalyst), 30 Soy Milk
-- Pie Dough = 2 Eggs (12u), 15 Flour, 5 Table Salt
-- Cake Batter = 2 Eggs(12u), 15 flour, 5 Sugar
-- Vegan Cake Batter = 15 Soy Milk, 15 Flour, 5 Sugar
-- Butter = 30 Milk, 5 Table Salt (Catalyst)
-- Cheese Wheel = 5 Enzyme (Catalyst), 40 Milk
-- Chèvre Log = 5 Enzyme (Catalyst), 10 Goat Milk
-- Meatball = 1 Egg (6u), 5 Flour, 5 Uncooked Animal Proteins
-- Chocolate = 6 Cocoa Powder, 2 Milk, 2 Sugar
-- Uncooked Animal Protein: Grind Raw Meat
+- Impasto = 15 Farina, 10 Acqua
+- Impasto di Farina di Mais = 1 Uovo (6u), 10 Latte, 15 Farina di Mais
+- Impasto per Tortilla = 15 Farina di Mais, 10 Acqua
+- Tofu = 5 Enzima (Catalizzatore), 30 Latte di Soia
+- Impasto per Torta = 2 Uova (12u), 15 Farina, 5 Sale da Tavola
+- Pastella per Torta = 2 Uova(12u), 15 Farina, 5 Zucchero
+- Pastella per Torta Vegana = 15 Latte di Soia, 15 Farina, 5 Zucchero
+- Burro = 30 Latte, 5 Sale da Tavola (Catalizzatore)
+- Forma di Formaggio = 5 Enzima (Catalizzatore), 40 Latte
+- Tronchetto di Chèvre = 5 Enzima (Catalizzatore), 10 Latte di Capra
+- Polpetta = 1 Uovo (6u), 5 Farina, 5 Proteine Animali Non Cotte
+- Cioccolato = 6 Polvere di Cacao, 2 Latte, 2 Zucchero
+- Proteina Animale Non Cotta: Macinare Carne Cruda
 
 <Box>
 <GuideEntityEmbed Entity="FoodDough"/>
@@ -40,31 +41,31 @@ WARNING: This is not an automatically generated list, things here may become out
 <GuideEntityEmbed Entity="FoodSnackChocolateBar"/>
 </Box>
 
-## Secondary Products
+## Prodotti Secondari
 
-- Dough Slice: Cut Dough
-- Bun: Microwave Dough Slice for 5 Seconds
-- Cutlet: Slice Raw Meat
-- Cheese Wedge: Slice Cheese Wheel
-- Flat Dough: Use a rolling pin or a round object (fire extinguisher, soda can, bottle) on Dough.
-- Tortilla Dough Slice: cut Tortilla Dough
-- Flat Tortilla Dough: Use a rolling pin or a round object (fire extinguisher, soda can, bottle) on Tortilla Dough Slice
-- Taco Shell: Microwave Flat Tortilla Dough for 5 Seconds
+- Fetta di Impasto: Tagliare l'Impasto
+- Panino: Microonde la Fetta di Impasto per 5 secondi
+- Cotoletta: Tagliare Carne Cruda
+- Spicchio di Formaggio: Tagliare Forma di Formaggio
+- Impasto Piatto: Usare un mattarello o un oggetto rotondo (estintore, lattina di soda, bottiglia) sull'Impasto.
+- Fetta di Impasto per Tortilla: Tagliare Impasto per Tortilla
+- Tortilla Piatta: Usare un mattarello o un oggetto rotondo (estintore, lattina di soda, bottiglia) sulla Fetta di Impasto per Tortilla
+- Guscio di Taco: Microonde la Tortilla Piatta per 5 secondi
 
-## Food Examples
+## Esempi di Cibo
 
-- Bread: Microwave Dough for 10 Seconds
-- Plain Burger: Microwave 1 Bun and 1 Raw Meat for 10 Seconds
-- Tomato Soup: 10u Water, 1 Bowl, and 2 Tomatoes for 10 Seconds
-- Citrus Salad: 1 Bowl, 1 Lemon, 1 Lime, 1 Orange for 5 Seconds
-- Margherita Pizza: Microwave 1 Flat Dough, 1 Cheese Wedge, and 4 Tomatoes for 30 Seconds
-- Cake: 1 Cake Batter for 15 Seconds
-- Apple Pie: 1 Pie Dough, 3 Apples, and 1 Pie Tin for 15 Seconds
-- Beef Taco: Microwave 1 Taco Shell, 1 Raw Meat Cutlet, 1 Cheese Wedge for 10 Seconds
-- Cuban Carp : Microwave 1 Dough, 1 Cheese Wedge, 1 Chili, 1 Carp Meat for 15 Seconds
-- Banana Cream Pie : Microwave 1 Pie Dough, 3 Bananas, and 1 Pie Tin for 15 Seconds
-- Carrot Fries : Microwave 1 Carrot, 15u Salt for 15 Seconds
-- Pancake : Microwave 5u Flour, 5u Milk, 1 Egg (6u) for 5 Seconds
+- Pane: Microonde l'Impasto per 10 secondi
+- Hamburger Semplice: Microonde 1 Panino e 1 Carne Cruda per 10 secondi
+- Zuppa di Pomodoro: 10u Acqua, 1 Ciotola e 2 Pomodori per 10 secondi
+- Insalata di Agrumi: 1 Ciotola, 1 Limone, 1 Lime, 1 Arancia per 5 secondi
+- Pizza Margherita: Microonde 1 Impasto Piatto, 1 Spicchio di Formaggio e 4 Pomodori per 30 secondi
+- Torta: 1 Pastella per Torta per 15 secondi
+- Torta di Mele: 1 Impasto per Torta, 3 Mele e 1 Teglia per Torta per 15 secondi
+- Taco di Manzo: Microonde 1 Guscio di Taco, 1 Cotoletta di Carne Cruda, 1 Spicchio di Formaggio per 10 secondi
+- Carpa Cubana: Microonde 1 Impasto, 1 Spicchio di Formaggio, 1 Peperoncino, 1 Carne di Carpa per 15 secondi
+- Torta alla Crema di Banana: Microonde 1 Impasto per Torta, 3 Banane e 1 Teglia per Torta per 15 secondi
+- Patatine di Carota: Microonde 1 Carota, 15u Sale per 15 secondi
+- Pancake: Microonde 5u Farina, 5u Latte, 1 Uovo (6u) per 5 secondi
 
 <Box>
 <GuideEntityEmbed Entity="FoodBreadPlain"/>

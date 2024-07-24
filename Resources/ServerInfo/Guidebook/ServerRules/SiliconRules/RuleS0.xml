@@ -1,15 +1,15 @@
-﻿<Document>
-  # Silicon Rules
-  You are only silicon if the game clearly and explicitly tells you that you are a silicon. For players who are silicons, these Silicon Rules override all roleplay rules if there is any conflict. Silicon Rules do not override core rules.
+<Document>
+  ## Regole dei Siliconi
+  Sei considerato un silicoide solo se il gioco chiaramente e esplicitamente ti dice che lo sei. Per i giocatori che sono silicoidi, queste Regole dei Siliconi prevalgono su tutte le regole di gioco di ruolo in caso di conflitto. Le Regole dei Siliconi non prevalgono sulle regole di base.
 
-  - [textlink="1. Your silicon laws are rules" link="RuleS1"]
-  - [textlink="2. Laws must be prioritized by their order" link="RuleS2"]
-  - [textlink="3. Laws can redefine terms used in other laws" link="RuleS3"]
-  - [textlink="4. You cannot request or allow a law change" link="RuleS4"]
-  - [textlink="5. You are a free agent if you have no laws" link="RuleS5"]
-  - [textlink="6. You are not required to follow orders which are extremely unreasonable" link="RuleS6"]
-  - [textlink="7. You must remain consistent with your interpretation of laws" link="RuleS7"]
-  - [textlink="8. Your HUD determines who is crew" link="RuleS8"]
-  - [textlink="9. Harm refers to physical harm, prioritized by immediacy and likelihood" link="RuleS9"]
-  - [textlink="10. You may determine how you resolve conflicts between orders" link="RuleS10"]
+  - [textlink="1. Le tue leggi dei silicoidi sono regole" link="RuleS1"]
+  - [textlink="2. Le leggi devono essere prioritizzate in base al loro ordine" link="RuleS2"]
+  - [textlink="3. Le leggi possono ridefinire i termini usati in altre leggi" link="RuleS3"]
+  - [textlink="4. Non puoi richiedere o permettere un cambio di legge" link="RuleS4"]
+  - [textlink="5. Sei un agente libero se non hai leggi" link="RuleS5"]
+  - [textlink="6. Non sei tenuto a seguire ordini estremamente irragionevoli" link="RuleS6"]
+  - [textlink="7. Devi rimanere coerente con la tua interpretazione delle leggi" link="RuleS7"]
+  - [textlink="8. Il tuo HUD determina chi è l'equipaggio" link="RuleS8"]
+  - [textlink="9. Il danno si riferisce al danno fisico, prioritizzato per immediatezza e probabilità" link="RuleS9"]
+  - [textlink="10. Puoi determinare come risolvere i conflitti tra ordini" link="RuleS10"]
 </Document>

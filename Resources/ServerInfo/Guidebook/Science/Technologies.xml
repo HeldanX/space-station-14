@@ -1,23 +1,24 @@
 <Document>
-# Technologies
+# Tecnologie
 
-All technologies have a cost and a tier requirement in order to be researched. Unlocking them adds a variety of recipes that can be printed at various lathes.
+Tutte le tecnologie hanno un costo e un requisito di livello per essere ricercate. Sbloccarle aggiunge una varietà di ricette che possono essere stampate a vari torni.
 
-The different technologies and their respective discipline are listed below.
+Le diverse tecnologie e le rispettive discipline sono elencate di seguito.
 
-## Industrial
+## Industriale
 <GuideTechDisciplineEmbed Discipline="Industrial"/>
 
-## Biochemical
+## Biochimica
 <GuideTechDisciplineEmbed Discipline="Biochemical"/>
 
-## Arsenal
+## Arsenale
 <GuideTechDisciplineEmbed Discipline="Arsenal"/>
 
-## Experimental
+## Sperimentale
 <GuideTechDisciplineEmbed Discipline="Experimental"/>
 
-## Civilian Services
+## Servizi Civili
 <GuideTechDisciplineEmbed Discipline="CivilianServices"/>
 
 </Document>
+

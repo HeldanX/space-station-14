@@ -1,20 +1,20 @@
 <Document>
-# Writing
+# Scrittura
 
-Using a pen, you can write on paper or in books. Nanotrasen provides everyone with a spare pen in their PDA.
+Usando una penna, puoi scrivere su carta o nei libri. Nanotrasen fornisce a tutti una penna di riserva nel loro PDA.
 
-## Formatting
+## Formattazione
 
-You can use the following sigils:
+Puoi usare i seguenti simboli:
 
-- [color=tan]\[color=color\]\[\/color\][/color] — to change the color of the text
-- [color=tan]\[head=n\]\[\/head\][/color] — where [italic]n[/italic] is the heading level (1 – 3)
-- [color=tan]\[bullet\/\][/color] — to insert a bullet point (useful for lists)
-- [color=tan][bold]\[bold\]\[\/bold\][/bold][/color], [color=tan][italic]\[italic\]\[\/italic\][/italic][/color] — for emphasis
+- [color=tan]\[color=color\]\[\/color\][/color] — per cambiare il colore del testo
+- [color=tan]\[head=n\]\[\/head\][/color] — dove [italic]n[/italic] è il livello dell'intestazione (1 – 3)
+- [color=tan]\[bullet\/\][/color] — per inserire un punto elenco (utile per liste)
+- [color=tan][bold]\[bold\]\[\/bold\][/bold][/color], [color=tan][italic]\[italic\]\[\/italic\][/italic][/color] — per l'enfasi
 
-You can combine [bold][italic]bold and italic[/italic][/bold] tags, or use the shortcut [color=tan][bolditalic]\[bolditalic\][/bolditalic][/color].
+Puoi combinare [bold][italic]grassetto e corsivo[/italic][/bold] tag, o usare la scorciatoia [color=tan][bolditalic]\[bolditalic\][/bolditalic][/color].
 
-Color supports either hexadecimal or most HTML color names. For example:
+I colori supportano sia il formato esadecimale che la maggior parte dei nomi di colore HTML. Per esempio:
 
 - [color=#ff0000]\[color=#ff0000\]\[\/color\][/color]
 - [color=red]\[color=red\]\[\/color\][/color]

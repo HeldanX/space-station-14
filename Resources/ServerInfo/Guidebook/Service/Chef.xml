@@ -1,11 +1,10 @@
 <Document>
-# Chef
-A fella has gotta eat, and it's the chef's job to make sure folks have something other than junk to munch on.
+# Cuoco
+Un uomo deve mangiare, ed è compito del cuoco assicurarsi che la gente abbia qualcosa di diverso dai soliti snack da sgranocchiare.
 
+[textlink="Clicca qui per vedere un elenco di ricette di cibo." link="FoodRecipes"]
 
-[textlink="Click here to see a list of food recipes." link="FoodRecipes"]
-
-First and foremost, you'll need to familiarize yourself with the kitchen, and the tools available to you.
+Prima di tutto, dovrai familiarizzare con la cucina e gli strumenti a tua disposizione.
 
 <Box>
 <GuideEntityEmbed Entity="KitchenKnife"/>
@@ -15,58 +14,58 @@ First and foremost, you'll need to familiarize yourself with the kitchen, and th
 <GuideEntityEmbed Entity="MobCow"/>
 </Box>
 <Box>
-<GuideEntityEmbed Entity="VendingMachineChefvend" Caption="Chef Vendor"/>
+<GuideEntityEmbed Entity="VendingMachineChefvend" Caption="Distributore del Cuoco"/>
 <GuideEntityEmbed Entity="KitchenMicrowave"/>
 <GuideEntityEmbed Entity="KitchenSpike"/>
-<GuideEntityEmbed Entity="VendingMachineDinnerware" Caption="Dinnerware Vend"/>
+<GuideEntityEmbed Entity="VendingMachineDinnerware" Caption="Distributore di Stoviglie"/>
 </Box>
 
-## Kitchen Prep:
+## Preparazione della Cucina:
 
-It's hard to put into words how to play chef without feeling like you're being given orders, but here are some basics.
+È difficile spiegare come fare il cuoco senza sembrare di star dando ordini, ma ecco alcune basi.
 
-- Check what you have on hand when it comes to ingredients, most kitchens have some Flour, Rice, Eggs, Monkey Cubes, and a few other things to get started with.
-- Try your hand at mixing up some dough by putting water and flour together in a beaker. (Use the sinks!)
-- Check the Wiki (or Food Recipes) guidebook for things you can make, and put all the listed ingredients into a microwave to cook it into a meal.
-- Set up mouse traps. Yes, really. It's easy to see all your hard work disappear if you don't take precautions for mice infestations.
+- Controlla cosa hai a disposizione per quanto riguarda gli ingredienti, la maggior parte delle cucine ha un po' di Farina, Riso, Uova, Cubi di Scimmia e qualche altra cosa per iniziare.
+- Prova a fare un po' di impasto mescolando acqua e farina in un becher. (Usa i lavandini!)
+- Controlla il Wiki (o il Ricettario) per le cose che puoi preparare e metti tutti gli ingredienti elencati in un microonde per cucinarli in un pasto.
+- Prepara le trappole per topi. Sì, davvero. È facile vedere tutto il tuo duro lavoro scomparire se non prendi precauzioni per le infestazioni di topi.
 
-Once you're a bit more experienced and familiar with what you can make, it might be best to put together a few menus, or a "cheat sheet" so you can give a list of ingredients to botany.
+Una volta che sarai un po' più esperto e famiavrai familiarizzato con ciò che puoi preparare, potrebbe essere meglio mettere insieme alcuni menu o un "promemoria" in modo da poter dare una lista di ingredienti ai botanici.
 
-## Mixing Dough:
-Add Flour and Water together in a beaker. (Use the sink for water!)
+## Miscelazione dell'Impasto:
+Aggiungi Farina e Acqua insieme in un becher. (Usa il lavandino per l'acqua!)
 <Box>
 <GuideEntityEmbed Entity="LargeBeaker"/>
 <GuideEntityEmbed Entity="ReagentContainerFlour"/>
-<GuideEntityEmbed Entity="DrinkWaterBottleFull" Caption="water"/>
+<GuideEntityEmbed Entity="DrinkWaterBottleFull" Caption="acqua"/>
 <GuideEntityEmbed Entity="FoodDough"/>
 </Box>
-## Making Flour:
-Place wheat in a grinder (with a beaker placed inside) and grind it up!
+## Preparazione della Farina:
+Metti il grano in un macinino (con un becher all'interno) e macinalo!
 <Box>
 <GuideEntityEmbed Entity="KitchenReagentGrinder"/>
 <GuideEntityEmbed Entity="LargeBeaker"/>
 <GuideEntityEmbed Entity="WheatBushel"/>
 <GuideEntityEmbed Entity="ReagentContainerFlour"/>
 </Box>
-## Getting Plants:
-Ask Botany for what you need, without a botanist, you may need to grow more plants yourself.
+## Ottenere Piante:
+Chiedi alla Botanica ciò di cui hai bisogno, senza un botanico, potrebbe essere necessario coltivare più piante da solo.
 <Box>
 <GuideEntityEmbed Entity="SignHydro1" Caption=" "/>
 <GuideEntityEmbed Entity="hydroponicsTray"/>
 <GuideEntityEmbed Entity="WheatBushel"/>
 <GuideEntityEmbed Entity="SignHydro2" Caption=" "/>
 </Box>
-## Gathering Milk:
-Alt-Click on a Cow with a container in your hand. (Beakers, Buckets, Milk Jugs, ect.)
+## Raccogliere Latte:
+Alt-Clic su una Mucca con un contenitore in mano. (Becher, Secchi, Boccette di Latte, ecc.)
 <Box>
 <GuideEntityEmbed Entity="Bucket"/>
 <GuideEntityEmbed Entity="MobCow"/>
 <GuideEntityEmbed Entity="DrinkMilkCarton"/>
 </Box>
-## How to Butcher:
-In most cases, you should be able to use a knife directly on a creature that's dead. It's best to do this in the freezer, as the results are... messy.
+## Come Macellare:
+Nella maggior parte dei casi, dovresti essere in grado di usare un coltello direttamente su una creatura morta. È meglio farlo nel congelatore, poiché i risultati sono... piuttosto sporchi.
 
-Monkeys, however, (and other humanoids), need to be dragged onto a meatspike to be butchered.
+Le scimmie, tuttavia, (e altri umanoidi), devono essere trascinate su un palo per carne per essere macellate.
 <Box>
 <GuideEntityEmbed Entity="KitchenSpike"/>
 <GuideEntityEmbed Entity="KitchenKnife"/>
